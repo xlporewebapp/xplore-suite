@@ -1,2 +1,50 @@
-// JS to load modules
-fetch('data.json').then(r => r.json()).then(data => console.log(data));
+let allModules = [];
+fetch('modules_detailed_v8_descriptions.json')
+  .then(res => res.json())
+  .then(data => {
+    allModules = data;
+    populateCategoryDropdown(data);
+    renderModules(data);
+  });
+
+function populateCategoryDropdown(data) {
+  const select = document.getElementById('categorySelect');
+  const cats = [...new Set(data.map(m => m.category))];
+  cats.forEach(cat => {
+    const option = document.createElement('option');
+    option.value = cat;
+    option.textContent = cat;
+    select.appendChild(option);
+  });
+}
+
+function renderModules(modules) {
+  const container = document.getElementById('moduleContainer');
+  container.innerHTML = '';
+  modules.forEach(module => {
+    const card = document.createElement('div');
+    card.className = `module-card tier-${module.tier}`;
+    const tags = module.tags.map(tag => `<span class="tag">${tag}</span>`).join('');
+    card.innerHTML = `
+      <h3>${module.icon} ${module.name}</h3>
+      <p>${module.description}</p>
+      <strong>Category:</strong> ${module.category}<br>
+      <div>${tags}</div>
+      <button onclick="alert('Installing ${module.name}')">Install</button>
+    `;
+    container.appendChild(card);
+  });
+}
+
+document.getElementById('searchInput').addEventListener('input', filterModules);
+document.getElementById('categorySelect').addEventListener('change', filterModules);
+
+function filterModules() {
+  const term = document.getElementById('searchInput').value.toLowerCase();
+  const category = document.getElementById('categorySelect').value;
+  const filtered = allModules.filter(m =>
+    (term === '' || m.name.toLowerCase().includes(term) || m.description.toLowerCase().includes(term)) &&
+    (category === 'all' || m.category === category)
+  );
+  renderModules(filtered);
+}
