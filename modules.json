@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Ecommerce Module 1",
+    "icon": "🛒",
+    "category": "ecommerce",
+    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities.",
+    "tags": [
+      "checkout",
+      "cart",
+      "products"
+    ],
+    "tier": "top",
+    "path": "modules/ecommerce/ecommerce-module-1/",
+    "thumbnail": "thumbnails/ecommerce-module-1.png"
+  },
+  {
+    "name": "Client Dream Builder 301",
+    "icon": "💡",
+    "category": "core",
+    "description": "Prompts clients to describe their business and automatically bundles the best XPLORE modules into a custom cart and platform setup.",
+    "tags": [
+      "builder",
+      "prompt",
+      "automation"
+    ],
+    "tier": "top",
+    "path": "modules/core/client-dream-builder-301/",
+    "thumbnail": "thumbnails/client-dream-builder-301.png"
+  }
+]
