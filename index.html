@@ -3,29 +3,23 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>XPLORE Suite – 320+ Modules</title>
-  <link rel="stylesheet" href="style.css" />
+  <title>XPLORE Modules</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>Welcome to XPLORE ModuleDropper v8</h1>
-    <p>Browse over <strong>320 fully customizable XPLORE modules</strong>. Click "Install" to activate inside your app suite.</p>
+    <h1>XPLORE ModuleDropper</h1>
+    <p id="moduleCount">Loading modules...</p>
   </header>
 
-  <section class="controls">
-    <input type="text" id="searchInput" placeholder="Search modules by name, tags..." />
+  <div class="controls">
+    <input type="text" id="searchInput" placeholder="Search modules..." />
     <select id="categorySelect">
       <option value="all">All Categories</option>
     </select>
-  </section>
+  </div>
 
-  <main>
-    <div id="moduleContainer" class="module-grid"></div>
-  </main>
-
-  <footer>
-    <p>XPLORE Suite &copy; 2025 – Auto-Sync + Module Loader Engine</p>
-  </footer>
+  <div id="moduleContainer" class="grid-container"></div>
 
   <script src="script.js"></script>
 </body>
