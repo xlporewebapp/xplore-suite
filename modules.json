@@ -2815,5 +2815,205 @@
     "tags": ["speed", "mobile", "seo"],
     "tier": "top",
     "path": "modules/seo/seo-module-300/"
-  }
+  },
+  {
+  "name": "Productivity Module 301",
+  "icon": "📋",
+  "category": "tools",
+  "description": "Boost team productivity with time tracking, focus tools, and smart reminders.",
+  "tags": ["time", "reminders", "focus"],
+  "tier": "mid",
+  "path": "modules/tools/productivity-module-301/",
+  "thumbnail": "thumbnails/productivity-301.png"
+},
+{
+  "name": "Media Scheduler 302",
+  "icon": "📆",
+  "category": "media",
+  "description": "Schedule and automate media content drops across multiple platforms.",
+  "tags": ["scheduler", "media", "automation"],
+  "tier": "top",
+  "path": "modules/media/media-scheduler-302/",
+  "thumbnail": "thumbnails/media-scheduler-302.png"
+},
+{
+  "name": "Compliance Tracker 303",
+  "icon": "✅",
+  "category": "tools",
+  "description": "Ensure your business stays compliant with automated policy tracking.",
+  "tags": ["compliance", "policy", "tracker"],
+  "tier": "mid",
+  "path": "modules/tools/compliance-tracker-303/",
+  "thumbnail": "thumbnails/compliance-tracker-303.png"
+},
+{
+  "name": "AI Script Builder 304",
+  "icon": "📝",
+  "category": "ai",
+  "description": "Use AI to generate custom call scripts, presentations, or sales pitches.",
+  "tags": ["ai", "scripts", "sales"],
+  "tier": "top",
+  "path": "modules/ai/ai-script-builder-304/",
+  "thumbnail": "thumbnails/ai-script-builder-304.png"
+},
+{
+  "name": "Email Template Vault 305",
+  "icon": "📧",
+  "category": "marketing",
+  "description": "Unlock 100+ pre-built marketing emails for lead nurturing and re-engagement.",
+  "tags": ["email", "templates", "marketing"],
+  "tier": "low",
+  "path": "modules/marketing/email-vault-305/",
+  "thumbnail": "thumbnails/email-vault-305.png"
+},
+{
+  "name": "Voice Note Manager 306",
+  "icon": "🎙️",
+  "category": "media",
+  "description": "Record, store, and organize voice memos or meeting notes with AI summaries.",
+  "tags": ["voice", "notes", "recording"],
+  "tier": "mid",
+  "path": "modules/media/voice-note-manager-306/",
+  "thumbnail": "thumbnails/voice-note-manager-306.png"
+},
+{
+  "name": "Recruiter Report Card 307",
+  "icon": "📊",
+  "category": "recruitment",
+  "description": "Track recruiter performance, applicant conversion rates, and bonus triggers.",
+  "tags": ["recruitment", "analytics", "reports"],
+  "tier": "top",
+  "path": "modules/recruitment/recruiter-report-card-307/",
+  "thumbnail": "thumbnails/recruiter-report-card-307.png"
+},
+{
+  "name": "Auto-Funnel Builder 308",
+  "icon": "🧲",
+  "category": "marketing",
+  "description": "Generate lead funnels using drag-and-drop logic with conversion-boosting steps.",
+  "tags": ["funnels", "automation", "leads"],
+  "tier": "top",
+  "path": "modules/marketing/auto-funnel-builder-308/",
+  "thumbnail": "thumbnails/auto-funnel-builder-308.png"
+},
+{
+  "name": "Smart Scheduler AI 309",
+  "icon": "🕓",
+  "category": "ai",
+  "description": "AI-powered scheduler that auto-books meetings based on everyone’s availability.",
+  "tags": ["scheduler", "calendar", "ai"],
+  "tier": "mid",
+  "path": "modules/ai/smart-scheduler-ai-309/",
+  "thumbnail": "thumbnails/smart-scheduler-ai-309.png"
+},
+{
+  "name": "Contract Validator 310",
+  "icon": "📄",
+  "category": "tools",
+  "description": "Scan and validate contracts with built-in e-sign and fraud flag alerts.",
+  "tags": ["contracts", "legal", "verify"],
+  "tier": "mid",
+  "path": "modules/tools/contract-validator-310/",
+  "thumbnail": "thumbnails/contract-validator-310.png"
+},
+{
+  "name": "Brand Voice Generator 311",
+  "icon": "🗣️",
+  "category": "ai",
+  "description": "Generate branded messaging using AI-trained tones and target audience profiles.",
+  "tags": ["brand", "voice", "generator"],
+  "tier": "top",
+  "path": "modules/ai/brand-voice-generator-311/",
+  "thumbnail": "thumbnails/brand-voice-generator-311.png"
+},
+{
+  "name": "Daily Task Manager 312",
+  "icon": "📅",
+  "category": "tools",
+  "description": "Plan, assign, and track daily tasks for teams with smart notifications.",
+  "tags": ["tasks", "teams", "management"],
+  "tier": "low",
+  "path": "modules/tools/daily-task-manager-312/",
+  "thumbnail": "thumbnails/daily-task-manager-312.png"
+},
+{
+  "name": "Call Whisper Mode 313",
+  "icon": "🕵️‍♂️",
+  "category": "communication",
+  "description": "Admins can whisper into agent calls for live support without clients hearing.",
+  "tags": ["whisper", "calls", "admin"],
+  "tier": "top",
+  "path": "modules/communication/call-whisper-mode-313/",
+  "thumbnail": "thumbnails/call-whisper-mode-313.png"
+},
+{
+  "name": "Digital Billboard Tool 314",
+  "icon": "🖥️",
+  "category": "marketing",
+  "description": "Create digital signage and banners for online or public ad displays.",
+  "tags": ["billboard", "ads", "design"],
+  "tier": "mid",
+  "path": "modules/marketing/digital-billboard-tool-314/",
+  "thumbnail": "thumbnails/digital-billboard-tool-314.png"
+},
+{
+  "name": "Upsell Trigger Bot 315",
+  "icon": "🔁",
+  "category": "ai",
+  "description": "Uses behavior analytics to trigger perfect-timing upsell messages.",
+  "tags": ["upsell", "ai", "triggers"],
+  "tier": "top",
+  "path": "modules/ai/upsell-trigger-bot-315/",
+  "thumbnail": "thumbnails/upsell-trigger-bot-315.png"
+},
+{
+  "name": "Presentation Slide Editor 316",
+  "icon": "🖼️",
+  "category": "tools",
+  "description": "Build and edit professional slides with templates and real-time preview.",
+  "tags": ["slides", "editor", "presentation"],
+  "tier": "mid",
+  "path": "modules/tools/presentation-slide-editor-316/",
+  "thumbnail": "thumbnails/presentation-slide-editor-316.png"
+},
+{
+  "name": "Mobile Push Builder 317",
+  "icon": "📲",
+  "category": "marketing",
+  "description": "Send mobile notifications with promo offers, alerts, and news updates.",
+  "tags": ["push", "mobile", "alerts"],
+  "tier": "low",
+  "path": "modules/marketing/mobile-push-builder-317/",
+  "thumbnail": "thumbnails/mobile-push-builder-317.png"
+},
+{
+  "name": "Coupon Generator 318",
+  "icon": "🏷️",
+  "category": "tools",
+  "description": "Auto-create and track discount coupons with usage stats and expiration dates.",
+  "tags": ["coupon", "discount", "track"],
+  "tier": "low",
+  "path": "modules/tools/coupon-generator-318/",
+  "thumbnail": "thumbnails/coupon-generator-318.png"
+},
+{
+  "name": "Link Tracker Pro 319",
+  "icon": "🔗",
+  "category": "seo",
+  "description": "Monitor link performance, clicks, and source traffic in real time.",
+  "tags": ["links", "tracking", "seo"],
+  "tier": "mid",
+  "path": "modules/seo/link-tracker-pro-319/",
+  "thumbnail": "thumbnails/link-tracker-pro-319.png"
+},
+{
+  "name": "Agent Stats Panel 320",
+  "icon": "📈",
+  "category": "core",
+  "description": "Track individual agent metrics like call time, conversion rate, and earnings.",
+  "tags": ["stats", "agents", "performance"],
+  "tier": "top",
+  "path": "modules/core/agent-stats-panel-320/",
+  "thumbnail": "thumbnails/agent-stats-panel-320.png"
+}
 ]
