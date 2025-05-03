@@ -1,19 +1,22 @@
 let allModules = [];
+
 fetch('modules.json')
-.then(res => res.json())
+  .then(res => res.json())
   .then(data => {
     allModules = data;
+    document.getElementById('moduleCount').textContent = `${data.length} Modules Available`;
     populateCategoryDropdown(data);
     renderModules(data);
   });
 
 function populateCategoryDropdown(data) {
   const select = document.getElementById('categorySelect');
-  const cats = [...new Set(data.map(m => m.category))];
-  cats.forEach(cat => {
+  const uniqueCategories = [...new Set(data.map(m => m.category))];
+  uniqueCategories.sort();
+  uniqueCategories.forEach(cat => {
     const option = document.createElement('option');
     option.value = cat;
-    option.textContent = cat;
+    option.textContent = cat.charAt(0).toUpperCase() + cat.slice(1);
     select.appendChild(option);
   });
 }
@@ -24,8 +27,9 @@ function renderModules(modules) {
   modules.forEach(module => {
     const card = document.createElement('div');
     card.className = `module-card tier-${module.tier}`;
-    const tags = module.tags.map(tag => `<span class="tag">${tag}</span>`).join('');
+    const tags = module.tags.map(tag => `<span class="tag">${tag}</span>`).join(' ');
     card.innerHTML = `
+      <img src="${module.thumbnail}" alt="${module.name}" class="thumb" onerror="this.style.display='none'" />
       <h3>${module.icon} ${module.name}</h3>
       <p>${module.description}</p>
       <strong>Category:</strong> ${module.category}<br>
