@@ -1,32 +1,29 @@
 body {
-  font-family: Arial, sans-serif;
-  background: #000;
+  background-color: #000;
   color: #fff;
-  padding: 20px;
-}
-header {
+  font-family: Arial, sans-serif;
   text-align: center;
+  padding: 1em;
 }
-input {
-  padding: 8px;
-  margin: 5px;
-  border-radius: 5px;
-  border: none;
+input, select, button {
+  margin: 0.4em;
+  padding: 0.5em;
+  font-size: 1em;
 }
 button {
-  padding: 8px 12px;
-  background: #00ffee;
+  background-color: cyan;
   border: none;
-  border-radius: 5px;
   cursor: pointer;
 }
-ul {
-  list-style-type: none;
-  padding: 0;
+table {
+  width: 100%;
+  margin-top: 1em;
+  border-collapse: collapse;
 }
-li {
-  background: #111;
-  padding: 10px;
-  margin: 8px 0;
-  border-left: 4px solid #0ff;
+th, td {
+  border: 1px solid #888;
+  padding: 0.5em;
+}
+thead {
+  background-color: #111;
 }
