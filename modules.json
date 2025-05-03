@@ -1,3 +1,4 @@
+[
 {
     "name": "Ecommerce Module 1",
     "icon": "\ud83d\uded2",
@@ -1914,5 +1915,905 @@
     "tags": ["automation", "generator", "intelligence"],
     "tier": "mid",
     "path": "modules/ai/ai-module-200/"
+  },
+  {
+    "name": "Module 201 - Unified Dashboard",
+    "icon": "🧩",
+    "category": "core",
+    "description": "Provides a central access point for users to log into and manage all app modules through one cross-app interface.",
+    "tags": ["dashboard", "login", "access"],
+    "tier": "top",
+    "path": "modules/core/module-201-unified-dashboard/"
+  },
+  {
+    "name": "Module 202 - Agent Role Management",
+    "icon": "👤",
+    "category": "core",
+    "description": "Manage and define permissions for agents across all modules, allowing custom access control.",
+    "tags": ["role", "access", "agent"],
+    "tier": "top",
+    "path": "modules/core/module-202-agent-role-management/"
+  },
+  {
+    "name": "Module 203 - Recruiter Role Management",
+    "icon": "🧲",
+    "category": "core",
+    "description": "Specialized permissions module for recruiters to manage applicants, bonuses, and recruitment tree.",
+    "tags": ["recruit", "roles", "team"],
+    "tier": "top",
+    "path": "modules/core/module-203-recruiter-role-management/"
+  },
+  {
+    "name": "Module 204 - Manager Role Management",
+    "icon": "👨‍💼",
+    "category": "core",
+    "description": "Module for manager-level access with elevated controls over agent activity, training, and oversight.",
+    "tags": ["manager", "oversight", "permissions"],
+    "tier": "top",
+    "path": "modules/core/module-204-manager-role-management/"
+  },
+  {
+    "name": "Module 205 - Admin Role Management",
+    "icon": "🛠️",
+    "category": "core",
+    "description": "Administrative level role setup for internal settings, logs, user creation, and auditing.",
+    "tags": ["admin", "control", "logs"],
+    "tier": "top",
+    "path": "modules/core/module-205-admin-role-management/"
+  },
+  {
+    "name": "Module 206 - Super Admin Control Center",
+    "icon": "🧠",
+    "category": "core",
+    "description": "Full system access for super admins including platform-wide oversight and global settings.",
+    "tags": ["superadmin", "control", "system"],
+    "tier": "top",
+    "path": "modules/core/module-206-super-admin-control-center/"
+  },
+  {
+    "name": "Module 207 - Wallet + Payout System",
+    "icon": "👛",
+    "category": "wallet",
+    "description": "Built-in wallet for storing earnings, coins, and triggering manual or automatic payouts.",
+    "tags": ["wallet", "payout", "earnings"],
+    "tier": "top",
+    "path": "modules/wallet/module-207-wallet-payout-system/"
+  },
+  {
+    "name": "Module 208 - Commission Tracker",
+    "icon": "📊",
+    "category": "wallet",
+    "description": "Real-time commission tracking engine for all earned, pending, and paid rewards.",
+    "tags": ["commissions", "sales", "earnings"],
+    "tier": "top",
+    "path": "modules/wallet/module-208-commission-tracker/"
+  },
+  {
+    "name": "Module 209 - Affiliate/Referral Chain Tracker",
+    "icon": "🔗",
+    "category": "affiliate",
+    "description": "Visualize and track downlines, uplines, and full referral paths up to 10 levels deep.",
+    "tags": ["referral", "mlm", "tracking"],
+    "tier": "top",
+    "path": "modules/affiliate/module-209-referral-chain-tracker/"
+  },
+  {
+    "name": "Module 210 - Recruitment Chain Tracker",
+    "icon": "🧬",
+    "category": "recruitment",
+    "description": "Displays full recruiter-to-agent chain structure and progress by stage.",
+    "tags": ["recruit", "structure", "growth"],
+    "tier": "top",
+    "path": "modules/recruitment/module-210-recruitment-chain-tracker/"
+  },
+  {
+    "name": "Module 211 - Front Sale Agent Dialer App",
+    "icon": "📞",
+    "category": "crm",
+    "description": "A dedicated dialer with lead notes, call scripts, and call outcomes for front-line agents.",
+    "tags": ["dialer", "calls", "crm"],
+    "tier": "top",
+    "path": "modules/crm/module-211-front-sale-agent-dialer/"
+  },
+  {
+    "name": "Module 212 - Upsell Appointment Setter Calendar",
+    "icon": "📅",
+    "category": "crm",
+    "description": "Calendar tool for booking appointments during or after initial sales calls.",
+    "tags": ["calendar", "appointments", "crm"],
+    "tier": "top",
+    "path": "modules/crm/module-212-appointment-setter-calendar/"
+  },
+  {
+    "name": "Module 213 - Dynamic Lead Management CRM",
+    "icon": "📋",
+    "category": "crm",
+    "description": "Lead capture, tagging, nurturing, and conversion tracking in a live sales environment.",
+    "tags": ["crm", "leads", "conversion"],
+    "tier": "top",
+    "path": "modules/crm/module-213-dynamic-lead-management/"
+  },
+  {
+    "name": "Module 214 - Live VoIP Calling (Telnyx/WebRTC)",
+    "icon": "📡",
+    "category": "communications",
+    "description": "Integrated calling via Telnyx or WebRTC with real-time voice quality and call status updates.",
+    "tags": ["voip", "calls", "telephony"],
+    "tier": "top",
+    "path": "modules/communications/module-214-voip-calling/"
+  },
+  {
+    "name": "Module 215 - Inbound/Outbound Call Handling",
+    "icon": "🔁",
+    "category": "communications",
+    "description": "Route and manage incoming and outgoing calls with smart queuing and assignment logic.",
+    "tags": ["calls", "routing", "crm"],
+    "tier": "top",
+    "path": "modules/communications/module-215-call-handling/"
+  },
+  {
+    "name": "Module 216 - Call Recording + Storage",
+    "icon": "🎙️",
+    "category": "communications",
+    "description": "Records agent calls, stores securely with tagging, download, and audit tools.",
+    "tags": ["recording", "compliance", "storage"],
+    "tier": "top",
+    "path": "modules/communications/module-216-call-recording/"
+  },
+  {
+    "name": "Module 217 - Live Call Monitoring (Admins)",
+    "icon": "🕵️‍♂️",
+    "category": "monitoring",
+    "description": "Allows managers and admins to listen to live calls for training, compliance, or support.",
+    "tags": ["monitoring", "calls", "admin"],
+    "tier": "top",
+    "path": "modules/monitoring/module-217-live-call-monitoring/"
+  },
+  {
+    "name": "Module 218 - Appointment Auto-Scheduler",
+    "icon": "🤖",
+    "category": "crm",
+    "description": "Automatically schedules follow-ups or demo calls based on rules and lead data.",
+    "tags": ["scheduler", "automation", "crm"],
+    "tier": "top",
+    "path": "modules/crm/module-218-appointment-auto-scheduler/"
+  },
+  {
+    "name": "Module 219 - Call Status Webhook Notifications",
+    "icon": "🔔",
+    "category": "communications",
+    "description": "Triggers webhook events for call status like missed, completed, or no-answer.",
+    "tags": ["webhook", "notifications", "calls"],
+    "tier": "top",
+    "path": "modules/communications/module-219-call-status-webhooks/"
+  },
+  {
+    "name": "Module 220 - Client Notes/Call Logs per Lead",
+    "icon": "🗒️",
+    "category": "crm",
+    "description": "Attach call logs, notes, and follow-ups directly to each client or lead for better tracking and sales continuity.",
+    "tags": ["notes", "calls", "crm"],
+    "tier": "top",
+    "path": "modules/crm/module-220-client-notes-call-logs/"
+  },
+  {
+    "name": "Module 221 - Video Meeting Room",
+    "icon": "🎥",
+    "category": "meetings",
+    "description": "Host virtual meetings with clients or teams using a secure, browser-based video room with optional screen share.",
+    "tags": ["video", "meeting", "virtual"],
+    "tier": "top",
+    "path": "modules/meetings/module-221-video-meeting-room/"
+  },
+  {
+    "name": "Module 222 - Agent Screen Sharing Tool",
+    "icon": "🖥️",
+    "category": "meetings",
+    "description": "Let agents share screens during meetings or support calls, enhancing presentations and walkthroughs.",
+    "tags": ["screen", "sharing", "agent"],
+    "tier": "top",
+    "path": "modules/meetings/module-222-agent-screen-sharing/"
+  },
+  {
+    "name": "Module 223 - Client Invite System (Auto-link sharing)",
+    "icon": "🔗",
+    "category": "meetings",
+    "description": "Automatically generates and sends meeting invite links to clients with tracking and expiry controls.",
+    "tags": ["invite", "meetings", "automation"],
+    "tier": "top",
+    "path": "modules/meetings/module-223-client-invite-system/"
+  },
+  {
+    "name": "Module 224 - Meeting Recording (Optional)",
+    "icon": "🎬",
+    "category": "meetings",
+    "description": "Enable optional recording for meetings, stored securely with download and review access.",
+    "tags": ["recording", "meeting", "review"],
+    "tier": "top",
+    "path": "modules/meetings/module-224-meeting-recording/"
+  },
+  {
+    "name": "Module 225 - Live Chat During Meeting",
+    "icon": "💬",
+    "category": "meetings",
+    "description": "Adds a chat panel for real-time text communication alongside video meetings.",
+    "tags": ["chat", "meeting", "support"],
+    "tier": "top",
+    "path": "modules/meetings/module-225-live-chat-during-meeting/"
+  },
+  {
+    "name": "Module 226 - Document Share During Meeting",
+    "icon": "📎",
+    "category": "meetings",
+    "description": "Allow agents or clients to upload and share files in real-time during meetings.",
+    "tags": ["documents", "meeting", "fileshare"],
+    "tier": "top",
+    "path": "modules/meetings/module-226-document-share/"
+  },
+  {
+    "name": "Module 227 - Presentation Slides Upload",
+    "icon": "📽️",
+    "category": "meetings",
+    "description": "Upload and display slides or media during meetings for structured presentations.",
+    "tags": ["slides", "presentation", "meeting"],
+    "tier": "top",
+    "path": "modules/meetings/module-227-presentation-slides/"
+  },
+  {
+    "name": "Module 228 - Live Promotions (Send offer during meeting)",
+    "icon": "🎯",
+    "category": "meetings",
+    "description": "Send special offers, cart items, or upgrade links live during client meetings.",
+    "tags": ["promo", "offers", "sales"],
+    "tier": "top",
+    "path": "modules/meetings/module-228-live-promotions/"
+  },
+  {
+    "name": "Module 229 - Follow-Up Campaign Setup",
+    "icon": "🔁",
+    "category": "marketing",
+    "description": "Immediately schedule follow-up emails, SMS, or calls post-meeting based on status or interest.",
+    "tags": ["followup", "campaign", "automation"],
+    "tier": "top",
+    "path": "modules/marketing/module-229-follow-up-campaign/"
+  },
+  {
+    "name": "Module 230 - Admin Meeting Monitor Access",
+    "icon": "🕵️",
+    "category": "monitoring",
+    "description": "Allow admins to silently monitor or join meetings for quality control and training.",
+    "tags": ["monitor", "admin", "qa"],
+    "tier": "top",
+    "path": "modules/monitoring/module-230-admin-meeting-access/"
+  },
+  {
+    "name": "Module 231 - Website Visibility Audit (free scan)",
+    "icon": "🌐",
+    "category": "seo",
+    "description": "Quick scan to detect visibility, search engine readiness, and basic SEO health of any website.",
+    "tags": ["audit", "seo", "visibility"],
+    "tier": "top",
+    "path": "modules/seo/module-231-visibility-audit/"
+  },
+  {
+    "name": "Module 232 - Business Presence Scan (maps, web, social)",
+    "icon": "📍",
+    "category": "seo",
+    "description": "Checks Google, Bing, Maps, and social presence for completeness, accuracy, and gaps.",
+    "tags": ["presence", "seo", "scan"],
+    "tier": "top",
+    "path": "modules/seo/module-232-presence-scan/"
+  },
+  {
+    "name": "Module 233 - Client Webapp Preview Builder",
+    "icon": "🛠️",
+    "category": "tools",
+    "description": "Auto-generates webapp previews for clients based on industry, template, or scan data.",
+    "tags": ["preview", "builder", "webapp"],
+    "tier": "top",
+    "path": "modules/tools/module-233-webapp-preview/"
+  },
+  {
+    "name": "Module 234 - Smart Visibility Upsell Engine",
+    "icon": "📈",
+    "category": "marketing",
+    "description": "AI-driven module that recommends visibility upgrades based on client scan and engagement data.",
+    "tags": ["upsell", "seo", "visibility"],
+    "tier": "top",
+    "path": "modules/marketing/module-234-visibility-upsell/"
+  },
+  {
+    "name": "Module 235 - Report PDF Generation",
+    "icon": "🧾",
+    "category": "tools",
+    "description": "Generates branded PDF reports from scans, audits, and client interactions.",
+    "tags": ["report", "pdf", "generator"],
+    "tier": "top",
+    "path": "modules/tools/module-235-report-generator/"
+  },
+  {
+    "name": "Module 236 - Visibility Report Download/Sell Gate",
+    "icon": "🛒",
+    "category": "marketing",
+    "description": "Allows reports to be locked behind a paywall, lead form, or one-time download.",
+    "tags": ["report", "seo", "monetize"],
+    "tier": "top",
+    "path": "modules/marketing/module-236-report-sell-gate/"
+  },
+  {
+    "name": "Module 237 - Scan Results Upsell Offers",
+    "icon": "🧲",
+    "category": "seo",
+    "description": "Auto-generates custom offers and service suggestions based on scan results.",
+    "tags": ["upsell", "offers", "seo"],
+    "tier": "top",
+    "path": "modules/seo/module-237-scan-upsell-offers/"
+  },
+  {
+    "name": "Module 238 - Website Rebuilder Offer Module",
+    "icon": "🏗️",
+    "category": "tools",
+    "description": "Triggers a full-site rebuild option with presets and dynamic pricing based on site audit.",
+    "tags": ["rebuild", "website", "seo"],
+    "tier": "top",
+    "path": "modules/tools/module-238-rebuilder-offer/"
+  },
+  {
+    "name": "Module 239 - SEO Booster Recommendation Tool",
+    "icon": "🚀",
+    "category": "seo",
+    "description": "AI recommends key actions, plugins, or services to improve a site’s SEO rank.",
+    "tags": ["seo", "booster", "ai"],
+    "tier": "top",
+    "path": "modules/seo/module-239-seo-booster/"
+  },
+  {
+    "name": "Module 240 - Website Portfolio Preview (Auto-built demos)",
+    "icon": "🖼️",
+    "category": "tools",
+    "description": "Auto-generates demo portfolio links from real rebuilds or sample apps by industry.",
+    "tags": ["portfolio", "demo", "preview"],
+    "tier": "top",
+    "path": "modules/tools/module-240-portfolio-preview/"
+  },
+  {
+    "name": "Core Module 241",
+    "icon": "🛠️",
+    "category": "core",
+    "description": "Unified ticket system for internal issues, client concerns, and bug reports.",
+    "tags": ["support", "tickets", "bugs"],
+    "tier": "top",
+    "path": "modules/core/core-module-241/"
+  },
+  {
+    "name": "Core Module 242",
+    "icon": "📁",
+    "category": "core",
+    "description": "Document vault for safely storing contracts, policies, and uploads.",
+    "tags": ["documents", "storage", "vault"],
+    "tier": "top",
+    "path": "modules/core/core-module-242/"
+  },
+  {
+    "name": "Core Module 243",
+    "icon": "📑",
+    "category": "core",
+    "description": "Admin version control and rollback system for all modules.",
+    "tags": ["admin", "versioning", "rollback"],
+    "tier": "mid",
+    "path": "modules/core/core-module-243/"
+  },
+  {
+    "name": "Communication Module 244",
+    "icon": "📣",
+    "category": "communication",
+    "description": "Public announcement wall for posting global system-wide messages.",
+    "tags": ["announcements", "news", "updates"],
+    "tier": "top",
+    "path": "modules/communication/communication-module-244/"
+  },
+  {
+    "name": "Communication Module 245",
+    "icon": "💬",
+    "category": "communication",
+    "description": "Internal chat for agents and admins with private channels.",
+    "tags": ["chat", "team", "communication"],
+    "tier": "top",
+    "path": "modules/communication/communication-module-245/"
+  },
+  {
+    "name": "Communication Module 246",
+    "icon": "📤",
+    "category": "communication",
+    "description": "Mass email blast system to clients, leads, or downlines.",
+    "tags": ["email", "blast", "bulk"],
+    "tier": "top",
+    "path": "modules/communication/communication-module-246/"
+  },
+  {
+    "name": "Communication Module 247",
+    "icon": "📲",
+    "category": "communication",
+    "description": "Bulk SMS tool for outreach and updates to agents and leads.",
+    "tags": ["sms", "messaging", "mobile"],
+    "tier": "top",
+    "path": "modules/communication/communication-module-247/"
+  },
+  {
+    "name": "Communication Module 248",
+    "icon": "🔔",
+    "category": "communication",
+    "description": "Push notification center for real-time mobile/web alerts.",
+    "tags": ["notifications", "push", "alerts"],
+    "tier": "top",
+    "path": "modules/communication/communication-module-248/"
+  },
+  {
+    "name": "Communication Module 249",
+    "icon": "🎧",
+    "category": "communication",
+    "description": "Live call listening rooms for manager call reviews and coaching.",
+    "tags": ["monitoring", "calls", "audio"],
+    "tier": "mid",
+    "path": "modules/communication/communication-module-249/"
+  },
+  {
+    "name": "Training Module 250",
+    "icon": "🎥",
+    "category": "training",
+    "description": "On-demand video tutorials categorized by user role.",
+    "tags": ["training", "video", "onboarding"],
+    "tier": "mid",
+    "path": "modules/training/training-module-250/"
+  },
+  {
+    "name": "Training Module 251",
+    "icon": "📆",
+    "category": "training",
+    "description": "Interactive training calendar for scheduling lessons and live sessions.",
+    "tags": ["calendar", "lessons", "live"],
+    "tier": "mid",
+    "path": "modules/training/training-module-251/"
+  },
+  {
+    "name": "Admin Module 252",
+    "icon": "🧮",
+    "category": "admin",
+    "description": "Coin staking log tracker with exportable summaries.",
+    "tags": ["staking", "logs", "coins"],
+    "tier": "mid",
+    "path": "modules/admin/admin-module-252/"
+  },
+  {
+    "name": "Admin Module 253",
+    "icon": "📋",
+    "category": "admin",
+    "description": "Strike/warning system logs with timestamps and reviewers.",
+    "tags": ["compliance", "log", "strike"],
+    "tier": "mid",
+    "path": "modules/admin/admin-module-253/"
+  },
+  {
+    "name": "Admin Module 254",
+    "icon": "📊",
+    "category": "admin",
+    "description": "Commission and payout logs with downloadable CSV export.",
+    "tags": ["commissions", "logs", "reports"],
+    "tier": "mid",
+    "path": "modules/admin/admin-module-254/"
+  },
+  {
+    "name": "Admin Module 255",
+    "icon": "🕵️‍♂️",
+    "category": "admin",
+    "description": "Audit trail viewer showing all admin-level actions taken.",
+    "tags": ["audit", "security", "admin"],
+    "tier": "top",
+    "path": "modules/admin/admin-module-255/"
+  },
+  {
+    "name": "Admin Module 256",
+    "icon": "🛡️",
+    "category": "admin",
+    "description": "Security monitoring dashboard for suspicious activities.",
+    "tags": ["security", "logs", "alerts"],
+    "tier": "top",
+    "path": "modules/admin/admin-module-256/"
+  },
+  {
+    "name": "Admin Module 257",
+    "icon": "📡",
+    "category": "admin",
+    "description": "API webhook and integration log viewer.",
+    "tags": ["api", "logs", "integration"],
+    "tier": "top",
+    "path": "modules/admin/admin-module-257/"
+  },
+  {
+    "name": "Admin Module 258",
+    "icon": "⚙️",
+    "category": "admin",
+    "description": "Performance benchmarking for all modules and response times.",
+    "tags": ["performance", "metrics", "benchmark"],
+    "tier": "mid",
+    "path": "modules/admin/admin-module-258/"
+  },
+  {
+    "name": "Admin Module 259",
+    "icon": "💾",
+    "category": "admin",
+    "description": "Full system backup and restore manager.",
+    "tags": ["backup", "restore", "system"],
+    "tier": "top",
+    "path": "modules/admin/admin-module-259/"
+  },
+  {
+    "name": "Admin Module 260",
+    "icon": "🔧",
+    "category": "admin",
+    "description": "Maintenance mode toggle for system-wide downtime notices.",
+    "tags": ["maintenance", "system", "downtime"],
+    "tier": "top",
+    "path": "modules/admin/admin-module-260/"
+  },
+  {
+    "name": "Admin Module 261",
+    "icon": "🔐",
+    "category": "admin",
+    "description": "Two-factor authentication (2FA) system for secure user logins.",
+    "tags": ["security", "login", "2fa"],
+    "tier": "top",
+    "path": "modules/admin/admin-module-261/"
+  },
+  {
+    "name": "Admin Module 262",
+    "icon": "🔄",
+    "category": "admin",
+    "description": "Session timeout and auto-logout control panel.",
+    "tags": ["security", "session", "timeout"],
+    "tier": "mid",
+    "path": "modules/admin/admin-module-262/"
+  },
+  {
+    "name": "Admin Module 263",
+    "icon": "🌐",
+    "category": "admin",
+    "description": "Geo-blocking and IP restriction settings for sensitive areas.",
+    "tags": ["geo", "ip", "restriction"],
+    "tier": "mid",
+    "path": "modules/admin/admin-module-263/"
+  },
+  {
+    "name": "Tools Module 264",
+    "icon": "🧰",
+    "category": "tools",
+    "description": "Theme switcher for switching light/dark modes and custom styles.",
+    "tags": ["theme", "ui", "style"],
+    "tier": "top",
+    "path": "modules/tools/tools-module-264/"
+  },
+  {
+    "name": "Tools Module 265",
+    "icon": "🖼️",
+    "category": "tools",
+    "description": "Custom logo uploader with crop and resize options.",
+    "tags": ["logo", "branding", "tools"],
+    "tier": "top",
+    "path": "modules/tools/tools-module-265/"
+  },
+  {
+    "name": "Tools Module 266",
+    "icon": "🎨",
+    "category": "tools",
+    "description": "Color palette manager with pre-saved themes.",
+    "tags": ["color", "palette", "branding"],
+    "tier": "top",
+    "path": "modules/tools/tools-module-266/"
+  },
+  {
+    "name": "Marketing Module 267",
+    "icon": "📈",
+    "category": "marketing",
+    "description": "Heatmap visualizer for tracking click behavior and hotspots.",
+    "tags": ["heatmap", "behavior", "tracking"],
+    "tier": "top",
+    "path": "modules/marketing/marketing-module-267/"
+  },
+  {
+    "name": "Marketing Module 268",
+    "icon": "📧",
+    "category": "marketing",
+    "description": "Email sequence builder with drag-and-drop automation.",
+    "tags": ["email", "automation", "sequence"],
+    "tier": "top",
+    "path": "modules/marketing/marketing-module-268/"
+  },
+  {
+    "name": "Marketing Module 269",
+    "icon": "📊",
+    "category": "marketing",
+    "description": "A/B testing engine for comparing versions of offers or emails.",
+    "tags": ["testing", "ab", "optimize"],
+    "tier": "top",
+    "path": "modules/marketing/marketing-module-269/"
+  },
+  {
+    "name": "Marketing Module 270",
+    "icon": "💡",
+    "category": "marketing",
+    "description": "Content idea generator powered by AI trend scanning.",
+    "tags": ["content", "ai", "marketing"],
+    "tier": "mid",
+    "path": "modules/marketing/marketing-module-270/"
+  },
+  {
+    "name": "Ai Module 271",
+    "icon": "🤖",
+    "category": "ai",
+    "description": "Smart chatbot engine for client support and sales guidance.",
+    "tags": ["chatbot", "ai", "support"],
+    "tier": "top",
+    "path": "modules/ai/ai-module-271/"
+  },
+  {
+    "name": "Ai Module 272",
+    "icon": "🧠",
+    "category": "ai",
+    "description": "AI script builder for phone calls and presentations.",
+    "tags": ["script", "ai", "calls"],
+    "tier": "top",
+    "path": "modules/ai/ai-module-272/"
+  },
+  {
+    "name": "Ai Module 273",
+    "icon": "🎙️",
+    "category": "ai",
+    "description": "Text-to-voice module with natural-sounding options.",
+    "tags": ["voice", "text", "generator"],
+    "tier": "top",
+    "path": "modules/ai/ai-module-273/"
+  },
+  {
+    "name": "Ai Module 274",
+    "icon": "🎞️",
+    "category": "ai",
+    "description": "AI video generator from prompts or slides.",
+    "tags": ["video", "ai", "content"],
+    "tier": "top",
+    "path": "modules/ai/ai-module-274/"
+  },
+  {
+    "name": "Ai Module 275",
+    "icon": "📚",
+    "category": "ai",
+    "description": "AI-powered knowledgebase builder for your business FAQs.",
+    "tags": ["knowledge", "ai", "faq"],
+    "tier": "mid",
+    "path": "modules/ai/ai-module-275/"
+  },
+  {
+    "name": "Seo Module 276",
+    "icon": "🔍",
+    "category": "seo",
+    "description": "Link audit tool to find broken or outdated website links.",
+    "tags": ["seo", "links", "audit"],
+    "tier": "top",
+    "path": "modules/seo/seo-module-276/"
+  },
+  {
+    "name": "Seo Module 277",
+    "icon": "🧾",
+    "category": "seo",
+    "description": "Metadata manager with auto-suggest for all pages.",
+    "tags": ["meta", "seo", "tags"],
+    "tier": "mid",
+    "path": "modules/seo/seo-module-277/"
+  },
+  {
+    "name": "Seo Module 278",
+    "icon": "📡",
+    "category": "seo",
+    "description": "Google Search Console integration module.",
+    "tags": ["google", "search", "seo"],
+    "tier": "top",
+    "path": "modules/seo/seo-module-278/"
+  },
+  {
+    "name": "Seo Module 279",
+    "icon": "📉",
+    "category": "seo",
+    "description": "Keyword ranking tracker across multiple search engines.",
+    "tags": ["ranking", "keywords", "seo"],
+    "tier": "top",
+    "path": "modules/seo/seo-module-279/"
+  },
+  {
+    "name": "Seo Module 280",
+    "icon": "⚙️",
+    "category": "seo",
+    "description": "Technical SEO scanner for site speed, tags, and crawl issues.",
+    "tags": ["scanner", "seo", "technical"],
+    "tier": "top",
+    "path": "modules/seo/seo-module-280/"
+  },
+  {
+    "name": "Admin Module 281",
+    "icon": "🛡️",
+    "category": "admin",
+    "description": "IP whitelist and blacklist manager for enhanced app security.",
+    "tags": ["ip", "security", "firewall"],
+    "tier": "top",
+    "path": "modules/admin/admin-module-281/"
+  },
+  {
+    "name": "Admin Module 282",
+    "icon": "📝",
+    "category": "admin",
+    "description": "Custom terms of service & privacy policy generator with auto-publish.",
+    "tags": ["legal", "tos", "policy"],
+    "tier": "mid",
+    "path": "modules/admin/admin-module-282/"
+  },
+  {
+    "name": "Admin Module 283",
+    "icon": "🔍",
+    "category": "admin",
+    "description": "Admin search and filter control center for users, data, and logs.",
+    "tags": ["admin", "filter", "search"],
+    "tier": "top",
+    "path": "modules/admin/admin-module-283/"
+  },
+  {
+    "name": "Tools Module 284",
+    "icon": "🗂️",
+    "category": "tools",
+    "description": "Multi-tab workspace feature for split-view and tabbed tools.",
+    "tags": ["workspace", "tabs", "splitview"],
+    "tier": "top",
+    "path": "modules/tools/tools-module-284/"
+  },
+  {
+    "name": "Tools Module 285",
+    "icon": "📅",
+    "category": "tools",
+    "description": "Event calendar with color-coded tasks and reminders.",
+    "tags": ["calendar", "schedule", "productivity"],
+    "tier": "top",
+    "path": "modules/tools/tools-module-285/"
+  },
+  {
+    "name": "Tools Module 286",
+    "icon": "⏳",
+    "category": "tools",
+    "description": "Timer and Pomodoro focus booster for agents and managers.",
+    "tags": ["timer", "focus", "pomodoro"],
+    "tier": "mid",
+    "path": "modules/tools/tools-module-286/"
+  },
+  {
+    "name": "Marketing Module 287",
+    "icon": "🪄",
+    "category": "marketing",
+    "description": "One-click landing page generator with prebuilt themes.",
+    "tags": ["landing", "builder", "marketing"],
+    "tier": "top",
+    "path": "modules/marketing/marketing-module-287/"
+  },
+  {
+    "name": "Marketing Module 288",
+    "icon": "💌",
+    "category": "marketing",
+    "description": "Lead magnet pop-up builder with smart targeting rules.",
+    "tags": ["popup", "leads", "conversion"],
+    "tier": "top",
+    "path": "modules/marketing/marketing-module-288/"
+  },
+  {
+    "name": "Marketing Module 289",
+    "icon": "📲",
+    "category": "marketing",
+    "description": "SMS autoresponder campaign creator with mobile-ready templates.",
+    "tags": ["sms", "campaign", "automation"],
+    "tier": "top",
+    "path": "modules/marketing/marketing-module-289/"
+  },
+  {
+    "name": "Marketing Module 290",
+    "icon": "🧲",
+    "category": "marketing",
+    "description": "Exit-intent popup module to recover abandoning users.",
+    "tags": ["exit", "popup", "retention"],
+    "tier": "mid",
+    "path": "modules/marketing/marketing-module-290/"
+  },
+  {
+    "name": "Ai Module 291",
+    "icon": "📖",
+    "category": "ai",
+    "description": "Story and blog generator with image suggestions and SEO hooks.",
+    "tags": ["blog", "content", "ai"],
+    "tier": "top",
+    "path": "modules/ai/ai-module-291/"
+  },
+  {
+    "name": "Ai Module 292",
+    "icon": "📷",
+    "category": "ai",
+    "description": "AI image generator for ads, posts, and custom scenes.",
+    "tags": ["image", "ai", "creative"],
+    "tier": "top",
+    "path": "modules/ai/ai-module-292/"
+  },
+  {
+    "name": "Ai Module 293",
+    "icon": "🎤",
+    "category": "ai",
+    "description": "Voice-over creator from scripts with multi-language support.",
+    "tags": ["voice", "script", "ai"],
+    "tier": "top",
+    "path": "modules/ai/ai-module-293/"
+  },
+  {
+    "name": "Ai Module 294",
+    "icon": "🧾",
+    "category": "ai",
+    "description": "Auto-transcription from uploaded audio or video files.",
+    "tags": ["transcription", "audio", "ai"],
+    "tier": "mid",
+    "path": "modules/ai/ai-module-294/"
+  },
+  {
+    "name": "Ai Module 295",
+    "icon": "🖋️",
+    "category": "ai",
+    "description": "Ad copywriter bot that analyzes tone and intent.",
+    "tags": ["ad", "copy", "ai"],
+    "tier": "top",
+    "path": "modules/ai/ai-module-295/"
+  },
+  {
+    "name": "Seo Module 296",
+    "icon": "🌎",
+    "category": "seo",
+    "description": "Google Maps presence checker and optimization guide.",
+    "tags": ["maps", "seo", "visibility"],
+    "tier": "top",
+    "path": "modules/seo/seo-module-296/"
+  },
+  {
+    "name": "Seo Module 297",
+    "icon": "📈",
+    "category": "seo",
+    "description": "SEO health score dashboard with real-time updates.",
+    "tags": ["score", "seo", "dashboard"],
+    "tier": "top",
+    "path": "modules/seo/seo-module-297/"
+  },
+  {
+    "name": "Seo Module 298",
+    "icon": "📋",
+    "category": "seo",
+    "description": "Content audit tool with keyword density and readability checks.",
+    "tags": ["audit", "seo", "content"],
+    "tier": "top",
+    "path": "modules/seo/seo-module-298/"
+  },
+  {
+    "name": "Seo Module 299",
+    "icon": "🔗",
+    "category": "seo",
+    "description": "Backlink monitor to track link-building progress.",
+    "tags": ["backlink", "seo", "monitor"],
+    "tier": "mid",
+    "path": "modules/seo/seo-module-299/"
+  },
+  {
+    "name": "Seo Module 300",
+    "icon": "🚀",
+    "category": "seo",
+    "description": "Page speed and mobile responsiveness booster module.",
+    "tags": ["speed", "mobile", "seo"],
+    "tier": "top",
+    "path": "modules/seo/seo-module-300/"
   }
 ]
