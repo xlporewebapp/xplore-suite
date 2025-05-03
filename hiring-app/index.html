@@ -1,59 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>XPLORE Hiring Desk</title>
-  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>XPLORE Hiring Portal</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header>
-    <h1>👨‍💼 XPLORE Hiring Desk</h1>
-    <p>Track, filter, and export your job applicants</p>
+    <h1>🚀 Join Xplore Enterprise</h1>
+    <p>Work From Home! Build your future — one call at a time.</p>
+    <a href="#apply" class="button">Apply Now</a>
   </header>
-  <section class="form-section">
-    <input type="text" id="name" placeholder="Applicant Name">
-    <input type="email" id="email" placeholder="Email">
-    <select id="role">
-      <option value="">Select Role</option>
-      <option value="Sales">Sales</option>
-      <option value="Tech Support">Tech Support</option>
-      <option value="Developer">Developer</option>
-    </select>
-    <select id="status">
-      <option value="New">New</option>
-      <option value="Interviewed">Interviewed</option>
-      <option value="Hired">Hired</option>
-    </select>
-    <button onclick="addApplicant()">➕ Add to Queue</button>
+  <section id="about">
+    <h2>About Xplore Enterprise</h2>
+    <div class="grid">
+      <div>🌐 Remote Work</div>
+      <div>💰 Great Pay</div>
+      <div>📈 Growth Opportunities</div>
+      <div>👥 Supportive Team</div>
+    </div>
   </section>
-
-  <section class="filter-section">
-    <select id="filterRole" onchange="filterApplicants()">
-      <option value="">All Roles</option>
-      <option value="Sales">Sales</option>
-      <option value="Tech Support">Tech Support</option>
-      <option value="Developer">Developer</option>
-    </select>
-    <select id="filterStatus" onchange="filterApplicants()">
-      <option value="">All Statuses</option>
-      <option value="New">New</option>
-      <option value="Interviewed">Interviewed</option>
-      <option value="Hired">Hired</option>
-    </select>
-    <button onclick="exportCSV()">📁 Export CSV</button>
+  <section id="apply">
+    <h2>Apply Now</h2>
+    <form>
+      <input type="text" placeholder="Full Name" required />
+      <input type="email" placeholder="Email" required />
+      <button type="submit">Submit Application</button>
+    </form>
   </section>
-
-  <section id="queueSection">
-    <h2>📋 Applicant Queue</h2>
-    <table id="queueTable">
-      <thead>
-        <tr><th>Name</th><th>Email</th><th>Role</th><th>Status</th><th>Actions</th></tr>
-      </thead>
-      <tbody></tbody>
-    </table>
-  </section>
-
-  <script src="script.js"></script>
+  <footer>
+    <p>&copy; 2025 Xplore Enterprise</p>
+  </footer>
 </body>
 </html>
