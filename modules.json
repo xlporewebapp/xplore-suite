@@ -79,2523 +79,1840 @@
   },
   {
     "name": "Ecommerce Module 7",
-    "icon": "\ud83d\uded2",
-    "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 7', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "icon": "🛒",
+    "category": "Ecommerce",
+    "description": "Enterprise-grade ecommerce module for larger product catalogs, advanced filtering, and multi-cart functionality.",
+    "tags": ["ecommerce", "cart", "checkout", "products", "catalog"],
     "tier": "top",
-    "path": "modules/ecommerce/ecommerce-module-7/"
+    "path": "modules/ecommerce/ecommerce-module-7/",
+    "thumbnail": "thumbnails/ecommerce-module-7.png"
   },
   {
     "name": "Tools Module 8",
-    "icon": "\ud83d\udee0\ufe0f",
-    "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 8', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "icon": "🛠️",
+    "category": "Utilities & Tools",
+    "description": "Core utility pack that improves speed, enhances UX, and includes essential UI widgets like loaders, tabs, and alerts.",
+    "tags": ["tools", "ui", "productivity", "widgets"],
     "tier": "top",
-    "path": "modules/tools/tools-module-8/"
+    "path": "modules/tools/tools-module-8/",
+    "thumbnail": "thumbnails/tools-module-8.png"
   },
   {
     "name": "Media Module 9",
-    "icon": "\ud83c\udfac",
-    "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 9', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "icon": "🎬",
+    "category": "Media & Content",
+    "description": "Basic media display module for embedding video, audio, and static media files within any app page or blog.",
+    "tags": ["media", "video", "audio", "player"],
     "tier": "low",
-    "path": "modules/media/media-module-9/"
+    "path": "modules/media/media-module-9/",
+    "thumbnail": "thumbnails/media-module-9.png"
   },
   {
     "name": "Media Module 10",
-    "icon": "\ud83c\udfac",
-    "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 10', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "icon": "🎬",
+    "category": "Media & Content",
+    "description": "Advanced media player module with playlist support, audio visualizations, and adaptive video streaming.",
+    "tags": ["media", "streaming", "playlist", "video"],
     "tier": "top",
-    "path": "modules/media/media-module-10/"
+    "path": "modules/media/media-module-10/",
+    "thumbnail": "thumbnails/media-module-10.png"
   },
   {
     "name": "Marketing Module 11",
-    "icon": "\ud83d\udce3",
-    "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 11', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "icon": "📣",
+    "category": "Marketing Tools",
+    "description": "Automated funnel builder with multi-step campaign sequences, performance tracking, and email/sms outreach support.",
+    "tags": ["marketing", "funnel", "leads", "automation"],
     "tier": "mid",
-    "path": "modules/marketing/marketing-module-11/"
+    "path": "modules/marketing/marketing-module-11/",
+    "thumbnail": "thumbnails/marketing-module-11.png"
   },
   {
     "name": "Ecommerce Module 12",
-    "icon": "\ud83d\uded2",
-    "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 12', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "icon": "🛒",
+    "category": "Ecommerce",
+    "description": "Starter-friendly ecommerce layout with product tiles, click-to-cart buttons, and PayPal checkout.",
+    "tags": ["ecommerce", "starter", "paypal", "checkout"],
     "tier": "low",
-    "path": "modules/ecommerce/ecommerce-module-12/"
+    "path": "modules/ecommerce/ecommerce-module-12/",
+    "thumbnail": "thumbnails/ecommerce-module-12.png"
   },
   {
-    "name": "Seo Module 13",
-    "icon": "\ud83d\udd0d",
-    "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 13', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "name": "SEO Module 13",
+    "icon": "🔍",
+    "category": "SEO & Visibility",
+    "description": "Audit and optimize web visibility with keyword scanning, meta-tag optimization, and Google ranking suggestions.",
+    "tags": ["seo", "ranking", "visibility", "audit"],
     "tier": "top",
-    "path": "modules/seo/seo-module-13/"
+    "path": "modules/seo/seo-module-13/",
+    "thumbnail": "thumbnails/seo-module-13.png"
   },
   {
     "name": "Media Module 14",
-    "icon": "\ud83c\udfac",
-    "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 14', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "icon": "🎬",
+    "category": "Media & Content",
+    "description": "Responsive media grid to showcase visual portfolios, product videos, or podcast collections beautifully.",
+    "tags": ["media", "grid", "portfolio", "podcast"],
     "tier": "top",
-    "path": "modules/media/media-module-14/"
+    "path": "modules/media/media-module-14/",
+    "thumbnail": "thumbnails/media-module-14.png"
   },
   {
     "name": "Ecommerce Module 15",
-    "icon": "\ud83d\uded2",
-    "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 15', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "icon": "🛒",
+    "category": "Ecommerce",
+    "description": "Premium ecommerce module with support for product variants, inventory alerts, and user wishlists.",
+    "tags": ["ecommerce", "inventory", "wishlist", "checkout"],
     "tier": "top",
-    "path": "modules/ecommerce/ecommerce-module-15/"
+    "path": "modules/ecommerce/ecommerce-module-15/",
+    "thumbnail": "thumbnails/ecommerce-module-15.png"
   },
   {
     "name": "Media Module 16",
-    "icon": "\ud83c\udfac",
-    "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 16', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "icon": "🎬",
+    "category": "Media & Content",
+    "description": "Embed and manage HD media files for brand storytelling. This module includes responsive layout for mobile viewing and caption control.",
+    "tags": ["media", "video", "audio", "storytelling"],
     "tier": "top",
-    "path": "modules/media/media-module-16/"
+    "path": "modules/media/media-module-16/",
+    "thumbnail": "thumbnails/media-module-16.png"
   },
   {
-    "name": "Seo Module 17",
-    "icon": "\ud83d\udd0d",
-    "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 17', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "name": "SEO Module 17",
+    "icon": "🔍",
+    "category": "SEO & Visibility",
+    "description": "Improve keyword relevance, site structure, and search engine visibility with real-time audits and live preview scoring.",
+    "tags": ["seo", "ranking", "metadata", "visibility"],
     "tier": "low",
-    "path": "modules/seo/seo-module-17/"
+    "path": "modules/seo/seo-module-17/",
+    "thumbnail": "thumbnails/seo-module-17.png"
   },
   {
     "name": "Ecommerce Module 18",
-    "icon": "\ud83d\uded2",
-    "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 18', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "icon": "🛒",
+    "category": "Ecommerce",
+    "description": "Enterprise ecommerce engine with bulk pricing support, upsell logic, and integrated analytics dashboard.",
+    "tags": ["ecommerce", "analytics", "pricing", "cart"],
     "tier": "top",
-    "path": "modules/ecommerce/ecommerce-module-18/"
+    "path": "modules/ecommerce/ecommerce-module-18/",
+    "thumbnail": "thumbnails/ecommerce-module-18.png"
   },
   {
     "name": "Media Module 19",
-    "icon": "\ud83c\udfac",
-    "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 19', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "icon": "🎬",
+    "category": "Media & Content",
+    "description": "Advanced media showcase for portfolio builders. Comes with transitions, autoplay modes, and lightbox options.",
+    "tags": ["media", "lightbox", "autoplay", "gallery"],
     "tier": "top",
-    "path": "modules/media/media-module-19/"
+    "path": "modules/media/media-module-19/",
+    "thumbnail": "thumbnails/media-module-19.png"
   },
   {
     "name": "Tools Module 20",
-    "icon": "\ud83d\udee0\ufe0f",
-    "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 20', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "icon": "🛠️",
+    "category": "Utilities & Tools",
+    "description": "Bundle of reusable micro-tools including timers, calculators, alerts, and tabbed interface components.",
+    "tags": ["utilities", "tools", "tabs", "calc"],
     "tier": "top",
-    "path": "modules/tools/tools-module-20/"
+    "path": "modules/tools/tools-module-20/",
+    "thumbnail": "thumbnails/tools-module-20.png"
   },
   {
-    "name": "Seo Module 21",
-    "icon": "\ud83d\udd0d",
-    "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 21', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "name": "SEO Module 21",
+    "icon": "🔍",
+    "category": "SEO & Visibility",
+    "description": "Keyword planner and backlink tracker to optimize your organic visibility over time. Includes content-grade reports.",
+    "tags": ["seo", "backlinks", "keywords", "planner"],
     "tier": "mid",
-    "path": "modules/seo/seo-module-21/"
+    "path": "modules/seo/seo-module-21/",
+    "thumbnail": "thumbnails/seo-module-21.png"
   },
   {
     "name": "Ecommerce Module 22",
-    "icon": "\ud83d\uded2",
-    "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 22', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "icon": "🛒",
+    "category": "Ecommerce",
+    "description": "Essential ecommerce functionality: shopping cart, product filters, and real-time tax calculations.",
+    "tags": ["cart", "filters", "tax", "shop"],
     "tier": "mid",
-    "path": "modules/ecommerce/ecommerce-module-22/"
+    "path": "modules/ecommerce/ecommerce-module-22/",
+    "thumbnail": "thumbnails/ecommerce-module-22.png"
   },
   {
     "name": "Ecommerce Module 23",
-    "icon": "\ud83d\uded2",
-    "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 23', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "icon": "🛒",
+    "category": "Ecommerce",
+    "description": "Streamlined ecommerce template optimized for single-product sales, affiliate promotions, and fast loading.",
+    "tags": ["ecommerce", "single-product", "affiliate", "landing"],
     "tier": "mid",
-    "path": "modules/ecommerce/ecommerce-module-23/"
+    "path": "modules/ecommerce/ecommerce-module-23/",
+    "thumbnail": "thumbnails/ecommerce-module-23.png"
   },
   {
-    "name": "Ai Module 24",
-    "icon": "\ud83e\udd16",
-    "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 24', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "name": "AI Module 24",
+    "icon": "🤖",
+    "category": "AI Tools",
+    "description": "Plug-and-play AI brain for content generation, chatbot support, or predictive analytics. Powered by GPT/Claude APIs.",
+    "tags": ["ai", "automation", "chatbot", "generator"],
     "tier": "mid",
-    "path": "modules/ai/ai-module-24/"
+    "path": "modules/ai/ai-module-24/",
+    "thumbnail": "thumbnails/ai-module-24.png"
   },
   {
     "name": "Marketing Module 25",
-    "icon": "\ud83d\udce3",
-    "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 25', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "icon": "📣",
+    "category": "Marketing Tools",
+    "description": "Multi-channel campaign manager with social media post scheduler, lead scoring, and autoresponders.",
+    "tags": ["marketing", "scheduler", "leads", "autoresponder"],
     "tier": "top",
-    "path": "modules/marketing/marketing-module-25/"
+    "path": "modules/marketing/marketing-module-25/",
+    "thumbnail": "thumbnails/marketing-module-25.png"
   },
   {
-    "name": "Ai Module 26",
-    "icon": "\ud83e\udd16",
-    "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 26', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "name": "AI Module 26",
+    "icon": "🤖",
+    "category": "AI Tools",
+    "description": "Power your apps with generative AI tools for content, automation, and smart workflows using GPT or Claude integrations.",
+    "tags": ["ai", "automation", "generator", "intelligence"],
     "tier": "top",
-    "path": "modules/ai/ai-module-26/"
+    "path": "modules/ai/ai-module-26/",
+    "thumbnail": "thumbnails/ai-module-26.png"
   },
   {
     "name": "Media Module 27",
-    "icon": "\ud83c\udfac",
-    "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 27', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "icon": "🎬",
+    "category": "Media & Content",
+    "description": "Elegant multimedia display module with player controls, responsive layout, and dark/light theme support.",
+    "tags": ["media", "video", "audio", "player"],
     "tier": "top",
-    "path": "modules/media/media-module-27/"
+    "path": "modules/media/media-module-27/",
+    "thumbnail": "thumbnails/media-module-27.png"
   },
   {
     "name": "Tools Module 28",
-    "icon": "\ud83d\udee0\ufe0f",
-    "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 28', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "icon": "🛠️",
+    "category": "Utilities & Tools",
+    "description": "Utility kit with performance boosters, modals, and flexible layout components to elevate any build.",
+    "tags": ["ui", "productivity", "tools", "layout"],
     "tier": "mid",
-    "path": "modules/tools/tools-module-28/"
+    "path": "modules/tools/tools-module-28/",
+    "thumbnail": "thumbnails/tools-module-28.png"
   },
   {
-    "name": "Ai Module 29",
-    "icon": "\ud83e\udd16",
-    "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 29', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "name": "AI Module 29",
+    "icon": "🤖",
+    "category": "AI Tools",
+    "description": "Includes smart chat assistants, AI reply generators, and task schedulers driven by user behavior.",
+    "tags": ["ai", "chatbot", "automation", "assistant"],
     "tier": "top",
-    "path": "modules/ai/ai-module-29/"
+    "path": "modules/ai/ai-module-29/",
+    "thumbnail": "thumbnails/ai-module-29.png"
   },
   {
     "name": "Media Module 30",
-    "icon": "\ud83c\udfac",
-    "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 30', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "icon": "🎬",
+    "category": "Media & Content",
+    "description": "Gallery-style media display with autoplay, captions, playlist support, and category filters.",
+    "tags": ["media", "gallery", "autoplay", "player"],
     "tier": "mid",
-    "path": "modules/media/media-module-30/"
+    "path": "modules/media/media-module-30/",
+    "thumbnail": "thumbnails/media-module-30.png"
   },
   {
-    "name": "Seo Module 31",
-    "icon": "\ud83d\udd0d",
-    "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 31', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "name": "SEO Module 31",
+    "icon": "🔍",
+    "category": "SEO & Visibility",
+    "description": "Full SEO suite for optimizing metadata, running keyword reports, and improving search rank.",
+    "tags": ["seo", "keywords", "visibility", "ranking"],
     "tier": "top",
-    "path": "modules/seo/seo-module-31/"
+    "path": "modules/seo/seo-module-31/",
+    "thumbnail": "thumbnails/seo-module-31.png"
   },
   {
     "name": "Ecommerce Module 32",
-    "icon": "\ud83d\uded2",
-    "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 32', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "icon": "🛒",
+    "category": "Ecommerce",
+    "description": "Multi-vendor ready cart, checkout, and product manager designed for scalable marketplaces.",
+    "tags": ["ecommerce", "marketplace", "checkout", "products"],
     "tier": "top",
-    "path": "modules/ecommerce/ecommerce-module-32/"
+    "path": "modules/ecommerce/ecommerce-module-32/",
+    "thumbnail": "thumbnails/ecommerce-module-32.png"
   },
   {
     "name": "Marketing Module 33",
-    "icon": "\ud83d\udce3",
-    "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 33', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "icon": "📣",
+    "category": "Marketing Tools",
+    "description": "Simple campaign module for startups to manage email lists, basic automation, and follow-up funnels.",
+    "tags": ["marketing", "email", "automation", "campaign"],
     "tier": "low",
-    "path": "modules/marketing/marketing-module-33/"
+    "path": "modules/marketing/marketing-module-33/",
+    "thumbnail": "thumbnails/marketing-module-33.png"
   },
   {
     "name": "Media Module 34",
-    "icon": "\ud83c\udfac",
-    "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 34', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "icon": "🎬",
+    "category": "Media & Content",
+    "description": "Flexible player embed with streaming support, mobile compatibility, and content scheduling.",
+    "tags": ["media", "streaming", "embed", "player"],
     "tier": "top",
-    "path": "modules/media/media-module-34/"
+    "path": "modules/media/media-module-34/",
+    "thumbnail": "thumbnails/media-module-34.png"
   },
   {
-    "name": "Ai Module 35",
-    "icon": "\ud83e\udd16",
-    "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 35', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "name": "AI Module 35",
+    "icon": "🤖",
+    "category": "AI Tools",
+    "description": "Intelligent module builder that lets users generate text, images, and prompts on-the-fly via AI API.",
+    "tags": ["ai", "generator", "prompt", "builder"],
     "tier": "top",
-    "path": "modules/ai/ai-module-35/"
-  },
-  {
-    "name": "Marketing Module 36",
-    "icon": "\ud83d\udce3",
-    "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 36', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
-    "tier": "low",
-    "path": "modules/marketing/marketing-module-36/"
-  },
-  {
-    "name": "Seo Module 37",
-    "icon": "\ud83d\udd0d",
-    "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 37', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
-    "tier": "top",
-    "path": "modules/seo/seo-module-37/"
-  },
-  {
-    "name": "Media Module 38",
-    "icon": "\ud83c\udfac",
-    "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 38', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
-    "tier": "mid",
-    "path": "modules/media/media-module-38/"
-  },
-  {
-    "name": "Tools Module 39",
-    "icon": "\ud83d\udee0\ufe0f",
-    "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 39', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
-    "tier": "mid",
-    "path": "modules/tools/tools-module-39/"
-  },
-  {
-    "name": "Marketing Module 40",
-    "icon": "\ud83d\udce3",
-    "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 40', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
-    "tier": "mid",
-    "path": "modules/marketing/marketing-module-40/"
-  },
-  {
-    "name": "Ecommerce Module 41",
-    "icon": "\ud83d\uded2",
-    "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 41', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
-    "tier": "top",
-    "path": "modules/ecommerce/ecommerce-module-41/"
-  },
-  {
-    "name": "Media Module 42",
-    "icon": "\ud83c\udfac",
-    "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 42', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
-    "tier": "low",
-    "path": "modules/media/media-module-42/"
-  },
-  {
-    "name": "Tools Module 43",
-    "icon": "\ud83d\udee0\ufe0f",
-    "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 43', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
-    "tier": "top",
-    "path": "modules/tools/tools-module-43/"
-  },
-  {
-    "name": "Media Module 44",
-    "icon": "\ud83c\udfac",
-    "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 44', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
-    "tier": "mid",
-    "path": "modules/media/media-module-44/"
-  },
-  {
-    "name": "Ecommerce Module 45",
-    "icon": "\ud83d\uded2",
-    "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 45', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
-    "tier": "mid",
-    "path": "modules/ecommerce/ecommerce-module-45/"
-  },
-  {
-    "name": "Marketing Module 46",
-    "icon": "\ud83d\udce3",
-    "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 46', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
-    "tier": "top",
-    "path": "modules/marketing/marketing-module-46/"
-  },
-  {
-    "name": "Marketing Module 47",
-    "icon": "\ud83d\udce3",
-    "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 47', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
-    "tier": "low",
-    "path": "modules/marketing/marketing-module-47/"
-  },
-  {
-    "name": "Tools Module 48",
-    "icon": "\ud83d\udee0\ufe0f",
-    "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 48', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
-    "tier": "top",
-    "path": "modules/tools/tools-module-48/"
-  },
-  {
-    "name": "Marketing Module 49",
-    "icon": "\ud83d\udce3",
-    "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 49', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
-    "tier": "low",
-    "path": "modules/marketing/marketing-module-49/"
-  },
-  {
-    "name": "Seo Module 50",
-    "icon": "\ud83d\udd0d",
-    "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 50', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
-    "tier": "top",
-    "path": "modules/seo/seo-module-50/"
-  },
-  {
+    "path": "modules/ai/ai-module-35/",
+    "thumbnail": "thumbnails/ai-module-35.png"
+},
+{
+  "name": "Marketing Module 36",
+  "icon": "📣",
+  "category": "marketing",
+  "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies.",
+  "tags": ["campaign", "leads", "outreach"],
+  "tier": "low",
+  "path": "modules/marketing/marketing-module-36/",
+  "thumbnail": "thumbnails/marketing-module-36.png"
+},
+{
+  "name": "Seo Module 37",
+  "icon": "🔍",
+  "category": "seo",
+  "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score.",
+  "tags": ["ranking", "keywords", "audit"],
+  "tier": "top",
+  "path": "modules/seo/seo-module-37/",
+  "thumbnail": "thumbnails/seo-module-37.png"
+},
+{
+  "name": "Media Module 38",
+  "icon": "🎬",
+  "category": "media",
+  "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms.",
+  "tags": ["video", "audio", "player"],
+  "tier": "mid",
+  "path": "modules/media/media-module-38/",
+  "thumbnail": "thumbnails/media-module-38.png"
+},
+{
+  "name": "Tools Module 39",
+  "icon": "🛠️",
+  "category": "tools",
+  "description": "Adds essential utility functions, performance enhancements, or UI elements to your platform.",
+  "tags": ["helper", "productivity", "ui"],
+  "tier": "mid",
+  "path": "modules/tools/tools-module-39/",
+  "thumbnail": "thumbnails/tools-module-39.png"
+},
+{
+  "name": "Marketing Module 40",
+  "icon": "📣",
+  "category": "marketing",
+  "description": "Campaign automation, content generation, and funnel optimization.",
+  "tags": ["campaign", "leads", "outreach"],
+  "tier": "mid",
+  "path": "modules/marketing/marketing-module-40/",
+  "thumbnail": "thumbnails/marketing-module-40.png"
+},
+{
+  "name": "Ecommerce Module 41",
+  "icon": "🛒",
+  "category": "ecommerce",
+  "description": "Shopping cart, checkout, and product management for digital storefronts.",
+  "tags": ["checkout", "cart", "products"],
+  "tier": "top",
+  "path": "modules/ecommerce/ecommerce-module-41/",
+  "thumbnail": "thumbnails/ecommerce-module-41.png"
+},
+{
+  "name": "Media Module 42",
+  "icon": "🎬",
+  "category": "media",
+  "description": "Audio, video, and image player module for campaigns and websites.",
+  "tags": ["video", "audio", "player"],
+  "tier": "low",
+  "path": "modules/media/media-module-42/",
+  "thumbnail": "thumbnails/media-module-42.png"
+},
+{
+  "name": "Tools Module 43",
+  "icon": "🛠️",
+  "category": "tools",
+  "description": "Add utility enhancements, productivity tools, and dynamic UI features.",
+  "tags": ["helper", "productivity", "ui"],
+  "tier": "top",
+  "path": "modules/tools/tools-module-43/",
+  "thumbnail": "thumbnails/tools-module-43.png"
+},
+{
+  "name": "Media Module 44",
+  "icon": "🎬",
+  "category": "media",
+  "description": "Display video, audio, and visual media content inside your apps.",
+  "tags": ["video", "audio", "player"],
+  "tier": "mid",
+  "path": "modules/media/media-module-44/",
+  "thumbnail": "thumbnails/media-module-44.png"
+},
+{
+  "name": "Ecommerce Module 45",
+  "icon": "🛒",
+  "category": "ecommerce",
+  "description": "Streamline your checkout and cart functionality with ease.",
+  "tags": ["checkout", "cart", "products"],
+  "tier": "mid",
+  "path": "modules/ecommerce/ecommerce-module-45/",
+  "thumbnail": "thumbnails/ecommerce-module-45.png"
+},
+{
+  "name": "Marketing Module 46",
+  "icon": "📣",
+  "category": "marketing",
+  "description": "Drive user engagement with lead funnels and automated campaigns.",
+  "tags": ["campaign", "leads", "outreach"],
+  "tier": "top",
+  "path": "modules/marketing/marketing-module-46/",
+  "thumbnail": "thumbnails/marketing-module-46.png"
+},
+{
+  "name": "Marketing Module 47",
+  "icon": "📣",
+  "category": "marketing",
+  "description": "Support content creation, email blasts, and social media growth.",
+  "tags": ["campaign", "leads", "outreach"],
+  "tier": "low",
+  "path": "modules/marketing/marketing-module-47/",
+  "thumbnail": "thumbnails/marketing-module-47.png"
+},
+{
+  "name": "Tools Module 48",
+  "icon": "🛠️",
+  "category": "tools",
+  "description": "Embed flexible utilities for internal systems or client dashboards.",
+  "tags": ["helper", "productivity", "ui"],
+  "tier": "top",
+  "path": "modules/tools/tools-module-48/",
+  "thumbnail": "thumbnails/tools-module-48.png"
+},
+{
+  "name": "Marketing Module 49",
+  "icon": "📣",
+  "category": "marketing",
+  "description": "Design drip campaigns, conversion flows, and outreach automations.",
+  "tags": ["campaign", "leads", "outreach"],
+  "tier": "low",
+  "path": "modules/marketing/marketing-module-49/",
+  "thumbnail": "thumbnails/marketing-module-49.png"
+},
+{
+  "name": "Seo Module 50",
+  "icon": "🔍",
+  "category": "seo",
+  "description": "Improve SEO visibility with audits, keyword tools, and backlink suggestions.",
+  "tags": ["ranking", "keywords", "audit"],
+  "tier": "top",
+  "path": "modules/seo/seo-module-50/",
+  "thumbnail": "thumbnails/seo-module-50.png"
+ },
+ {
     "name": "Tools Module 51",
-    "icon": "\ud83d\udee0\ufe0f",
+    "icon": "🛠️",
     "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 51', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "description": "A practical tool that adds utility functions, performance enhancements, or UI upgrades to your platform. This module, called 'Tools Module 51', is designed for seamless app integration and works great solo or bundled.",
+    "tags": ["helper", "productivity", "ui"],
     "tier": "top",
-    "path": "modules/tools/tools-module-51/"
+    "path": "modules/tools/tools-module-51/",
+    "thumbnail": "thumbnails/tools-51.png"
   },
   {
     "name": "Ecommerce Module 52",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 52', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "This ecommerce module equips your platform with shopping cart, checkout, and product management tools. 'Ecommerce Module 52' is built for smooth integration and suits solo or bundled use cases.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "mid",
-    "path": "modules/ecommerce/ecommerce-module-52/"
+    "path": "modules/ecommerce/ecommerce-module-52/",
+    "thumbnail": "thumbnails/ecommerce-52.png"
   },
   {
     "name": "Seo Module 53",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 53', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Boost your SEO game with 'Seo Module 53'. It improves keyword structure, metadata, and overall visibility for search engines, and fits well in standalone or full-stack setups.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "mid",
-    "path": "modules/seo/seo-module-53/"
+    "path": "modules/seo/seo-module-53/",
+    "thumbnail": "thumbnails/seo-53.png"
   },
   {
     "name": "Tools Module 54",
-    "icon": "\ud83d\udee0\ufe0f",
+    "icon": "🛠️",
     "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 54', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "description": "Enhance your productivity with 'Tools Module 54'—a lightweight utility component offering UI helpers and performance boosters for your web app.",
+    "tags": ["helper", "productivity", "ui"],
     "tier": "low",
-    "path": "modules/tools/tools-module-54/"
+    "path": "modules/tools/tools-module-54/",
+    "thumbnail": "thumbnails/tools-54.png"
   },
   {
     "name": "Marketing Module 55",
-    "icon": "\ud83d\udce3",
+    "icon": "📣",
     "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 55', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "description": "Designed for rapid growth, 'Marketing Module 55' helps you launch automated campaigns, generate leads, and improve brand reach effortlessly.",
+    "tags": ["campaign", "leads", "outreach"],
     "tier": "top",
-    "path": "modules/marketing/marketing-module-55/"
+    "path": "modules/marketing/marketing-module-55/",
+    "thumbnail": "thumbnails/marketing-55.png"
   },
   {
     "name": "Ai Module 56",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 56', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "Leverage smart automation with 'Ai Module 56'. It powers task automation, content generation, and data-driven decision-making within your platform.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "top",
-    "path": "modules/ai/ai-module-56/"
+    "path": "modules/ai/ai-module-56/",
+    "thumbnail": "thumbnails/ai-56.png"
   },
   {
     "name": "Tools Module 57",
-    "icon": "\ud83d\udee0\ufe0f",
+    "icon": "🛠️",
     "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 57', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "description": "Compact yet powerful, 'Tools Module 57' improves user workflows with easy-to-use utility functions for enhanced productivity and performance.",
+    "tags": ["helper", "productivity", "ui"],
     "tier": "low",
-    "path": "modules/tools/tools-module-57/"
+    "path": "modules/tools/tools-module-57/",
+    "thumbnail": "thumbnails/tools-57.png"
   },
   {
     "name": "Ai Module 58",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 58', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "Built for adaptability, 'Ai Module 58' enables automated tasks, content creation, and insight-based actions for smart systems and apps.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "low",
-    "path": "modules/ai/ai-module-58/"
+    "path": "modules/ai/ai-module-58/",
+    "thumbnail": "thumbnails/ai-58.png"
   },
   {
     "name": "Ecommerce Module 59",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 59', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "Upgrade your shop with 'Ecommerce Module 59'. Includes features for cart handling, seamless checkout, and product organization.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "mid",
-    "path": "modules/ecommerce/ecommerce-module-59/"
+    "path": "modules/ecommerce/ecommerce-module-59/",
+    "thumbnail": "thumbnails/ecommerce-59.png"
   },
   {
     "name": "Ecommerce Module 60",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 60', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "Give customers a smooth buying journey with 'Ecommerce Module 60'. Built for easy deployment and flexible storefront configuration.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "mid",
-    "path": "modules/ecommerce/ecommerce-module-60/"
+    "path": "modules/ecommerce/ecommerce-module-60/",
+    "thumbnail": "thumbnails/ecommerce-60.png"
   },
   {
     "name": "Seo Module 61",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 61', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Streamline SEO management with 'Seo Module 61'. Great for audits, keyword upgrades, and performance tracking to improve rankings.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "low",
-    "path": "modules/seo/seo-module-61/"
+    "path": "modules/seo/seo-module-61/",
+    "thumbnail": "thumbnails/seo-61.png"
   },
   {
     "name": "Media Module 62",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 62', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "Host and stream content with ease using 'Media Module 62'. Best for handling images, audio, and video across creative platforms.",
+    "tags": ["video", "audio", "player"],
     "tier": "low",
-    "path": "modules/media/media-module-62/"
+    "path": "modules/media/media-module-62/",
+    "thumbnail": "thumbnails/media-62.png"
   },
   {
     "name": "Media Module 63",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 63', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "Polish your platform’s content delivery with 'Media Module 63'. Offers media player integration with top-tier UX enhancements.",
+    "tags": ["video", "audio", "player"],
     "tier": "top",
-    "path": "modules/media/media-module-63/"
+    "path": "modules/media/media-module-63/",
+    "thumbnail": "thumbnails/media-63.png"
   },
   {
     "name": "Seo Module 64",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 64', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Drive better search rankings with 'Seo Module 64'. Perfect for keyword tweaks, content audits, and technical visibility boosts.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "mid",
-    "path": "modules/seo/seo-module-64/"
+    "path": "modules/seo/seo-module-64/",
+    "thumbnail": "thumbnails/seo-64.png"
   },
   {
     "name": "Seo Module 65",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 65', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Increase discoverability with 'Seo Module 65'. Use it to identify issues, suggest improvements, and optimize your metadata.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "low",
-    "path": "modules/seo/seo-module-65/"
+    "path": "modules/seo/seo-module-65/",
+    "thumbnail": "thumbnails/seo-65.png"
   },
   {
     "name": "Tools Module 66",
-    "icon": "\ud83d\udee0\ufe0f",
+    "icon": "🛠️",
     "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 66', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "description": "Boost backend power or frontend UX with 'Tools Module 66'. It brings focused improvements to speed, layout, and interface elements.",
+    "tags": ["helper", "productivity", "ui"],
     "tier": "low",
-    "path": "modules/tools/tools-module-66/"
+    "path": "modules/tools/tools-module-66/",
+    "thumbnail": "thumbnails/tools-66.png"
   },
   {
     "name": "Marketing Module 67",
-    "icon": "\ud83d\udce3",
+    "icon": "📣",
     "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 67', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "description": "Lead the charge with 'Marketing Module 67'. Run smarter campaigns, grow email lists, and keep your brand visible and engaged.",
+    "tags": ["campaign", "leads", "outreach"],
     "tier": "top",
-    "path": "modules/marketing/marketing-module-67/"
+    "path": "modules/marketing/marketing-module-67/",
+    "thumbnail": "thumbnails/marketing-67.png"
   },
   {
     "name": "Media Module 68",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 68', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "Take control of your digital content with 'Media Module 68'. Manage uploads, streaming, and presentation across formats.",
+    "tags": ["video", "audio", "player"],
     "tier": "mid",
-    "path": "modules/media/media-module-68/"
+    "path": "modules/media/media-module-68/",
+    "thumbnail": "thumbnails/media-68.png"
   },
   {
     "name": "Seo Module 69",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 69', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Improve your online ranking with 'Seo Module 69'. It blends keyword strategy with real-time analytics for SEO success.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "top",
-    "path": "modules/seo/seo-module-69/"
+    "path": "modules/seo/seo-module-69/",
+    "thumbnail": "thumbnails/seo-69.png"
   },
   {
     "name": "Marketing Module 70",
-    "icon": "\ud83d\udce3",
+    "icon": "📣",
     "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 70', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "description": "Designed to boost brand exposure using campaign automation and funnel tactics, 'Marketing Module 70' fits solo and bundled growth stacks.",
+    "tags": ["campaign", "leads", "outreach"],
     "tier": "mid",
-    "path": "modules/marketing/marketing-module-70/"
+    "path": "modules/marketing/marketing-module-70/",
+    "thumbnail": "thumbnails/marketing-70.png"
   },
   {
     "name": "Marketing Module 71",
-    "icon": "\ud83d\udce3",
+    "icon": "📣",
     "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 71', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "description": "A powerful outreach tool for email sequences, landing pages, and conversion funnels. 'Marketing Module 71' is plug-and-play for fast campaigns.",
+    "tags": ["campaign", "leads", "outreach"],
     "tier": "top",
-    "path": "modules/marketing/marketing-module-71/"
+    "path": "modules/marketing/marketing-module-71/",
+    "thumbnail": "thumbnails/marketing-71.png"
   },
   {
     "name": "Ai Module 72",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 72', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "Smart content generation, auto-responses, and prediction tools make 'Ai Module 72' ideal for workflow acceleration and AI integration.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "top",
-    "path": "modules/ai/ai-module-72/"
+    "path": "modules/ai/ai-module-72/",
+    "thumbnail": "thumbnails/ai-72.png"
   },
   {
     "name": "Ecommerce Module 73",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 73', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "Streamlined product management and secure checkout flows are the core of 'Ecommerce Module 73'—perfect for quick shop deployment.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "top",
-    "path": "modules/ecommerce/ecommerce-module-73/"
+    "path": "modules/ecommerce/ecommerce-module-73/",
+    "thumbnail": "thumbnails/ecommerce-73.png"
   },
   {
     "name": "Ai Module 74",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 74', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "'Ai Module 74' combines smart decision-making with content generation and analytics tools for efficient automation.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "mid",
-    "path": "modules/ai/ai-module-74/"
+    "path": "modules/ai/ai-module-74/",
+    "thumbnail": "thumbnails/ai-74.png"
   },
   {
     "name": "Ai Module 75",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 75', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "'Ai Module 75' automates workflows and helps apps adapt to user behavior through real-time AI-driven actions.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "top",
-    "path": "modules/ai/ai-module-75/"
+    "path": "modules/ai/ai-module-75/",
+    "thumbnail": "thumbnails/ai-75.png"
   },
   {
     "name": "Seo Module 76",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 76', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "'Seo Module 76' audits page content and metadata to help your site rank higher in search engines.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "top",
-    "path": "modules/seo/seo-module-76/"
+    "path": "modules/seo/seo-module-76/",
+    "thumbnail": "thumbnails/seo-76.png"
   },
   {
     "name": "Ai Module 77",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 77', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "From auto-generated articles to predictive analytics, 'Ai Module 77' adds intelligence to any interface.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "top",
-    "path": "modules/ai/ai-module-77/"
+    "path": "modules/ai/ai-module-77/",
+    "thumbnail": "thumbnails/ai-77.png"
   },
   {
     "name": "Ecommerce Module 78",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 78', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "'Ecommerce Module 78' empowers your app to sell digital or physical products with cart logic and mobile-friendly checkout.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "top",
-    "path": "modules/ecommerce/ecommerce-module-78/"
+    "path": "modules/ecommerce/ecommerce-module-78/",
+    "thumbnail": "thumbnails/ecommerce-78.png"
   },
   {
     "name": "Ai Module 79",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 79', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "A lightweight AI tool that adds smart prompts, auto-actions, and data logic to smaller systems or internal modules.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "low",
-    "path": "modules/ai/ai-module-79/"
+    "path": "modules/ai/ai-module-79/",
+    "thumbnail": "thumbnails/ai-79.png"
   },
   {
     "name": "Ecommerce Module 80",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 80', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "Simplify customer purchases with 'Ecommerce Module 80'. Offers coupons, cart saves, and modern UX for conversions.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "mid",
-    "path": "modules/ecommerce/ecommerce-module-80/"
+    "path": "modules/ecommerce/ecommerce-module-80/",
+    "thumbnail": "thumbnails/ecommerce-80.png"
   },
   {
     "name": "Ai Module 81",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 81', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "'Ai Module 81' connects AI-powered automation to CRM or dashboard layers for next-level business logic.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "top",
-    "path": "modules/ai/ai-module-81/"
+    "path": "modules/ai/ai-module-81/",
+    "thumbnail": "thumbnails/ai-81.png"
   },
   {
     "name": "Seo Module 82",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 82', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "'Seo Module 82' improves your keyword density, link hygiene, and on-page SEO through actionable insights.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "mid",
-    "path": "modules/seo/seo-module-82/"
+    "path": "modules/seo/seo-module-82/",
+    "thumbnail": "thumbnails/seo-82.png"
   },
   {
     "name": "Tools Module 83",
-    "icon": "\ud83d\udee0\ufe0f",
+    "icon": "🛠️",
     "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 83', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "description": "'Tools Module 83' brings reusable components and helper functions that optimize app logic and backend tasks.",
+    "tags": ["helper", "productivity", "ui"],
     "tier": "mid",
-    "path": "modules/tools/tools-module-83/"
+    "path": "modules/tools/tools-module-83/",
+    "thumbnail": "thumbnails/tools-83.png"
   },
   {
     "name": "Media Module 84",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 84', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "'Media Module 84' features a clean media interface, adaptive layout, and easy drag-drop uploads.",
+    "tags": ["video", "audio", "player"],
     "tier": "mid",
-    "path": "modules/media/media-module-84/"
+    "path": "modules/media/media-module-84/",
+    "thumbnail": "thumbnails/media-84.png"
   },
   {
     "name": "Ai Module 85",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 85', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "'Ai Module 85' supercharges your analytics and automates your workflow with content-aware actions.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "top",
-    "path": "modules/ai/ai-module-85/"
+    "path": "modules/ai/ai-module-85/",
+    "thumbnail": "thumbnails/ai-85.png"
   },
   {
     "name": "Tools Module 86",
-    "icon": "\ud83d\udee0\ufe0f",
+    "icon": "🛠️",
     "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 86', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "description": "Add admin panel helpers and layout utilities with 'Tools Module 86'—perfect for dev dashboards and fast UI.",
+    "tags": ["helper", "productivity", "ui"],
     "tier": "mid",
-    "path": "modules/tools/tools-module-86/"
+    "path": "modules/tools/tools-module-86/",
+    "thumbnail": "thumbnails/tools-86.png"
   },
   {
     "name": "Tools Module 87",
-    "icon": "\ud83d\udee0\ufe0f",
+    "icon": "🛠️",
     "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 87', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "description": "'Tools Module 87' is a lean module for input validation, style control, and session-based helpers.",
+    "tags": ["helper", "productivity", "ui"],
     "tier": "low",
-    "path": "modules/tools/tools-module-87/"
+    "path": "modules/tools/tools-module-87/",
+    "thumbnail": "thumbnails/tools-87.png"
   },
   {
     "name": "Ai Module 88",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 88', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "'Ai Module 88' brings GPT-style conversation flows and auto-drafting tools for enhanced UX.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "top",
-    "path": "modules/ai/ai-module-88/"
+    "path": "modules/ai/ai-module-88/",
+    "thumbnail": "thumbnails/ai-88.png"
   },
   {
     "name": "Ai Module 89",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 89', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "'Ai Module 89' integrates AI suggestions and business logic based on user behavior patterns.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "low",
-    "path": "modules/ai/ai-module-89/"
+    "path": "modules/ai/ai-module-89/",
+    "thumbnail": "thumbnails/ai-89.png"
   },
   {
     "name": "Ai Module 90",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 90', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "This module, called 'Ai Module 90', helps automate tasks and enhance decision-making using intelligent content generation. Perfect for platforms needing smart suggestions or workflow automation.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "top",
     "path": "modules/ai/ai-module-90/"
   },
   {
     "name": "Ai Module 91",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 91', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "Ai Module 91 adds AI-driven automation and decision assistance into your platform. Designed to offer intelligent content creation and process support.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "low",
     "path": "modules/ai/ai-module-91/"
   },
   {
     "name": "Marketing Module 92",
-    "icon": "\ud83d\udce3",
+    "icon": "📣",
     "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 92', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "description": "Marketing Module 92 streamlines brand growth with campaign tools, lead nurturing, and outreach automation—ideal for scaling awareness and conversions.",
+    "tags": ["campaign", "leads", "outreach"],
     "tier": "mid",
     "path": "modules/marketing/marketing-module-92/"
   },
   {
     "name": "Media Module 93",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 93', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "Media Module 93 enables seamless audio, video, and image display across websites and platforms, with lightweight player integration.",
+    "tags": ["video", "audio", "player"],
     "tier": "low",
     "path": "modules/media/media-module-93/"
   },
   {
     "name": "Seo Module 94",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 94', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Seo Module 94 enhances your website’s visibility with keyword audits, backlink checks, and content scoring—ideal for boosting search rankings.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "top",
     "path": "modules/seo/seo-module-94/"
   },
   {
     "name": "Ecommerce Module 95",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 95', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "Ecommerce Module 95 adds essential cart, checkout, and inventory tools to your digital store—compatible with storefront or marketplace models.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "mid",
     "path": "modules/ecommerce/ecommerce-module-95/"
   },
   {
     "name": "Seo Module 96",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 96', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Seo Module 96 helps websites climb search rankings with keyword optimization, technical audits, and visibility tracking built-in.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "top",
     "path": "modules/seo/seo-module-96/"
   },
   {
     "name": "Media Module 97",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 97', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "Media Module 97 powers your app with streaming-ready video, clean audio, and image sliders, enhancing user engagement for creators and brands.",
+    "tags": ["video", "audio", "player"],
     "tier": "low",
     "path": "modules/media/media-module-97/"
   },
   {
     "name": "Ecommerce Module 98",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 98', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "Ecommerce Module 98 supports advanced product display, cart logic, and smooth checkout—suitable for single vendors or large-scale marketplaces.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "top",
     "path": "modules/ecommerce/ecommerce-module-98/"
   },
   {
     "name": "Marketing Module 99",
-    "icon": "\ud83d\udce3",
+    "icon": "📣",
     "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 99', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "description": "Marketing Module 99 simplifies campaign management, from funnel building to outreach. Use it to guide prospects through lead stages effectively.",
+    "tags": ["campaign", "leads", "outreach"],
     "tier": "mid",
     "path": "modules/marketing/marketing-module-99/"
   },
   {
     "name": "Ai Module 100",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 100', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "Ai Module 100 adds premium AI capabilities to automate services, generate articles, and drive smarter user experiences through predictive tools.",
+    "tags": ["automation", "generator", "intelligence"],
+    "tier": "top",
+    "path": "modules/ai/ai-module-100/"
+  },
+  {
+    "name": "Ai Module 100",
+    "icon": "🤖",
+    "category": "ai",
+    "description": "Use AI-driven models to enhance decision-making, generate smart responses, and automate core processes in your apps.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "top",
     "path": "modules/ai/ai-module-100/"
   },
   {
     "name": "Ecommerce Module 101",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 101', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "Supports a simplified checkout, inventory tracking, and cart integration to power digital storefronts or service ordering.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "low",
     "path": "modules/ecommerce/ecommerce-module-101/"
   },
   {
     "name": "Ecommerce Module 102",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 102', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "Mid-tier ecommerce engine with product categories, shipping logic, and session-based cart management.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "mid",
     "path": "modules/ecommerce/ecommerce-module-102/"
   },
   {
     "name": "Media Module 103",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 103', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "Feature-rich player and media uploader system to stream audio, video, or display image collections responsively.",
+    "tags": ["video", "audio", "player"],
     "tier": "mid",
     "path": "modules/media/media-module-103/"
   },
   {
     "name": "Ecommerce Module 104",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 104', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "Streamlined ecommerce toolset with Stripe/PayPal support and product customization options.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "mid",
     "path": "modules/ecommerce/ecommerce-module-104/"
   },
   {
     "name": "Tools Module 105",
-    "icon": "\ud83d\udee0\ufe0f",
+    "icon": "🛠️",
     "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 105', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "description": "Utility booster module with helpful scripts, performance enhancements, and reusable frontend components.",
+    "tags": ["helper", "productivity", "ui"],
     "tier": "low",
     "path": "modules/tools/tools-module-105/"
   },
   {
     "name": "Ai Module 106",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 106', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "Mid-tier AI logic engine capable of generating tailored content, user prompts, and workflow enhancements.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "mid",
     "path": "modules/ai/ai-module-106/"
   },
   {
     "name": "Tools Module 107",
-    "icon": "\ud83d\udee0\ufe0f",
+    "icon": "🛠️",
     "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 107', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "description": "Modular toolbox for injecting lightweight frontend tools like tooltips, loaders, shortcuts, or UI toggles.",
+    "tags": ["helper", "productivity", "ui"],
     "tier": "low",
     "path": "modules/tools/tools-module-107/"
   },
   {
     "name": "Seo Module 108",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 108', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Integrates keyword optimization, meta tag editing, and indexability checks for full-page SEO readiness.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "mid",
     "path": "modules/seo/seo-module-108/"
   },
   {
     "name": "Ecommerce Module 109",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 109', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "Top-tier ecommerce pack including multi-vendor, tax settings, and advanced checkout customization.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "top",
     "path": "modules/ecommerce/ecommerce-module-109/"
   },
   {
     "name": "Marketing Module 110",
-    "icon": "\ud83d\udce3",
+    "icon": "📣",
     "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 110', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "description": "Starter-level marketing suite for campaign launches, social post scheduling, and lead capture forms.",
+    "tags": ["campaign", "leads", "outreach"],
     "tier": "low",
     "path": "modules/marketing/marketing-module-110/"
   },
   {
     "name": "Media Module 111",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 111', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "Advanced media manager that delivers high-quality playback for videos, music, and image galleries. Ideal for creators and campaign-driven sites.",
+    "tags": ["video", "audio", "player"],
     "tier": "top",
     "path": "modules/media/media-module-111/"
   },
   {
     "name": "Media Module 112",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 112', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "Top-tier streaming and visual module to embed video, audio, and image content seamlessly into your platform.",
+    "tags": ["video", "audio", "player"],
     "tier": "top",
     "path": "modules/media/media-module-112/"
   },
   {
     "name": "Marketing Module 113",
-    "icon": "\ud83d\udce3",
+    "icon": "📣",
     "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 113', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "description": "Lead-generating marketing module focused on campaign automation, funnel design, and content distribution tools.",
+    "tags": ["campaign", "leads", "outreach"],
     "tier": "top",
     "path": "modules/marketing/marketing-module-113/"
   },
   {
     "name": "Media Module 114",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 114', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "Flexible media handler with upload, preview, and custom embed options. Great for blogs, portfolios, or content libraries.",
+    "tags": ["video", "audio", "player"],
     "tier": "mid",
     "path": "modules/media/media-module-114/"
   },
   {
     "name": "Ai Module 115",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 115', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "Automates backend logic and generates intelligent responses or workflows using built-in AI decision engines.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "mid",
     "path": "modules/ai/ai-module-115/"
   },
   {
     "name": "Ecommerce Module 116",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 116', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "Lightweight ecommerce toolkit with basic cart and checkout functionality for streamlined storefronts or bookings.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "low",
     "path": "modules/ecommerce/ecommerce-module-116/"
   },
   {
     "name": "Marketing Module 117",
-    "icon": "\ud83d\udce3",
+    "icon": "📣",
     "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 117', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "description": "Entry-level marketing suite that helps launch campaigns, collect leads, and send email/SMS messages effectively.",
+    "tags": ["campaign", "leads", "outreach"],
     "tier": "low",
     "path": "modules/marketing/marketing-module-117/"
   },
   {
     "name": "Ai Module 118",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 118', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "AI-powered assistant to support automation of content creation, form responses, and workflow decision trees.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "top",
     "path": "modules/ai/ai-module-118/"
   },
   {
     "name": "Seo Module 119",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 119', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Advanced SEO analyzer and optimizer with tools to refine keywords, structure metadata, and boost search rankings.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "top",
     "path": "modules/seo/seo-module-119/"
   },
   {
     "name": "Marketing Module 120",
-    "icon": "\ud83d\udce3",
+    "icon": "📣",
     "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 120', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "description": "Mid-tier marketing suite for automating campaigns, tracking leads, and optimizing funnels with ease.",
+    "tags": ["campaign", "leads", "outreach"],
     "tier": "mid",
     "path": "modules/marketing/marketing-module-120/"
   },
   {
     "name": "Marketing Module 121",
-    "icon": "\ud83d\udce3",
+    "icon": "📣",
     "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 121', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "description": "Top-performing campaign builder with analytics, autoresponders, and lead magnet integrations.",
+    "tags": ["campaign", "leads", "outreach"],
     "tier": "top",
     "path": "modules/marketing/marketing-module-121/"
   },
   {
     "name": "Marketing Module 122",
-    "icon": "\ud83d\udce3",
+    "icon": "📣",
     "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 122', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "description": "Robust mid-tier tool for generating, organizing, and converting marketing leads into active customers.",
+    "tags": ["campaign", "leads", "outreach"],
     "tier": "mid",
     "path": "modules/marketing/marketing-module-122/"
   },
   {
     "name": "Tools Module 123",
-    "icon": "\ud83d\udee0\ufe0f",
+    "icon": "🛠️",
     "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 123', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "description": "A reliable toolkit for streamlining UI behaviors, utility functions, and everyday productivity boosts.",
+    "tags": ["helper", "productivity", "ui"],
     "tier": "low",
     "path": "modules/tools/tools-module-123/"
   },
   {
     "name": "Tools Module 124",
-    "icon": "\ud83d\udee0\ufe0f",
+    "icon": "🛠️",
     "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 124', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "description": "Simple but powerful enhancement module for interface tweaks, productivity hacks, and UI polish.",
+    "tags": ["helper", "productivity", "ui"],
     "tier": "low",
     "path": "modules/tools/tools-module-124/"
   },
   {
     "name": "Tools Module 125",
-    "icon": "\ud83d\udee0\ufe0f",
+    "icon": "🛠️",
     "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 125', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "description": "Core productivity helper with utilities for layout fixes, animations, and performance tweaks.",
+    "tags": ["helper", "productivity", "ui"],
     "tier": "low",
     "path": "modules/tools/tools-module-125/"
   },
   {
     "name": "Media Module 126",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 126', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "High-performance media delivery module for crisp visuals and smooth audio playback.",
+    "tags": ["video", "audio", "player"],
     "tier": "top",
     "path": "modules/media/media-module-126/"
   },
   {
     "name": "Tools Module 127",
-    "icon": "\ud83d\udee0\ufe0f",
+    "icon": "🛠️",
     "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 127', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "description": "Top-tier toolset for performance tuning, interface boosting, and smart backend triggers.",
+    "tags": ["helper", "productivity", "ui"],
     "tier": "top",
     "path": "modules/tools/tools-module-127/"
   },
   {
     "name": "Seo Module 128",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 128', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Mid-range SEO toolkit that audits your site for keyword strength, page speed, and metadata clarity.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "mid",
     "path": "modules/seo/seo-module-128/"
   },
   {
     "name": "Ai Module 129",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 129', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "Mid-level AI engine to support intelligent content generation, automation, and predictive actions.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "mid",
     "path": "modules/ai/ai-module-129/"
   },
   {
     "name": "Media Module 130",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 130', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "All-in-one multimedia player module with responsive design and full media support.",
+    "tags": ["video", "audio", "player"],
     "tier": "top",
     "path": "modules/media/media-module-130/"
   },
   {
     "name": "Ai Module 131",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 131', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "AI engine that automates workflow tasks and enhances decision-making with intelligent responses.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "mid",
     "path": "modules/ai/ai-module-131/"
   },
   {
     "name": "Marketing Module 132",
-    "icon": "\ud83d\udce3",
+    "icon": "📣",
     "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 132', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "description": "Basic lead-generation and campaign launching tool, ideal for small-scale marketing ops.",
+    "tags": ["campaign", "leads", "outreach"],
     "tier": "low",
     "path": "modules/marketing/marketing-module-132/"
   },
   {
     "name": "Seo Module 133",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 133', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Basic SEO scanner with keyword reports and fundamental visibility checks for content creators.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "low",
     "path": "modules/seo/seo-module-133/"
   },
   {
     "name": "Tools Module 134",
-    "icon": "\ud83d\udee0\ufe0f",
+    "icon": "🛠️",
     "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 134', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "description": "Utility booster with essential enhancements for app responsiveness and UI clarity.",
+    "tags": ["helper", "productivity", "ui"],
     "tier": "mid",
     "path": "modules/tools/tools-module-134/"
   },
   {
     "name": "Media Module 135",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 135', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "Top-tier module for presenting dynamic video, podcast audio, and visual assets across platforms.",
+    "tags": ["video", "audio", "player"],
     "tier": "top",
     "path": "modules/media/media-module-135/"
   },
   {
     "name": "Marketing Module 136",
-    "icon": "\ud83d\udce3",
+    "icon": "📣",
     "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 136', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "description": "Drive growth with automated campaigns, high-converting funnels, and strategic outreach. Perfect for scaling your brand visibility and nurturing leads with ease.",
+    "tags": ["campaign", "leads", "outreach"],
     "tier": "top",
     "path": "modules/marketing/marketing-module-136/"
   },
   {
     "name": "Ecommerce Module 137",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 137', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "Add seamless shopping cart, checkout, and product management to your app. Ideal for creating a professional storefront that boosts conversions.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "top",
     "path": "modules/ecommerce/ecommerce-module-137/"
   },
   {
     "name": "Ecommerce Module 138",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 138', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "Fully-featured module for managing online sales, product catalogs, and real-time cart activity across platforms.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "top",
     "path": "modules/ecommerce/ecommerce-module-138/"
   },
   {
     "name": "Media Module 139",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 139', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "Present stunning audio and video content across your app with sleek, responsive media players and galleries.",
+    "tags": ["video", "audio", "player"],
     "tier": "top",
     "path": "modules/media/media-module-139/"
   },
   {
     "name": "Ai Module 140",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 140', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "Empower your platform with intelligent automation tools to boost productivity, enhance UX, and generate powerful insights.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "low",
     "path": "modules/ai/ai-module-140/"
   },
   {
     "name": "Media Module 141",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 141', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "Host and showcase your visual and audio content with reliable and customizable media integration tools.",
+    "tags": ["video", "audio", "player"],
     "tier": "low",
     "path": "modules/media/media-module-141/"
   },
   {
     "name": "Ecommerce Module 142",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 142', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "Turn your app into a storefront with built-in cart and checkout capabilities for digital and physical products.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "top",
     "path": "modules/ecommerce/ecommerce-module-142/"
   },
   {
     "name": "Tools Module 143",
-    "icon": "\ud83d\udee0\ufe0f",
+    "icon": "🛠️",
     "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 143', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "description": "Boost your app’s functionality with helper utilities, speed tweaks, and UI enhancements for a smoother user experience.",
+    "tags": ["helper", "productivity", "ui"],
     "tier": "top",
     "path": "modules/tools/tools-module-143/"
   },
   {
     "name": "Media Module 144",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 144', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "Integrate flexible, responsive media tools to display images, videos, or podcasts cleanly across your platform.",
+    "tags": ["video", "audio", "player"],
     "tier": "mid",
     "path": "modules/media/media-module-144/"
   },
   {
     "name": "Ecommerce Module 145",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 145', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "Advanced module for eCommerce operations—supports catalog browsing, add-to-cart flows, and dynamic checkout systems.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "top",
     "path": "modules/ecommerce/ecommerce-module-145/"
   },
   {
     "name": "Ai Module 146",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 146', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "Automate repetitive workflows and inject intelligence into your systems using this smart AI utility module.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "low",
     "path": "modules/ai/ai-module-146/"
   },
   {
     "name": "Seo Module 147",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 147', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Audit and optimize your website or app content for better search visibility, keyword relevance, and technical SEO health.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "mid",
     "path": "modules/seo/seo-module-147/"
   },
   {
     "name": "Media Module 148",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 148', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "Streamline media presentation with this responsive, user-friendly module for audio, video, and interactive content.",
+    "tags": ["video", "audio", "player"],
     "tier": "mid",
     "path": "modules/media/media-module-148/"
   },
   {
     "name": "Seo Module 149",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 149', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Ensure your digital properties are properly indexed and discoverable with tools for meta tags, backlinks, and content audits.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "low",
     "path": "modules/seo/seo-module-149/"
   },
   {
     "name": "Marketing Module 150",
-    "icon": "\ud83d\udce3",
+    "icon": "📣",
     "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 150', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "description": "Campaign automation and lead gen at its finest. This advanced marketing module offers outreach optimization and seamless funnel setup.",
+    "tags": ["campaign", "leads", "outreach"],
     "tier": "top",
     "path": "modules/marketing/marketing-module-150/"
   },
   {
     "name": "Media Module 151",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 151', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "Supports seamless playback and management of media files—perfect for campaign content or creator platforms.",
+    "tags": ["video", "audio", "player"],
     "tier": "mid",
     "path": "modules/media/media-module-151/"
   },
   {
     "name": "Seo Module 152",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 152', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Boosts your content's visibility and rankings through keyword audits, metadata scoring, and SEO automation.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "mid",
     "path": "modules/seo/seo-module-152/"
   },
   {
     "name": "Ai Module 153",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 153', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "Generates smart content, automates data processing, and enhances app logic using AI decision support.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "mid",
     "path": "modules/ai/ai-module-153/"
   },
   {
     "name": "Seo Module 154",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 154', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Analyze your pages and pagespeed while identifying optimization points for search performance gains.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "mid",
     "path": "modules/seo/seo-module-154/"
   },
   {
     "name": "Marketing Module 155",
-    "icon": "\ud83d\udce3",
+    "icon": "📣",
     "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 155', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "description": "A scalable campaign toolkit that’s perfect for growth hacking, lead scoring, and nurturing strategies.",
+    "tags": ["campaign", "leads", "outreach"],
     "tier": "mid",
     "path": "modules/marketing/marketing-module-155/"
   },
   {
     "name": "Ecommerce Module 156",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 156', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "Enables a seamless shopping experience with cart, product display, and secure checkout tools.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "top",
     "path": "modules/ecommerce/ecommerce-module-156/"
   },
   {
     "name": "Seo Module 157",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 157', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Professional-grade SEO analyzer for enterprise-level content audits and optimization tasks.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "top",
     "path": "modules/seo/seo-module-157/"
   },
   {
     "name": "Ecommerce Module 158",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 158', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "A flexible ecommerce module with fast-loading cart and checkout logic, built for mobile responsiveness.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "mid",
     "path": "modules/ecommerce/ecommerce-module-158/"
   },
   {
     "name": "Media Module 159",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 159', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "A polished media system supporting embedded video, audio streaming, and playback controls.",
+    "tags": ["video", "audio", "player"],
     "tier": "top",
     "path": "modules/media/media-module-159/"
   },
   {
     "name": "Ai Module 160",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 160', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "Lightweight AI utility that automates repetitive tasks and generates content summaries.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "low",
     "path": "modules/ai/ai-module-160/"
   },
   {
     "name": "Marketing Module 161",
-    "icon": "\ud83d\udce3",
+    "icon": "📣",
     "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 161', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "description": "Designed for high-converting campaigns, this module targets lead capture and email workflows.",
+    "tags": ["campaign", "leads", "outreach"],
     "tier": "mid",
     "path": "modules/marketing/marketing-module-161/"
   },
   {
     "name": "Ai Module 162",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 162', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "Builds context-aware content and decision trees using AI heuristics and logic flows.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "low",
     "path": "modules/ai/ai-module-162/"
   },
   {
     "name": "Seo Module 163",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 163', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Performs an SEO-grade site checkup and delivers actionable keyword ranking insights.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "mid",
     "path": "modules/seo/seo-module-163/"
   },
   {
     "name": "Tools Module 164",
-    "icon": "\ud83d\udee0\ufe0f",
+    "icon": "🛠️",
     "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 164', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "description": "System tools bundle for UI enhancements, dev utilities, and productivity functions.",
+    "tags": ["helper", "productivity", "ui"],
     "tier": "mid",
     "path": "modules/tools/tools-module-164/"
   },
   {
     "name": "Media Module 165",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 165', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "Perfect for podcast or video hosts, this module supports rich media display in-app.",
+    "tags": ["video", "audio", "player"],
     "tier": "top",
     "path": "modules/media/media-module-165/"
   },
   {
     "name": "Media Module 166",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 166', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "Includes customizable media player skins and playlist handling for creators.",
+    "tags": ["video", "audio", "player"],
     "tier": "mid",
     "path": "modules/media/media-module-166/"
   },
   {
     "name": "Media Module 167",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 167', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "Enterprise-level media gallery with support for large video libraries and CDN streaming.",
+    "tags": ["video", "audio", "player"],
     "tier": "top",
     "path": "modules/media/media-module-167/"
   },
   {
     "name": "Seo Module 168",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 168', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Comprehensive search optimization module for SERP dominance and rich snippet support.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "top",
     "path": "modules/seo/seo-module-168/"
   },
   {
     "name": "Ai Module 169",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 169', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "Entry-level AI assistant for lightweight content ideas, smart prompts, and chatbot logic.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "low",
     "path": "modules/ai/ai-module-169/"
   },
   {
     "name": "Tools Module 170",
-    "icon": "\ud83d\udee0\ufe0f",
+    "icon": "🛠️",
     "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 170', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "description": "Essential platform booster offering UI enhancements and backend utility support.",
+    "tags": ["helper", "productivity", "ui"],
     "tier": "top",
     "path": "modules/tools/tools-module-170/"
   },
   {
     "name": "Marketing Module 171",
-    "icon": "\ud83d\udce3",
+    "icon": "📣",
     "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 171', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "description": "Leads, campaigns, and automation—streamlined for scalable business growth.",
+    "tags": ["campaign", "leads", "outreach"],
     "tier": "mid",
     "path": "modules/marketing/marketing-module-171/"
   },
   {
     "name": "Media Module 172",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 172', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "Simple media player setup with support for standard audio/video types.",
+    "tags": ["video", "audio", "player"],
     "tier": "low",
     "path": "modules/media/media-module-172/"
   },
   {
     "name": "Marketing Module 173",
-    "icon": "\ud83d\udce3",
+    "icon": "📣",
     "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 173', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "description": "Advanced campaign manager for growth strategists and email marketers.",
+    "tags": ["campaign", "leads", "outreach"],
     "tier": "top",
     "path": "modules/marketing/marketing-module-173/"
   },
   {
     "name": "Ai Module 174",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 174', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "Top-tier automation engine with learning-based content generation.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "top",
     "path": "modules/ai/ai-module-174/"
   },
   {
     "name": "Media Module 175",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 175', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "Elegant gallery with embedded playback support for dynamic campaigns.",
+    "tags": ["video", "audio", "player"],
     "tier": "mid",
     "path": "modules/media/media-module-175/"
   },
   {
     "name": "Ecommerce Module 176",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 176', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "Sell smarter—product pages, cart logic, and checkout all in one.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "top",
     "path": "modules/ecommerce/ecommerce-module-176/"
   },
   {
     "name": "Ai Module 177",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 177', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "Content and workflow AI—adapts to user data and user flows.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "mid",
     "path": "modules/ai/ai-module-177/"
   },
   {
     "name": "Tools Module 178",
-    "icon": "\ud83d\udee0\ufe0f",
+    "icon": "🛠️",
     "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 178', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "description": "UI framework booster with tooltips, widgets, and layout helpers.",
+    "tags": ["helper", "productivity", "ui"],
     "tier": "top",
     "path": "modules/tools/tools-module-178/"
   },
   {
     "name": "Ecommerce Module 179",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 179', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "A fast, responsive ecommerce experience for modern shoppers.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "top",
     "path": "modules/ecommerce/ecommerce-module-179/"
   },
   {
     "name": "Tools Module 180",
-    "icon": "\ud83d\udee0\ufe0f",
+    "icon": "🛠️",
     "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 180', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "description": "Efficiency toolkit for backend ops and visual UI edits.",
+    "tags": ["helper", "productivity", "ui"],
     "tier": "top",
     "path": "modules/tools/tools-module-180/"
   },
   {
     "name": "Seo Module 181",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 181', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Audit and optimize keywords, page speed, and rich metadata.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "mid",
     "path": "modules/seo/seo-module-181/"
   },
   {
     "name": "Seo Module 182",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 182', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Get insights into your content visibility with basic rank tools.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "low",
     "path": "modules/seo/seo-module-182/"
   },
   {
     "name": "Seo Module 183",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 183', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Professional-level SEO auditing for power marketers and developers.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "top",
     "path": "modules/seo/seo-module-183/"
   },
   {
     "name": "Seo Module 184",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 184', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Starter SEO tools for small teams and startup sites.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "low",
     "path": "modules/seo/seo-module-184/"
   },
   {
     "name": "Ecommerce Module 185",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 185', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "Low-cost ecommerce stack for small product stores and niche sellers.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "low",
     "path": "modules/ecommerce/ecommerce-module-185/"
   },
   {
     "name": "Ai Module 186",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 186', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "Plug-and-play AI support for chat, prediction, and content ideas.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "mid",
     "path": "modules/ai/ai-module-186/"
   },
   {
     "name": "Media Module 187",
-    "icon": "\ud83c\udfac",
+    "icon": "🎬",
     "category": "media",
-    "description": "Manage and present audio, video, and image content for websites, campaigns, or creator platforms. This module, called 'Media Module 187', is specifically built to integrate smoothly into your apps. It provides functionality like video, audio, player, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "video",
-      "audio",
-      "player"
-    ],
+    "description": "Player module with custom themes and drag-drop media upload.",
+    "tags": ["video", "audio", "player"],
     "tier": "mid",
     "path": "modules/media/media-module-187/"
   },
   {
     "name": "Marketing Module 188",
-    "icon": "\ud83d\udce3",
+    "icon": "📣",
     "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 188', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "description": "Entry-level marketing system with lead capture and email sync.",
+    "tags": ["campaign", "leads", "outreach"],
     "tier": "low",
     "path": "modules/marketing/marketing-module-188/"
   },
   {
     "name": "Seo Module 189",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 189', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Basic on-page SEO tools for tags, structure, and crawlability.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "low",
     "path": "modules/seo/seo-module-189/"
   },
+[
   {
     "name": "Ai Module 190",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 190', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "Mid-tier AI assistant for automating tasks and content generation workflows.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "mid",
     "path": "modules/ai/ai-module-190/"
   },
   {
     "name": "Ecommerce Module 191",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 191', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "Smooth shopping cart experience with backend-ready checkout and product pages.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "mid",
     "path": "modules/ecommerce/ecommerce-module-191/"
   },
   {
     "name": "Ai Module 192",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 192', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "Premium AI module for business-grade automation and smart decision tools.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "top",
     "path": "modules/ai/ai-module-192/"
   },
   {
     "name": "Marketing Module 193",
-    "icon": "\ud83d\udce3",
+    "icon": "📣",
     "category": "marketing",
-    "description": "Helps grow your brand with campaign automation, content generation, and funnel optimization strategies. This module, called 'Marketing Module 193', is specifically built to integrate smoothly into your apps. It provides functionality like campaign, leads, outreach, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "campaign",
-      "leads",
-      "outreach"
-    ],
+    "description": "Campaign, content, and lead generation rolled into one mid-level solution.",
+    "tags": ["campaign", "leads", "outreach"],
     "tier": "mid",
     "path": "modules/marketing/marketing-module-193/"
   },
   {
     "name": "Ecommerce Module 194",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 194', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "Perfect for mobile storefronts and growing online product catalogs.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "mid",
     "path": "modules/ecommerce/ecommerce-module-194/"
   },
   {
     "name": "Ecommerce Module 195",
-    "icon": "\ud83d\uded2",
+    "icon": "🛒",
     "category": "ecommerce",
-    "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities. This module, called 'Ecommerce Module 195', is specifically built to integrate smoothly into your apps. It provides functionality like checkout, cart, products, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "description": "Feature-rich cart and checkout system for high-traffic digital shops.",
+    "tags": ["checkout", "cart", "products"],
     "tier": "top",
     "path": "modules/ecommerce/ecommerce-module-195/"
   },
   {
     "name": "Tools Module 196",
-    "icon": "\ud83d\udee0\ufe0f",
+    "icon": "🛠️",
     "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 196', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "description": "Boost platform performance with this productivity-focused utility module.",
+    "tags": ["helper", "productivity", "ui"],
     "tier": "top",
     "path": "modules/tools/tools-module-196/"
   },
   {
     "name": "Seo Module 197",
-    "icon": "\ud83d\udd0d",
+    "icon": "🔍",
     "category": "seo",
-    "description": "Optimize your web content for search engines by improving keywords, links, metadata, and visibility score. This module, called 'Seo Module 197', is specifically built to integrate smoothly into your apps. It provides functionality like ranking, keywords, audit, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "ranking",
-      "keywords",
-      "audit"
-    ],
+    "description": "Upgrade your search rankings with this reliable, mid-tier SEO assistant.",
+    "tags": ["ranking", "keywords", "audit"],
     "tier": "mid",
     "path": "modules/seo/seo-module-197/"
   },
   {
     "name": "Tools Module 198",
-    "icon": "\ud83d\udee0\ufe0f",
+    "icon": "🛠️",
     "category": "tools",
-    "description": "A practical tool that adds essential utility functions, performance enhancements, or UI elements to your platform. This module, called 'Tools Module 198', is specifically built to integrate smoothly into your apps. It provides functionality like helper, productivity, ui, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "helper",
-      "productivity",
-      "ui"
-    ],
+    "description": "Top-level toolset for devs needing UI helpers and productivity shortcuts.",
+    "tags": ["helper", "productivity", "ui"],
     "tier": "top",
     "path": "modules/tools/tools-module-198/"
   },
   {
     "name": "Ai Module 199",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 199', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "Reliable AI tool for content generation, form prediction, and user insights.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "mid",
     "path": "modules/ai/ai-module-199/"
   },
   {
     "name": "Ai Module 200",
-    "icon": "\ud83e\udd16",
+    "icon": "🤖",
     "category": "ai",
-    "description": "This module leverages advanced AI to automate tasks, generate content, or enhance decision-making based on user data. This module, called 'Ai Module 200', is specifically built to integrate smoothly into your apps. It provides functionality like automation, generator, intelligence, and adapts well to both solo and bundled use cases.",
-    "tags": [
-      "automation",
-      "generator",
-      "intelligence"
-    ],
+    "description": "Balanced AI module with seamless app integration and multi-use logic.",
+    "tags": ["automation", "generator", "intelligence"],
     "tier": "mid",
     "path": "modules/ai/ai-module-200/"
   }
