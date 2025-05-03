@@ -1,6 +1,6 @@
 let allModules = [];
-fetch('modules_detailed_v8_descriptions.json')
-  .then(res => res.json())
+fetch('modules.json')
+.then(res => res.json())
   .then(data => {
     allModules = data;
     populateCategoryDropdown(data);
