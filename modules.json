@@ -4,27 +4,3199 @@
     "icon": "🛒",
     "category": "ecommerce",
     "description": "Equip your digital storefront with shopping cart, checkout, and product management capabilities.",
-    "tags": [
-      "checkout",
-      "cart",
-      "products"
-    ],
+    "tags": ["checkout", "cart", "products"],
     "tier": "top",
     "path": "modules/ecommerce/ecommerce-module-1/",
     "thumbnail": "thumbnails/ecommerce-module-1.png"
   },
   {
-    "name": "Client Dream Builder 301",
-    "icon": "💡",
+    "name": "Marketing Module 2",
+    "icon": "📣",
+    "category": "marketing",
+    "description": "Grow your brand with marketing automations, lead capture tools, and social media outreach.",
+    "tags": ["campaigns", "social", "leads"],
+    "tier": "top",
+    "path": "modules/marketing/marketing-module-2/",
+    "thumbnail": "thumbnails/marketing-module-2.png"
+  },
+  {
+    "name": "AI Assistant Module 3",
+    "icon": "🤖",
+    "category": "ai",
+    "description": "Smart AI assistant that helps automate tasks, suggest responses, and manage workflows.",
+    "tags": ["automation", "chatbot", "assistant"],
+    "tier": "top",
+    "path": "modules/ai/ai-assistant-module-3/",
+    "thumbnail": "thumbnails/ai-assistant-module-3.png"
+  },
+  {
+    "name": "CRM Module 4",
+    "icon": "📇",
+    "category": "crm",
+    "description": "Manage leads, track interactions, and follow up with clients using this powerful CRM system.",
+    "tags": ["crm", "leads", "clients"],
+    "tier": "top",
+    "path": "modules/crm/crm-module-4/",
+    "thumbnail": "thumbnails/crm-module-4.png"
+  },
+  {
+    "name": "Live Chat Module 5",
+    "icon": "💬",
+    "category": "communication",
+    "description": "Chat with site visitors, respond to questions in real-time, and close more deals.",
+    "tags": ["chat", "support", "live"],
+    "tier": "mid",
+    "path": "modules/communication/live-chat-module-5/",
+    "thumbnail": "thumbnails/live-chat-module-5.png"
+  },
+  {
+    "name": "Appointment Scheduler 6",
+    "icon": "📅",
+    "category": "tools",
+    "description": "Let clients book appointments through your site with calendar integration and reminders.",
+    "tags": ["scheduler", "calendar", "appointments"],
+    "tier": "top",
+    "path": "modules/tools/appointment-scheduler-6/",
+    "thumbnail": "thumbnails/appointment-scheduler-6.png"
+  },
+  {
+    "name": "User Login Module 7",
+    "icon": "🔐",
     "category": "core",
-    "description": "Prompts clients to describe their business and automatically bundles the best XPLORE modules into a custom cart and platform setup.",
-    "tags": [
-      "builder",
-      "prompt",
-      "automation"
-    ],
+    "description": "Secure login and authentication system with support for roles and permissions.",
+    "tags": ["auth", "login", "roles"],
+    "tier": "top",
+    "path": "modules/core/user-login-module-7/",
+    "thumbnail": "thumbnails/user-login-module-7.png"
+  },
+  {
+    "name": "Video Call Room 8",
+    "icon": "🎥",
+    "category": "media",
+    "description": "Host and join video calls directly from your app with recording and screenshare support.",
+    "tags": ["video", "meetings", "call"],
+    "tier": "mid",
+    "path": "modules/media/video-call-room-8/",
+    "thumbnail": "thumbnails/video-call-room-8.png"
+  },
+  {
+    "name": "Review Generator 9",
+    "icon": "⭐",
+    "category": "tools",
+    "description": "Collect and showcase customer reviews with automated outreach prompts.",
+    "tags": ["reviews", "feedback", "rating"],
+    "tier": "mid",
+    "path": "modules/tools/review-generator-9/",
+    "thumbnail": "thumbnails/review-generator-9.png"
+  },
+  {
+    "name": "Coin Wallet System 10",
+    "icon": "💰",
+    "category": "wallet",
+    "description": "Enable users to earn, store, and redeem coins inside your ecosystem.",
+    "tags": ["wallet", "coins", "rewards"],
+    "tier": "top",
+    "path": "modules/wallet/coin-wallet-system-10/",
+    "thumbnail": "thumbnails/coin-wallet-system-10.png"
+  },
+  {
+    "name": "Affiliate Tracker 11",
+    "icon": "🌐",
+    "category": "marketing",
+    "description": "Track affiliate referrals, performance, and commission payouts with ease.",
+    "tags": ["affiliate", "referral", "commissions"],
+    "tier": "top",
+    "path": "modules/marketing/affiliate-tracker-11/",
+    "thumbnail": "thumbnails/affiliate-tracker-11.png"
+  },
+  {
+    "name": "Product Builder 12",
+    "icon": "🛠️",
+    "category": "ecommerce",
+    "description": "Build customizable products or packages for client checkout experiences.",
+    "tags": ["builder", "product", "custom"],
+    "tier": "mid",
+    "path": "modules/ecommerce/product-builder-12/",
+    "thumbnail": "thumbnails/product-builder-12.png"
+  },
+  {
+    "name": "Digital Downloads 13",
+    "icon": "📦",
+    "category": "ecommerce",
+    "description": "Sell downloadable files, courses, or eBooks with auto-delivery.",
+    "tags": ["downloads", "digital", "products"],
+    "tier": "top",
+    "path": "modules/ecommerce/digital-downloads-13/",
+    "thumbnail": "thumbnails/digital-downloads-13.png"
+  },
+  {
+    "name": "Client Portal 14",
+    "icon": "👥",
+    "category": "core",
+    "description": "Provide clients with a branded portal to access their data, files, and updates.",
+    "tags": ["client", "portal", "access"],
+    "tier": "top",
+    "path": "modules/core/client-portal-14/",
+    "thumbnail": "thumbnails/client-portal-14.png"
+  },
+  {
+    "name": "Lead Capture Form 15",
+    "icon": "📝",
+    "category": "crm",
+    "description": "Collect lead info via customizable forms embedded into your platform.",
+    "tags": ["leads", "forms", "capture"],
+    "tier": "top",
+    "path": "modules/crm/lead-capture-form-15/",
+    "thumbnail": "thumbnails/lead-capture-form-15.png"
+  },
+  {
+    "name": "Invoice Generator 16",
+    "icon": "🧾",
+    "category": "tools",
+    "description": "Quickly create invoices with line items, taxes, and PDF export.",
+    "tags": ["invoice", "billing", "pdf"],
+    "tier": "mid",
+    "path": "modules/tools/invoice-generator-16/",
+    "thumbnail": "thumbnails/invoice-generator-16.png"
+  },
+  {
+    "name": "Social Login Module 17",
+    "icon": "🔗",
+    "category": "core",
+    "description": "Allow users to log in using Facebook, Google, or LinkedIn accounts.",
+    "tags": ["login", "social", "oauth"],
+    "tier": "mid",
+    "path": "modules/core/social-login-module-17/",
+    "thumbnail": "thumbnails/social-login-module-17.png"
+  },
+  {
+    "name": "Notification Center 18",
+    "icon": "🔔",
+    "category": "communication",
+    "description": "Display real-time notifications for messages, updates, and tasks.",
+    "tags": ["notifications", "alerts", "messages"],
+    "tier": "top",
+    "path": "modules/communication/notification-center-18/",
+    "thumbnail": "thumbnails/notification-center-18.png"
+  },
+  {
+    "name": "Text-to-Speech Engine 19",
+    "icon": "🗣️",
+    "category": "ai",
+    "description": "Convert written content into spoken audio clips using natural AI voices.",
+    "tags": ["text", "speech", "voice"],
+    "tier": "top",
+    "path": "modules/ai/text-to-speech-19/",
+    "thumbnail": "thumbnails/text-to-speech-19.png"
+  },
+  {
+    "name": "SEO Optimizer 20",
+    "icon": "🔍",
+    "category": "seo",
+    "description": "Boost your site’s search engine ranking with keyword analysis and recommendations.",
+    "tags": ["seo", "keywords", "rank"],
+    "tier": "top",
+    "path": "modules/seo/seo-optimizer-20/",
+    "thumbnail": "thumbnails/seo-optimizer-20.png"
+  },
+  {
+    "name": "Form Builder 21",
+    "icon": "🧾",
+    "category": "tools",
+    "description": "Create drag-and-drop custom forms for surveys, onboarding, or lead capture.",
+    "tags": ["forms", "builder", "custom"],
+    "tier": "top",
+    "path": "modules/tools/form-builder-21/",
+    "thumbnail": "thumbnails/form-builder-21.png"
+  },
+  {
+    "name": "Blog Manager 22",
+    "icon": "📰",
+    "category": "media",
+    "description": "Publish and manage blog posts with categories, images, and scheduling.",
+    "tags": ["blog", "content", "media"],
+    "tier": "mid",
+    "path": "modules/media/blog-manager-22/",
+    "thumbnail": "thumbnails/blog-manager-22.png"
+  },
+  {
+    "name": "Team Chat Room 23",
+    "icon": "💬",
+    "category": "communication",
+    "description": "Enable real-time team messaging with tagging, rooms, and attachments.",
+    "tags": ["chat", "team", "messaging"],
+    "tier": "top",
+    "path": "modules/communication/team-chat-room-23/",
+    "thumbnail": "thumbnails/team-chat-room-23.png"
+  },
+  {
+    "name": "Analytics Dashboard 24",
+    "icon": "📊",
+    "category": "tools",
+    "description": "Track KPIs, traffic sources, sales, and funnel performance in real-time.",
+    "tags": ["analytics", "dashboard", "metrics"],
+    "tier": "top",
+    "path": "modules/tools/analytics-dashboard-24/",
+    "thumbnail": "thumbnails/analytics-dashboard-24.png"
+  },
+  {
+    "name": "Custom Page Builder 25",
+    "icon": "📄",
+    "category": "core",
+    "description": "Build dynamic app or website pages using reusable components and layouts.",
+    "tags": ["builder", "pages", "custom"],
+    "tier": "top",
+    "path": "modules/core/custom-page-builder-25/",
+    "thumbnail": "thumbnails/custom-page-builder-25.png"
+  },
+  {
+    "name": "Upsell Campaign Engine 26",
+    "icon": "🚀",
+    "category": "marketing",
+    "description": "Trigger upsell offers based on behavior, purchase history, or abandoned carts.",
+    "tags": ["upsell", "offers", "automation"],
+    "tier": "top",
+    "path": "modules/marketing/upsell-campaign-engine-26/",
+    "thumbnail": "thumbnails/upsell-campaign-engine-26.png"
+  },
+  {
+    "name": "Social Feed Display 27",
+    "icon": "📱",
+    "category": "media",
+    "description": "Embed Instagram, Twitter, or TikTok feeds into your site or dashboard.",
+    "tags": ["social", "feed", "embed"],
+    "tier": "mid",
+    "path": "modules/media/social-feed-display-27/",
+    "thumbnail": "thumbnails/social-feed-display-27.png"
+  },
+  {
+    "name": "Payment Processor 28",
+    "icon": "💳",
+    "category": "ecommerce",
+    "description": "Accept credit card, PayPal, or crypto payments securely through your app.",
+    "tags": ["payments", "checkout", "transactions"],
+    "tier": "top",
+    "path": "modules/ecommerce/payment-processor-28/",
+    "thumbnail": "thumbnails/payment-processor-28.png"
+  },
+  {
+    "name": "Push Notification Manager 29",
+    "icon": "📲",
+    "category": "communication",
+    "description": "Send app, desktop, or browser push notifications with scheduling options.",
+    "tags": ["push", "alerts", "notifications"],
+    "tier": "mid",
+    "path": "modules/communication/push-notification-manager-29/",
+    "thumbnail": "thumbnails/push-notification-manager-29.png"
+  },
+  {
+    "name": "Voice Call Bot 30",
+    "icon": "📞",
+    "category": "ai",
+    "description": "Automate phone calls using AI voice for appointment reminders or promotions.",
+    "tags": ["ai", "voice", "callbot"],
+    "tier": "top",
+    "path": "modules/ai/voice-call-bot-30/",
+    "thumbnail": "thumbnails/voice-call-bot-30.png"
+  },
+  {
+    "name": "Lead Import Tool 31",
+    "icon": "📥",
+    "category": "crm",
+    "description": "Upload and import leads via CSV or integrations to auto-populate your CRM.",
+    "tags": ["leads", "import", "crm"],
+    "tier": "mid",
+    "path": "modules/crm/lead-import-tool-31/",
+    "thumbnail": "thumbnails/lead-import-tool-31.png"
+  },
+  {
+    "name": "Legal Doc Template Hub 32",
+    "icon": "📚",
+    "category": "tools",
+    "description": "Access customizable contracts, NDAs, and legal forms for your business.",
+    "tags": ["contracts", "templates", "legal"],
+    "tier": "low",
+    "path": "modules/tools/legal-doc-template-hub-32/",
+    "thumbnail": "thumbnails/legal-doc-template-hub-32.png"
+  },
+  {
+    "name": "Auto-Responder AI 33",
+    "icon": "✉️",
+    "category": "ai",
+    "description": "Instantly reply to messages or inquiries using smart AI-generated responses.",
+    "tags": ["ai", "reply", "chatbot"],
+    "tier": "mid",
+    "path": "modules/ai/auto-responder-ai-33/",
+    "thumbnail": "thumbnails/auto-responder-ai-33.png"
+  },
+  {
+    "name": "Client Rating System 34",
+    "icon": "🏆",
+    "category": "crm",
+    "description": "Rate clients based on payment habits, loyalty, and engagement.",
+    "tags": ["clients", "ratings", "crm"],
+    "tier": "mid",
+    "path": "modules/crm/client-rating-system-34/",
+    "thumbnail": "thumbnails/client-rating-system-34.png"
+  },
+  {
+    "name": "Live Broadcast Tool 35",
+    "icon": "📡",
+    "category": "media",
+    "description": "Stream live content from your platform with audience chat and reactions.",
+    "tags": ["live", "broadcast", "media"],
+    "tier": "top",
+    "path": "modules/media/live-broadcast-tool-35/",
+    "thumbnail": "thumbnails/live-broadcast-tool-35.png"
+  },
+  {
+    "name": "Referral Code System 36",
+    "icon": "🔗",
+    "category": "marketing",
+    "description": "Generate unique codes for referrals and rewards to track campaign impact.",
+    "tags": ["referrals", "codes", "rewards"],
+    "tier": "top",
+    "path": "modules/marketing/referral-code-system-36/",
+    "thumbnail": "thumbnails/referral-code-system-36.png"
+  },
+  {
+    "name": "Staff Calendar Sync 37",
+    "icon": "🗓️",
+    "category": "core",
+    "description": "Sync staff events and shifts with Google Calendar and iCal integrations.",
+    "tags": ["calendar", "sync", "staff"],
+    "tier": "mid",
+    "path": "modules/core/staff-calendar-sync-37/",
+    "thumbnail": "thumbnails/staff-calendar-sync-37.png"
+  },
+  {
+    "name": "One-Click Upsell Tool 38",
+    "icon": "🧲",
+    "category": "ecommerce",
+    "description": "Offer additional products or upgrades during checkout in a single click.",
+    "tags": ["upsell", "checkout", "add-on"],
+    "tier": "top",
+    "path": "modules/ecommerce/one-click-upsell-tool-38/",
+    "thumbnail": "thumbnails/one-click-upsell-tool-38.png"
+  },
+  {
+    "name": "Survey Builder 39",
+    "icon": "📋",
+    "category": "tools",
+    "description": "Create detailed customer surveys and feedback forms with logic branching.",
+    "tags": ["survey", "feedback", "forms"],
+    "tier": "mid",
+    "path": "modules/tools/survey-builder-39/",
+    "thumbnail": "thumbnails/survey-builder-39.png"
+  },
+  {
+    "name": "User Role Manager 40",
+    "icon": "🛡️",
+    "category": "core",
+    "description": "Assign, modify, and manage user roles and permissions across the platform.",
+    "tags": ["roles", "permissions", "users"],
+    "tier": "top",
+    "path": "modules/core/user-role-manager-40/",
+    "thumbnail": "thumbnails/user-role-manager-40.png"
+  },
+  {
+    "name": "Call Queue Manager 41",
+    "icon": "📞",
+    "category": "communication",
+    "description": "Automatically manage incoming calls by queueing and routing based on agent availability.",
+    "tags": ["calls", "queue", "routing"],
+    "tier": "top",
+    "path": "modules/communication/call-queue-manager-41/",
+    "thumbnail": "thumbnails/call-queue-manager-41.png"
+  },
+  {
+    "name": "Agent Profile Builder 42",
+    "icon": "👤",
+    "category": "core",
+    "description": "Allow agents to create, edit, and showcase their profiles with photos, bios, and badges.",
+    "tags": ["agent", "profile", "dashboard"],
+    "tier": "mid",
+    "path": "modules/core/agent-profile-builder-42/",
+    "thumbnail": "thumbnails/agent-profile-builder-42.png"
+  },
+  {
+    "name": "Appointment Tracker 43",
+    "icon": "📆",
+    "category": "crm",
+    "description": "Track, confirm, and remind users about scheduled appointments with SMS/email alerts.",
+    "tags": ["appointments", "crm", "calendar"],
+    "tier": "top",
+    "path": "modules/crm/appointment-tracker-43/",
+    "thumbnail": "thumbnails/appointment-tracker-43.png"
+  },
+  {
+    "name": "Client Status Board 44",
+    "icon": "📌",
+    "category": "crm",
+    "description": "View real-time updates of client activity, order stage, and engagement level.",
+    "tags": ["clients", "status", "tracking"],
+    "tier": "mid",
+    "path": "modules/crm/client-status-board-44/",
+    "thumbnail": "thumbnails/client-status-board-44.png"
+  },
+  {
+    "name": "Video Script Assistant 45",
+    "icon": "🎬",
+    "category": "ai",
+    "description": "Use AI to auto-generate video scripts tailored to your product or audience.",
+    "tags": ["script", "video", "ai"],
+    "tier": "top",
+    "path": "modules/ai/video-script-assistant-45/",
+    "thumbnail": "thumbnails/video-script-assistant-45.png"
+  },
+  {
+    "name": "Loyalty Points Engine 46",
+    "icon": "🏅",
+    "category": "ecommerce",
+    "description": "Reward returning users or clients with loyalty points redeemable for perks.",
+    "tags": ["loyalty", "points", "rewards"],
+    "tier": "top",
+    "path": "modules/ecommerce/loyalty-points-engine-46/",
+    "thumbnail": "thumbnails/loyalty-points-engine-46.png"
+  },
+  {
+    "name": "Training Tracker 47",
+    "icon": "🎓",
+    "category": "training",
+    "description": "Monitor training module completions, quiz results, and certificate eligibility.",
+    "tags": ["training", "progress", "certification"],
+    "tier": "top",
+    "path": "modules/training/training-tracker-47/",
+    "thumbnail": "thumbnails/training-tracker-47.png"
+  },
+  {
+    "name": "Policy Agreement Log 48",
+    "icon": "📜",
+    "category": "tools",
+    "description": "Track user acceptance of terms, policies, and contracts for compliance.",
+    "tags": ["policy", "agreement", "compliance"],
+    "tier": "mid",
+    "path": "modules/tools/policy-agreement-log-48/",
+    "thumbnail": "thumbnails/policy-agreement-log-48.png"
+  },
+  {
+    "name": "Click Heatmap Viewer 49",
+    "icon": "🔥",
+    "category": "seo",
+    "description": "See where users click most on your site with visual heatmaps and tracking.",
+    "tags": ["heatmap", "clicks", "seo"],
+    "tier": "mid",
+    "path": "modules/seo/click-heatmap-viewer-49/",
+    "thumbnail": "thumbnails/click-heatmap-viewer-49.png"
+  },
+  {
+    "name": "Team Leaderboard 50",
+    "icon": "🏆",
+    "category": "core",
+    "description": "Display top agents, closers, or recruiters based on performance metrics.",
+    "tags": ["leaderboard", "performance", "agents"],
+    "tier": "top",
+    "path": "modules/core/team-leaderboard-50/",
+    "thumbnail": "thumbnails/team-leaderboard-50.png"
+  },
+  {
+    "name": "QR Code Generator 51",
+    "icon": "🔳",
+    "category": "tools",
+    "description": "Generate branded QR codes that link to websites, downloads, or contact forms.",
+    "tags": ["qr", "links", "tools"],
+    "tier": "mid",
+    "path": "modules/tools/qr-code-generator-51/",
+    "thumbnail": "thumbnails/qr-code-generator-51.png"
+  },
+  {
+    "name": "Link Shortener 52",
+    "icon": "🔗",
+    "category": "tools",
+    "description": "Create short URLs for tracking campaigns or easier sharing online.",
+    "tags": ["url", "shortener", "link"],
+    "tier": "low",
+    "path": "modules/tools/link-shortener-52/",
+    "thumbnail": "thumbnails/link-shortener-52.png"
+  },
+  {
+    "name": "Agent Strike System 53",
+    "icon": "⚠️",
+    "category": "core",
+    "description": "Issue and track agent warnings, policy violations, and strike history.",
+    "tags": ["agent", "violations", "strikes"],
+    "tier": "top",
+    "path": "modules/core/agent-strike-system-53/",
+    "thumbnail": "thumbnails/agent-strike-system-53.png"
+  },
+  {
+    "name": "Webinar Signup Page 54",
+    "icon": "📺",
+    "category": "media",
+    "description": "Build conversion-focused registration pages for webinars and live streams.",
+    "tags": ["webinar", "signup", "landing"],
+    "tier": "mid",
+    "path": "modules/media/webinar-signup-page-54/",
+    "thumbnail": "thumbnails/webinar-signup-page-54.png"
+  },
+  {
+    "name": "Mobile App Launcher 55",
+    "icon": "📲",
+    "category": "core",
+    "description": "Launch a mobile-friendly app version with fast-load modules and alerts.",
+    "tags": ["mobile", "app", "launcher"],
+    "tier": "top",
+    "path": "modules/core/mobile-app-launcher-55/",
+    "thumbnail": "thumbnails/mobile-app-launcher-55.png"
+  },
+  {
+    "name": "GMB Lead Scraper 56",
+    "icon": "🌐",
+    "category": "tools",
+    "description": "Scrape business info and leads from Google My Business search results.",
+    "tags": ["leads", "scraper", "google"],
+    "tier": "top",
+    "path": "modules/tools/gmb-lead-scraper-56/",
+    "thumbnail": "thumbnails/gmb-lead-scraper-56.png"
+  },
+  {
+    "name": "Keyword Suggest Tool 57",
+    "icon": "🔍",
+    "category": "seo",
+    "description": "Generate keyword lists and find SEO opportunities based on niche topics.",
+    "tags": ["keywords", "seo", "content"],
+    "tier": "mid",
+    "path": "modules/seo/keyword-suggest-tool-57/",
+    "thumbnail": "thumbnails/keyword-suggest-tool-57.png"
+  },
+  {
+    "name": "Client Feedback Hub 58",
+    "icon": "💬",
+    "category": "crm",
+    "description": "Collect and organize feedback, reviews, and improvement suggestions.",
+    "tags": ["feedback", "clients", "crm"],
+    "tier": "low",
+    "path": "modules/crm/client-feedback-hub-58/",
+    "thumbnail": "thumbnails/client-feedback-hub-58.png"
+  },
+  {
+    "name": "Product Demo Creator 59",
+    "icon": "🎥",
+    "category": "media",
+    "description": "Build and present interactive product demos for leads or training.",
+    "tags": ["demo", "product", "presentation"],
+    "tier": "top",
+    "path": "modules/media/product-demo-creator-59/",
+    "thumbnail": "thumbnails/product-demo-creator-59.png"
+  },
+  {
+    "name": "Support Ticket System 60",
+    "icon": "🎫",
+    "category": "core",
+    "description": "Manage client support issues with ticket assignment, status, and logs.",
+    "tags": ["support", "ticket", "client"],
+    "tier": "top",
+    "path": "modules/core/support-ticket-system-60/",
+    "thumbnail": "thumbnails/support-ticket-system-60.png"
+  },
+  {
+    "name": "Call Feedback Rater 61",
+    "icon": "📞",
+    "category": "communication",
+    "description": "Capture quick feedback from clients after calls to improve quality and training.",
+    "tags": ["feedback", "calls", "ratings"],
+    "tier": "mid",
+    "path": "modules/communication/call-feedback-rater-61/",
+    "thumbnail": "thumbnails/call-feedback-rater-61.png"
+  },
+  {
+    "name": "Real-Time Agent Chat 62",
+    "icon": "💬",
+    "category": "communication",
+    "description": "Enable private, team, or admin-agent chat with live updates and file sharing.",
+    "tags": ["chat", "agent", "live"],
+    "tier": "top",
+    "path": "modules/communication/real-time-agent-chat-62/",
+    "thumbnail": "thumbnails/real-time-agent-chat-62.png"
+  },
+  {
+    "name": "AI Lead Sorter 63",
+    "icon": "🧠",
+    "category": "ai",
+    "description": "Automatically sort and score leads based on likelihood to convert.",
+    "tags": ["leads", "ai", "scoring"],
+    "tier": "top",
+    "path": "modules/ai/ai-lead-sorter-63/",
+    "thumbnail": "thumbnails/ai-lead-sorter-63.png"
+  },
+  {
+    "name": "Client Welcome Portal 64",
+    "icon": "👋",
+    "category": "crm",
+    "description": "A branded welcome space for new clients with onboarding steps and resources.",
+    "tags": ["welcome", "portal", "onboarding"],
+    "tier": "mid",
+    "path": "modules/crm/client-welcome-portal-64/",
+    "thumbnail": "thumbnails/client-welcome-portal-64.png"
+  },
+  {
+    "name": "Auto Webinar Replayer 65",
+    "icon": "📹",
+    "category": "media",
+    "description": "Replay recorded webinars with scheduled drip delivery and lead capture.",
+    "tags": ["webinar", "replay", "automation"],
+    "tier": "top",
+    "path": "modules/media/auto-webinar-replayer-65/",
+    "thumbnail": "thumbnails/auto-webinar-replayer-65.png"
+  },
+  {
+    "name": "Performance Reward Engine 66",
+    "icon": "🏆",
+    "category": "core",
+    "description": "Reward top performers automatically with coins, shoutouts, or bonuses.",
+    "tags": ["rewards", "performance", "gamification"],
+    "tier": "top",
+    "path": "modules/core/performance-reward-engine-66/",
+    "thumbnail": "thumbnails/performance-reward-engine-66.png"
+  },
+  {
+    "name": "Training Quiz Builder 67",
+    "icon": "🧪",
+    "category": "training",
+    "description": "Create certification quizzes with score tracking and pass/fail alerts.",
+    "tags": ["quiz", "certification", "training"],
+    "tier": "top",
+    "path": "modules/training/training-quiz-builder-67/",
+    "thumbnail": "thumbnails/training-quiz-builder-67.png"
+  },
+  {
+    "name": "Recruiter Bonus Trigger 68",
+    "icon": "💸",
+    "category": "recruitment",
+    "description": "Trigger referral bonuses for recruiters based on applicant status.",
+    "tags": ["recruiter", "bonus", "referral"],
+    "tier": "mid",
+    "path": "modules/recruitment/recruiter-bonus-trigger-68/",
+    "thumbnail": "thumbnails/recruiter-bonus-trigger-68.png"
+  },
+  {
+    "name": "Google Maps Lead Pin Dropper 69",
+    "icon": "📍",
+    "category": "tools",
+    "description": "Add, view, and export custom pin drops for mapped leads or service zones.",
+    "tags": ["maps", "leads", "geolocation"],
+    "tier": "top",
+    "path": "modules/tools/lead-pin-dropper-69/",
+    "thumbnail": "thumbnails/lead-pin-dropper-69.png"
+  },
+  {
+    "name": "Daily Digest Notification 70",
+    "icon": "📫",
+    "category": "communication",
+    "description": "Send a daily summary email or SMS with updates, reminders, and wins.",
+    "tags": ["digest", "notifications", "updates"],
+    "tier": "low",
+    "path": "modules/communication/daily-digest-70/",
+    "thumbnail": "thumbnails/daily-digest-70.png"
+  },
+  {
+    "name": "Project Timeline Tracker 71",
+    "icon": "📈",
+    "category": "tools",
+    "description": "Track progress and milestones for each project with visual timelines.",
+    "tags": ["project", "timeline", "tracker"],
+    "tier": "mid",
+    "path": "modules/tools/project-timeline-tracker-71/",
+    "thumbnail": "thumbnails/project-timeline-tracker-71.png"
+  },
+  {
+    "name": "Client Invoice Portal 72",
+    "icon": "📄",
+    "category": "crm",
+    "description": "Allow clients to view, download, and pay invoices in one secure portal.",
+    "tags": ["invoice", "portal", "billing"],
+    "tier": "top",
+    "path": "modules/crm/client-invoice-portal-72/",
+    "thumbnail": "thumbnails/client-invoice-portal-72.png"
+  },
+  {
+    "name": "Content Idea Generator 73",
+    "icon": "💡",
+    "category": "ai",
+    "description": "Use AI to suggest fresh content ideas for posts, blogs, or videos.",
+    "tags": ["content", "ideas", "ai"],
+    "tier": "low",
+    "path": "modules/ai/content-idea-generator-73/",
+    "thumbnail": "thumbnails/content-idea-generator-73.png"
+  },
+  {
+    "name": "Voice-to-Text Notes 74",
+    "icon": "🎤",
+    "category": "tools",
+    "description": "Record quick voice notes that auto-convert to searchable text.",
+    "tags": ["voice", "notes", "transcription"],
+    "tier": "mid",
+    "path": "modules/tools/voice-to-text-notes-74/",
+    "thumbnail": "thumbnails/voice-to-text-notes-74.png"
+  },
+  {
+    "name": "Upsell Video Carousel 75",
+    "icon": "🎞️",
+    "category": "marketing",
+    "description": "Display a swipeable carousel of upsell videos during the checkout process.",
+    "tags": ["upsell", "video", "carousel"],
+    "tier": "top",
+    "path": "modules/marketing/upsell-video-carousel-75/",
+    "thumbnail": "thumbnails/upsell-video-carousel-75.png"
+  },
+  {
+    "name": "Campaign Scheduler 76",
+    "icon": "📤",
+    "category": "marketing",
+    "description": "Schedule future campaign launches with emails, posts, and push notifications.",
+    "tags": ["campaigns", "scheduling", "automation"],
+    "tier": "top",
+    "path": "modules/marketing/campaign-scheduler-76/",
+    "thumbnail": "thumbnails/campaign-scheduler-76.png"
+  },
+  {
+    "name": "Lead Import Tool 77",
+    "icon": "📥",
+    "category": "crm",
+    "description": "Upload leads from CSV or spreadsheets with tagging and validation.",
+    "tags": ["import", "leads", "crm"],
+    "tier": "mid",
+    "path": "modules/crm/lead-import-tool-77/",
+    "thumbnail": "thumbnails/lead-import-tool-77.png"
+  },
+  {
+    "name": "Agent Compliance Dashboard 78",
+    "icon": "📋",
+    "category": "core",
+    "description": "Display each agent’s compliance status, certifications, and pending reviews.",
+    "tags": ["compliance", "dashboard", "agents"],
+    "tier": "top",
+    "path": "modules/core/agent-compliance-dashboard-78/",
+    "thumbnail": "thumbnails/agent-compliance-dashboard-78.png"
+  },
+  {
+    "name": "Team Schedule Grid 79",
+    "icon": "🗓️",
+    "category": "tools",
+    "description": "View team availability, shifts, and meeting schedules in grid view.",
+    "tags": ["team", "calendar", "shifts"],
+    "tier": "low",
+    "path": "modules/tools/team-schedule-grid-79/",
+    "thumbnail": "thumbnails/team-schedule-grid-79.png"
+  },
+  {
+    "name": "Web Contact Collector 80",
+    "icon": "🌐",
+    "category": "tools",
+    "description": "Collect phone, email, and contact forms from websites into a lead pool.",
+    "tags": ["contacts", "web", "collector"],
+    "tier": "mid",
+    "path": "modules/tools/web-contact-collector-80/",
+    "thumbnail": "thumbnails/web-contact-collector-80.png"
+  },
+  {
+    "name": "Local Ad Booster 81",
+    "icon": "📍",
+    "category": "marketing",
+    "description": "Boost local reach with hyper-targeted ads based on client location data.",
+    "tags": ["ads", "local", "marketing"],
+    "tier": "top",
+    "path": "modules/marketing/local-ad-booster-81/",
+    "thumbnail": "thumbnails/local-ad-booster-81.png"
+  },
+  {
+    "name": "Team Leaderboard 82",
+    "icon": "🥇",
+    "category": "core",
+    "description": "Display real-time rankings of top-performing agents by metrics you define.",
+    "tags": ["leaderboard", "performance", "gamification"],
+    "tier": "top",
+    "path": "modules/core/team-leaderboard-82/",
+    "thumbnail": "thumbnails/team-leaderboard-82.png"
+  },
+  {
+    "name": "Auto DM Responder 83",
+    "icon": "📨",
+    "category": "communication",
+    "description": "Respond to incoming messages with customizable auto-replies and follow-ups.",
+    "tags": ["dm", "autoresponder", "communication"],
+    "tier": "mid",
+    "path": "modules/communication/auto-dm-responder-83/",
+    "thumbnail": "thumbnails/auto-dm-responder-83.png"
+  },
+  {
+    "name": "Live Training Room 84",
+    "icon": "🎥",
+    "category": "training",
+    "description": "Host real-time training sessions with screen sharing, chat, and tracking.",
+    "tags": ["training", "live", "video"],
+    "tier": "top",
+    "path": "modules/training/live-training-room-84/",
+    "thumbnail": "thumbnails/live-training-room-84.png"
+  },
+  {
+    "name": "Affiliate Landing Page Builder 85",
+    "icon": "🧱",
+    "category": "tools",
+    "description": "Build landing pages for affiliate or referral campaigns in minutes.",
+    "tags": ["landing", "affiliate", "builder"],
+    "tier": "top",
+    "path": "modules/tools/affiliate-landing-builder-85/",
+    "thumbnail": "thumbnails/affiliate-landing-builder-85.png"
+  },
+  {
+    "name": "Policy Upload Locker 86",
+    "icon": "🔒",
+    "category": "core",
+    "description": "Securely store compliance and certification files for agent access.",
+    "tags": ["compliance", "upload", "security"],
+    "tier": "mid",
+    "path": "modules/core/policy-upload-locker-86/",
+    "thumbnail": "thumbnails/policy-upload-locker-86.png"
+  },
+  {
+    "name": "AI Chat Trainer 87",
+    "icon": "🤖",
+    "category": "ai",
+    "description": "Train a chatbot with your business language to assist in client chats.",
+    "tags": ["ai", "chatbot", "trainer"],
+    "tier": "top",
+    "path": "modules/ai/ai-chat-trainer-87/",
+    "thumbnail": "thumbnails/ai-chat-trainer-87.png"
+  },
+  {
+    "name": "Pay-Per-Click Optimizer 88",
+    "icon": "💰",
+    "category": "marketing",
+    "description": "Manage and optimize PPC ads across Google, Meta, and more.",
+    "tags": ["ppc", "ads", "optimizer"],
+    "tier": "top",
+    "path": "modules/marketing/ppc-optimizer-88/",
+    "thumbnail": "thumbnails/ppc-optimizer-88.png"
+  },
+  {
+    "name": "Shift Reminder Bot 89",
+    "icon": "⏰",
+    "category": "tools",
+    "description": "Send SMS or app alerts before team shifts to reduce late logins.",
+    "tags": ["reminders", "shifts", "alerts"],
+    "tier": "low",
+    "path": "modules/tools/shift-reminder-bot-89/",
+    "thumbnail": "thumbnails/shift-reminder-bot-89.png"
+  },
+  {
+    "name": "Call Summary AI 90",
+    "icon": "📝",
+    "category": "ai",
+    "description": "Auto-generate call summaries and highlights using speech recognition.",
+    "tags": ["summary", "calls", "ai"],
+    "tier": "top",
+    "path": "modules/ai/call-summary-ai-90/",
+    "thumbnail": "thumbnails/call-summary-ai-90.png"
+  },
+  {
+    "name": "Live Earnings Panel 91",
+    "icon": "📊",
+    "category": "core",
+    "description": "Display real-time earnings, commissions, and rank progress for agents.",
+    "tags": ["earnings", "dashboard", "agents"],
+    "tier": "top",
+    "path": "modules/core/live-earnings-panel-91/",
+    "thumbnail": "thumbnails/live-earnings-panel-91.png"
+  },
+  {
+    "name": "Multi-Coin Converter 92",
+    "icon": "🔄",
+    "category": "wallet",
+    "description": "Convert between XPLORE Coins, Bonus Coins, or Gold XP with live rates.",
+    "tags": ["coins", "wallet", "conversion"],
+    "tier": "top",
+    "path": "modules/wallet/multi-coin-converter-92/",
+    "thumbnail": "thumbnails/multi-coin-converter-92.png"
+  },
+  {
+    "name": "SEO Auto Audit 93",
+    "icon": "🔍",
+    "category": "seo",
+    "description": "Scan pages for SEO issues and provide recommendations with one click.",
+    "tags": ["seo", "audit", "optimization"],
+    "tier": "top",
+    "path": "modules/seo/seo-auto-audit-93/",
+    "thumbnail": "thumbnails/seo-auto-audit-93.png"
+  },
+  {
+    "name": "Time Blocker Tool 94",
+    "icon": "📆",
+    "category": "tools",
+    "description": "Block time segments on agent calendars for focused work or breaks.",
+    "tags": ["calendar", "focus", "time"],
+    "tier": "mid",
+    "path": "modules/tools/time-blocker-tool-94/",
+    "thumbnail": "thumbnails/time-blocker-tool-94.png"
+  },
+  {
+    "name": "Sales Deck Builder 95",
+    "icon": "📽️",
+    "category": "tools",
+    "description": "Build professional sales decks with AI-assisted content suggestions.",
+    "tags": ["sales", "decks", "ai"],
+    "tier": "top",
+    "path": "modules/tools/sales-deck-builder-95/",
+    "thumbnail": "thumbnails/sales-deck-builder-95.png"
+  },
+  {
+    "name": "Meeting Room Lobby 96",
+    "icon": "🏢",
+    "category": "meetings",
+    "description": "Host branded waiting rooms before scheduled live meetings start.",
+    "tags": ["meetings", "waiting", "lobby"],
+    "tier": "low",
+    "path": "modules/meetings/meeting-room-lobby-96/",
+    "thumbnail": "thumbnails/meeting-room-lobby-96.png"
+  },
+  {
+    "name": "Voiceover Generator 97",
+    "icon": "🎙️",
+    "category": "media",
+    "description": "Turn text scripts into realistic voiceovers in multiple languages.",
+    "tags": ["voice", "text-to-speech", "ai"],
+    "tier": "top",
+    "path": "modules/media/voiceover-generator-97/",
+    "thumbnail": "thumbnails/voiceover-generator-97.png"
+  },
+  {
+    "name": "Digital Badge Wall 98",
+    "icon": "🎖️",
+    "category": "training",
+    "description": "Let users view and share their earned badges and certifications.",
+    "tags": ["badges", "rewards", "gamification"],
+    "tier": "top",
+    "path": "modules/training/digital-badge-wall-98/",
+    "thumbnail": "thumbnails/digital-badge-wall-98.png"
+  },
+  {
+    "name": "Client Cart Viewer 99",
+    "icon": "🛍️",
+    "category": "crm",
+    "description": "View and edit what products clients have added to their cart live.",
+    "tags": ["cart", "crm", "client"],
+    "tier": "mid",
+    "path": "modules/crm/client-cart-viewer-99/",
+    "thumbnail": "thumbnails/client-cart-viewer-99.png"
+  },
+  {
+    "name": "Affiliate Tree Visualizer 100",
+    "icon": "🌳",
+    "category": "core",
+    "description": "Display referral chain trees for affiliates up to 10 levels deep.",
+    "tags": ["affiliate", "network", "tree"],
+    "tier": "top",
+    "path": "modules/core/affiliate-tree-visualizer-100/",
+    "thumbnail": "thumbnails/affiliate-tree-visualizer-100.png"
+  },
+  {
+    "name": "Client Intake Form 101",
+    "icon": "📝",
+    "category": "crm",
+    "description": "Collect detailed client info with custom fields, logic, and file uploads.",
+    "tags": ["form", "client", "crm"],
+    "tier": "top",
+    "path": "modules/crm/client-intake-form-101/",
+    "thumbnail": "thumbnails/client-intake-form-101.png"
+  },
+  {
+    "name": "Recruiter Wallet Bonus Tracker 102",
+    "icon": "💼",
+    "category": "recruitment",
+    "description": "Track bonuses earned by recruiters for successful applicant conversions.",
+    "tags": ["wallet", "bonus", "recruitment"],
+    "tier": "mid",
+    "path": "modules/recruitment/recruiter-bonus-tracker-102/",
+    "thumbnail": "thumbnails/recruiter-bonus-tracker-102.png"
+  },
+  {
+    "name": "Training Quiz Builder 103",
+    "icon": "🧠",
+    "category": "training",
+    "description": "Create quizzes with multiple question types and auto-grading features.",
+    "tags": ["quiz", "training", "test"],
+    "tier": "top",
+    "path": "modules/training/training-quiz-builder-103/",
+    "thumbnail": "thumbnails/training-quiz-builder-103.png"
+  },
+  {
+    "name": "Payout Request Portal 104",
+    "icon": "💳",
+    "category": "wallet",
+    "description": "Let agents request payouts manually to their preferred method.",
+    "tags": ["payout", "wallet", "request"],
+    "tier": "mid",
+    "path": "modules/wallet/payout-request-portal-104/",
+    "thumbnail": "thumbnails/payout-request-portal-104.png"
+  },
+  {
+    "name": "Live Offer Share Button 105",
+    "icon": "📤",
+    "category": "sales",
+    "description": "Instantly send offers or files during calls, meetings, or chats.",
+    "tags": ["offers", "sales", "share"],
+    "tier": "top",
+    "path": "modules/sales/live-offer-share-105/",
+    "thumbnail": "thumbnails/live-offer-share-105.png"
+  },
+  {
+    "name": "White Label Branding Manager 106",
+    "icon": "🎨",
+    "category": "tools",
+    "description": "Customize logos, app names, and themes for white label clients.",
+    "tags": ["branding", "white label", "custom"],
+    "tier": "top",
+    "path": "modules/tools/white-label-manager-106/",
+    "thumbnail": "thumbnails/white-label-manager-106.png"
+  },
+  {
+    "name": "SMS Campaign Scheduler 107",
+    "icon": "📲",
+    "category": "marketing",
+    "description": "Create and schedule SMS campaigns with contact filters and templates.",
+    "tags": ["sms", "campaign", "text"],
+    "tier": "top",
+    "path": "modules/marketing/sms-campaign-scheduler-107/",
+    "thumbnail": "thumbnails/sms-campaign-scheduler-107.png"
+  },
+  {
+    "name": "Email Blast Engine 108",
+    "icon": "📧",
+    "category": "marketing",
+    "description": "Send bulk email campaigns with dynamic content and tracking tools.",
+    "tags": ["email", "blast", "campaign"],
+    "tier": "top",
+    "path": "modules/marketing/email-blast-engine-108/",
+    "thumbnail": "thumbnails/email-blast-engine-108.png"
+  },
+  {
+    "name": "Agent Dress Code Checker 109",
+    "icon": "👔",
+    "category": "core",
+    "description": "Upload and review agent selfies to enforce daily dress code policy.",
+    "tags": ["compliance", "photo", "uniform"],
+    "tier": "low",
+    "path": "modules/core/agent-dress-code-109/",
+    "thumbnail": "thumbnails/agent-dress-code-109.png"
+  },
+  {
+    "name": "Call Quality Review Log 110",
+    "icon": "🎧",
+    "category": "sales",
+    "description": "Log reviews of recorded calls with rating, notes, and strike options.",
+    "tags": ["call", "review", "quality"],
+    "tier": "top",
+    "path": "modules/sales/call-quality-log-110/",
+    "thumbnail": "thumbnails/call-quality-log-110.png"
+  },
+  {
+    "name": "Onboarding Welcome Flow 111",
+    "icon": "🚀",
+    "category": "training",
+    "description": "Step-by-step guide for new agents with checklist and welcome video.",
+    "tags": ["onboarding", "training", "guide"],
+    "tier": "top",
+    "path": "modules/training/onboarding-welcome-flow-111/",
+    "thumbnail": "thumbnails/onboarding-welcome-flow-111.png"
+  },
+  {
+    "name": "Compliance Reminder Bot 112",
+    "icon": "🔔",
+    "category": "core",
+    "description": "Sends alerts for missing certifications or expiring compliance docs.",
+    "tags": ["compliance", "alerts", "reminder"],
+    "tier": "top",
+    "path": "modules/core/compliance-reminder-bot-112/",
+    "thumbnail": "thumbnails/compliance-reminder-bot-112.png"
+  },
+  {
+    "name": "Call Status Webhook Monitor 113",
+    "icon": "🧩",
+    "category": "sales",
+    "description": "Monitor call webhooks for dropped, failed, or completed statuses.",
+    "tags": ["webhook", "calls", "monitor"],
+    "tier": "mid",
+    "path": "modules/sales/call-webhook-monitor-113/",
+    "thumbnail": "thumbnails/call-webhook-monitor-113.png"
+  },
+  {
+    "name": "Live Script Overlay 114",
+    "icon": "🗒️",
+    "category": "tools",
+    "description": "Overlay call scripts during live video or audio calls for agents.",
+    "tags": ["script", "overlay", "call"],
+    "tier": "top",
+    "path": "modules/tools/live-script-overlay-114/",
+    "thumbnail": "thumbnails/live-script-overlay-114.png"
+  },
+  {
+    "name": "New Applicant Tracker 115",
+    "icon": "🧾",
+    "category": "recruitment",
+    "description": "Track new applications, review stages, and attach uploaded resumes.",
+    "tags": ["recruitment", "applications", "tracker"],
+    "tier": "mid",
+    "path": "modules/recruitment/applicant-tracker-115/",
+    "thumbnail": "thumbnails/applicant-tracker-115.png"
+  },
+  {
+    "name": "Promo Offer Carousel 116",
+    "icon": "🎁",
+    "category": "marketing",
+    "description": "Rotate banners or offers dynamically based on user tags or season.",
+    "tags": ["promo", "carousel", "offers"],
+    "tier": "low",
+    "path": "modules/marketing/promo-carousel-116/",
+    "thumbnail": "thumbnails/promo-carousel-116.png"
+  },
+  {
+    "name": "Admin Audit Logger 117",
+    "icon": "📂",
+    "category": "core",
+    "description": "Track all admin actions including user edits, payouts, and system updates.",
+    "tags": ["audit", "admin", "logs"],
+    "tier": "top",
+    "path": "modules/core/admin-audit-logger-117/",
+    "thumbnail": "thumbnails/admin-audit-logger-117.png"
+  },
+  {
+    "name": "Lead Source Analyzer 118",
+    "icon": "📈",
+    "category": "crm",
+    "description": "Analyze where your best leads come from with conversion heatmaps.",
+    "tags": ["leads", "crm", "analytics"],
+    "tier": "top",
+    "path": "modules/crm/lead-source-analyzer-118/",
+    "thumbnail": "thumbnails/lead-source-analyzer-118.png"
+  },
+  {
+    "name": "Video Resume Submitter 119",
+    "icon": "📹",
+    "category": "recruitment",
+    "description": "Let applicants upload video intros to improve review quality.",
+    "tags": ["recruitment", "video", "resume"],
+    "tier": "low",
+    "path": "modules/recruitment/video-resume-submitter-119/",
+    "thumbnail": "thumbnails/video-resume-submitter-119.png"
+  },
+  {
+    "name": "Client Demo Scheduler 120",
+    "icon": "📅",
+    "category": "crm",
+    "description": "Clients can auto-book live demos based on your team’s schedule.",
+    "tags": ["demo", "calendar", "client"],
+    "tier": "top",
+    "path": "modules/crm/client-demo-scheduler-120/",
+    "thumbnail": "thumbnails/client-demo-scheduler-120.png"
+  },
+  {
+    "name": "Auto Scheduler 121",
+    "icon": "📆",
+    "category": "tools",
+    "description": "Automatically schedule follow-ups, meetings, or check-ins based on lead status.",
+    "tags": ["scheduler", "automation", "calendar"],
+    "tier": "top",
+    "path": "modules/tools/auto-scheduler-121/",
+    "thumbnail": "thumbnails/auto-scheduler-121.png"
+  },
+  {
+    "name": "Testimonial Collector 122",
+    "icon": "🗣️",
+    "category": "marketing",
+    "description": "Collect and display client testimonials with optional video upload support.",
+    "tags": ["testimonial", "feedback", "reviews"],
+    "tier": "mid",
+    "path": "modules/marketing/testimonial-collector-122/",
+    "thumbnail": "thumbnails/testimonial-collector-122.png"
+  },
+  {
+    "name": "Onboarding Checklist 123",
+    "icon": "✅",
+    "category": "training",
+    "description": "Track completion of onboarding steps for agents, including document uploads and quizzes.",
+    "tags": ["onboarding", "checklist", "training"],
+    "tier": "top",
+    "path": "modules/training/onboarding-checklist-123/",
+    "thumbnail": "thumbnails/onboarding-checklist-123.png"
+  },
+  {
+    "name": "Lead Heat Map 124",
+    "icon": "🌡️",
+    "category": "crm",
+    "description": "Visualize lead engagement activity by region and timeframe.",
+    "tags": ["leads", "map", "crm"],
+    "tier": "top",
+    "path": "modules/crm/lead-heat-map-124/",
+    "thumbnail": "thumbnails/lead-heat-map-124.png"
+  },
+  {
+    "name": "Brand Asset Locker 125",
+    "icon": "🔐",
+    "category": "tools",
+    "description": "Secure and share logos, flyers, brand files with access levels.",
+    "tags": ["branding", "assets", "storage"],
+    "tier": "mid",
+    "path": "modules/tools/brand-asset-locker-125/",
+    "thumbnail": "thumbnails/brand-asset-locker-125.png"
+  },
+  {
+    "name": "Support Ticket System 126",
+    "icon": "🎫",
+    "category": "core",
+    "description": "Submit, track, and resolve internal or client support tickets with status updates.",
+    "tags": ["support", "ticket", "system"],
+    "tier": "top",
+    "path": "modules/core/support-ticket-system-126/",
+    "thumbnail": "thumbnails/support-ticket-system-126.png"
+  },
+  {
+    "name": "Multi-Timezone Clock 127",
+    "icon": "🌍",
+    "category": "tools",
+    "description": "Display team clocks across different timezones for better collaboration.",
+    "tags": ["clock", "timezone", "global"],
+    "tier": "low",
+    "path": "modules/tools/multi-timezone-clock-127/",
+    "thumbnail": "thumbnails/multi-timezone-clock-127.png"
+  },
+  {
+    "name": "Interactive Roadmap Viewer 128",
+    "icon": "🗺️",
+    "category": "tools",
+    "description": "Show clients or agents a live roadmap of feature updates and module releases.",
+    "tags": ["roadmap", "planning", "updates"],
+    "tier": "mid",
+    "path": "modules/tools/interactive-roadmap-128/",
+    "thumbnail": "thumbnails/interactive-roadmap-128.png"
+  },
+  {
+    "name": "Real-Time Agent Tracker 129",
+    "icon": "🛰️",
+    "category": "core",
+    "description": "View which agents are online, active, or currently in a call or meeting.",
+    "tags": ["agents", "tracker", "live"],
+    "tier": "top",
+    "path": "modules/core/agent-tracker-129/",
+    "thumbnail": "thumbnails/agent-tracker-129.png"
+  },
+  {
+    "name": "PDF Generator Tool 130",
+    "icon": "📄",
+    "category": "tools",
+    "description": "Generate contracts, invoices, or reports as branded downloadable PDFs.",
+    "tags": ["pdf", "download", "reports"],
+    "tier": "top",
+    "path": "modules/tools/pdf-generator-130/",
+    "thumbnail": "thumbnails/pdf-generator-130.png"
+  },
+  {
+    "name": "Keyword Ranking Monitor 131",
+    "icon": "📊",
+    "category": "seo",
+    "description": "Track and visualize your keyword ranking across search engines over time.",
+    "tags": ["seo", "keywords", "rank"],
+    "tier": "top",
+    "path": "modules/seo/keyword-monitor-131/",
+    "thumbnail": "thumbnails/keyword-monitor-131.png"
+  },
+  {
+    "name": "Presentation Recorder 132",
+    "icon": "🎥",
+    "category": "media",
+    "description": "Record, edit, and store video presentations with branding overlays.",
+    "tags": ["presentation", "record", "media"],
+    "tier": "mid",
+    "path": "modules/media/presentation-recorder-132/",
+    "thumbnail": "thumbnails/presentation-recorder-132.png"
+  },
+  {
+    "name": "Offer Comparison Grid 133",
+    "icon": "📐",
+    "category": "sales",
+    "description": "Show clients multiple offers side-by-side with pricing and features.",
+    "tags": ["offers", "comparison", "sales"],
+    "tier": "mid",
+    "path": "modules/sales/offer-comparison-133/",
+    "thumbnail": "thumbnails/offer-comparison-133.png"
+  },
+  {
+    "name": "Multi-User Demo Room 134",
+    "icon": "💼",
+    "category": "meetings",
+    "description": "Host product demos or training sessions with multiple participants.",
+    "tags": ["meeting", "demo", "presentation"],
+    "tier": "top",
+    "path": "modules/meetings/multi-user-demo-134/",
+    "thumbnail": "thumbnails/multi-user-demo-134.png"
+  },
+  {
+    "name": "Audio Snippet Library 135",
+    "icon": "🎵",
+    "category": "media",
+    "description": "Upload and play short audio clips for promos, training, or branding.",
+    "tags": ["audio", "library", "snippets"],
+    "tier": "low",
+    "path": "modules/media/audio-snippets-135/",
+    "thumbnail": "thumbnails/audio-snippets-135.png"
+  },
+  {
+    "name": "Auto Webinar Embed 136",
+    "icon": "🎬",
+    "category": "media",
+    "description": "Embed automated webinars and track engagement stats for each viewer.",
+    "tags": ["webinar", "embed", "tracking"],
+    "tier": "mid",
+    "path": "modules/media/auto-webinar-embed-136/",
+    "thumbnail": "thumbnails/auto-webinar-embed-136.png"
+  },
+  {
+    "name": "Recruitment Ad Templates 137",
+    "icon": "📢",
+    "category": "recruitment",
+    "description": "Generate beautiful, ready-to-post job ad templates and flyers.",
+    "tags": ["recruit", "ads", "templates"],
+    "tier": "top",
+    "path": "modules/recruitment/recruitment-ad-templates-137/",
+    "thumbnail": "thumbnails/recruitment-ad-templates-137.png"
+  },
+  {
+    "name": "Client Contract Wizard 138",
+    "icon": "📜",
+    "category": "crm",
+    "description": "Walk clients through filling and signing service agreements step-by-step.",
+    "tags": ["contract", "crm", "sign"],
+    "tier": "top",
+    "path": "modules/crm/client-contract-wizard-138/",
+    "thumbnail": "thumbnails/client-contract-wizard-138.png"
+  },
+  {
+    "name": "Mobile App Launcher 139",
+    "icon": "📱",
+    "category": "tools",
+    "description": "Launch custom XPLORE tools as mobile web apps directly from phone home screen.",
+    "tags": ["mobile", "tools", "app"],
+    "tier": "top",
+    "path": "modules/tools/mobile-app-launcher-139/",
+    "thumbnail": "thumbnails/mobile-app-launcher-139.png"
+  },
+  {
+    "name": "System Health Dashboard 140",
+    "icon": "🩺",
+    "category": "core",
+    "description": "Monitor real-time health metrics of all modules, APIs, and key actions.",
+    "tags": ["system", "monitor", "dashboard"],
+    "tier": "top",
+    "path": "modules/core/system-health-dashboard-140/",
+    "thumbnail": "thumbnails/system-health-dashboard-140.png"
+  },
+  {
+    "name": "Auto Caller Rotation 141",
+    "icon": "🔁",
+    "category": "core",
+    "description": "Automatically assign leads to available agents in a round-robin format.",
+    "tags": ["calls", "agents", "automation"],
+    "tier": "top",
+    "path": "modules/core/auto-caller-rotation-141/",
+    "thumbnail": "thumbnails/auto-caller-rotation-141.png"
+  },
+  {
+    "name": "Lead Stage Visualizer 142",
+    "icon": "🧭",
+    "category": "crm",
+    "description": "Visually track where each lead is in your pipeline and campaign flow.",
+    "tags": ["leads", "crm", "stage"],
+    "tier": "mid",
+    "path": "modules/crm/lead-stage-visualizer-142/",
+    "thumbnail": "thumbnails/lead-stage-visualizer-142.png"
+  },
+  {
+    "name": "AI Agent Assistant 143",
+    "icon": "🤖",
+    "category": "ai",
+    "description": "An AI-powered agent support tool that suggests responses, tags, and upsells.",
+    "tags": ["ai", "support", "agent"],
+    "tier": "top",
+    "path": "modules/ai/ai-agent-assistant-143/",
+    "thumbnail": "thumbnails/ai-agent-assistant-143.png"
+  },
+  {
+    "name": "Instant Promo Creator 144",
+    "icon": "🎯",
+    "category": "marketing",
+    "description": "Build time-limited offers and promotions with countdown timers.",
+    "tags": ["promo", "offers", "marketing"],
+    "tier": "mid",
+    "path": "modules/marketing/instant-promo-creator-144/",
+    "thumbnail": "thumbnails/instant-promo-creator-144.png"
+  },
+  {
+    "name": "Webinar Reminder Bot 145",
+    "icon": "⏰",
+    "category": "tools",
+    "description": "Send automated reminders for upcoming webinars via email and SMS.",
+    "tags": ["reminder", "webinar", "bot"],
+    "tier": "mid",
+    "path": "modules/tools/webinar-reminder-bot-145/",
+    "thumbnail": "thumbnails/webinar-reminder-bot-145.png"
+  },
+  {
+    "name": "Call Quality Analyzer 146",
+    "icon": "🎧",
+    "category": "core",
+    "description": "Analyze recorded calls for clarity, pacing, and professionalism.",
+    "tags": ["calls", "quality", "recording"],
+    "tier": "top",
+    "path": "modules/core/call-quality-analyzer-146/",
+    "thumbnail": "thumbnails/call-quality-analyzer-146.png"
+  },
+  {
+    "name": "Smart Blog Publisher 147",
+    "icon": "✍️",
+    "category": "marketing",
+    "description": "Create and schedule blog content using AI and category filters.",
+    "tags": ["blog", "ai", "content"],
+    "tier": "mid",
+    "path": "modules/marketing/smart-blog-publisher-147/",
+    "thumbnail": "thumbnails/smart-blog-publisher-147.png"
+  },
+  {
+    "name": "Multi-Currency Wallet 148",
+    "icon": "💱",
+    "category": "wallet",
+    "description": "Store and convert between XPLORE Coins, USD, bonus tokens, and more.",
+    "tags": ["wallet", "currency", "coins"],
+    "tier": "top",
+    "path": "modules/wallet/multi-currency-wallet-148/",
+    "thumbnail": "thumbnails/multi-currency-wallet-148.png"
+  },
+  {
+    "name": "Event Registration Form 149",
+    "icon": "📝",
+    "category": "tools",
+    "description": "Quickly set up branded RSVP forms for events, webinars, and trainings.",
+    "tags": ["registration", "events", "forms"],
+    "tier": "low",
+    "path": "modules/tools/event-registration-form-149/",
+    "thumbnail": "thumbnails/event-registration-form-149.png"
+  },
+  {
+    "name": "Marketing Module 150",
+    "icon": "📣",
+    "category": "marketing",
+    "description": "Manage campaigns, track performance, and A/B test promotional content.",
+    "tags": ["campaign", "leads", "outreach"],
+    "tier": "top",
+    "path": "modules/marketing/marketing-module-150/",
+    "thumbnail": "thumbnails/marketing-module-150.png"
+  },
+  {
+    "name": "Media Hub 151",
+    "icon": "🎬",
+    "category": "media",
+    "description": "Organize and preview videos, podcasts, and graphics in a centralized hub.",
+    "tags": ["media", "library", "content"],
+    "tier": "mid",
+    "path": "modules/media/media-hub-151/",
+    "thumbnail": "thumbnails/media-hub-151.png"
+  },
+  {
+    "name": "SEO Booster Engine 152",
+    "icon": "🔍",
+    "category": "seo",
+    "description": "Auto-suggest keyword improvements and backlink opportunities.",
+    "tags": ["seo", "ranking", "audit"],
+    "tier": "mid",
+    "path": "modules/seo/seo-booster-engine-152/",
+    "thumbnail": "thumbnails/seo-booster-engine-152.png"
+  },
+  {
+    "name": "AI Auto Writer 153",
+    "icon": "🧠",
+    "category": "ai",
+    "description": "Generate landing page content, product descriptions, and emails on the fly.",
+    "tags": ["ai", "writing", "copy"],
+    "tier": "mid",
+    "path": "modules/ai/ai-auto-writer-153/",
+    "thumbnail": "thumbnails/ai-auto-writer-153.png"
+  },
+  {
+    "name": "SEO Health Checker 154",
+    "icon": "⚙️",
+    "category": "seo",
+    "description": "Scan sites for broken links, missing metadata, and performance issues.",
+    "tags": ["seo", "scanner", "health"],
+    "tier": "mid",
+    "path": "modules/seo/seo-health-checker-154/",
+    "thumbnail": "thumbnails/seo-health-checker-154.png"
+  },
+  {
+    "name": "Email Campaign Manager 155",
+    "icon": "📬",
+    "category": "marketing",
+    "description": "Design and send automated email sequences with analytics and templates.",
+    "tags": ["email", "automation", "campaign"],
+    "tier": "mid",
+    "path": "modules/marketing/email-campaign-manager-155/",
+    "thumbnail": "thumbnails/email-campaign-manager-155.png"
+  },
+  {
+    "name": "Ecommerce Tools Bundle 156",
+    "icon": "🛍️",
+    "category": "ecommerce",
+    "description": "Bundle of cart tools, payment flows, inventory sync, and discount logic.",
+    "tags": ["ecommerce", "tools", "bundle"],
+    "tier": "top",
+    "path": "modules/ecommerce/ecommerce-tools-bundle-156/",
+    "thumbnail": "thumbnails/ecommerce-tools-bundle-156.png"
+  },
+  {
+    "name": "SEO Rank Tracker 157",
+    "icon": "📈",
+    "category": "seo",
+    "description": "Track your keyword performance across search engines with alerts.",
+    "tags": ["ranking", "keywords", "tracker"],
+    "tier": "top",
+    "path": "modules/seo/seo-rank-tracker-157/",
+    "thumbnail": "thumbnails/seo-rank-tracker-157.png"
+  },
+  {
+    "name": "Online Storefront Builder 158",
+    "icon": "🏪",
+    "category": "ecommerce",
+    "description": "Drag-and-drop ecommerce storefront creator with template support.",
+    "tags": ["store", "ecommerce", "builder"],
+    "tier": "mid",
+    "path": "modules/ecommerce/online-storefront-builder-158/",
+    "thumbnail": "thumbnails/online-storefront-builder-158.png"
+  },
+  {
+    "name": "Video Embed Manager 159",
+    "icon": "🎞️",
+    "category": "media",
+    "description": "Easily embed and organize video players for products, training, and sales.",
+    "tags": ["video", "embed", "media"],
+    "tier": "top",
+    "path": "modules/media/video-embed-manager-159/",
+    "thumbnail": "thumbnails/video-embed-manager-159.png"
+  },
+  {
+    "name": "AI Dashboard Bot 160",
+    "icon": "🧠",
+    "category": "ai",
+    "description": "Responds to dashboard activity with insights, suggestions, and shortcuts.",
+    "tags": ["ai", "dashboard", "assistant"],
+    "tier": "low",
+    "path": "modules/ai/ai-dashboard-bot-160/",
+    "thumbnail": "thumbnails/ai-dashboard-bot-160.png"
+  },
+  {
+    "name": "Smart Agent Routing 161",
+    "icon": "🛰️",
+    "category": "core",
+    "description": "Route leads and clients to the most relevant agent based on rules and availability.",
+    "tags": ["routing", "agent", "automation"],
+    "tier": "top",
+    "path": "modules/core/smart-agent-routing-161/",
+    "thumbnail": "thumbnails/smart-agent-routing-161.png"
+  },
+  {
+    "name": "Lead Enrichment Tool 162",
+    "icon": "🧪",
+    "category": "crm",
+    "description": "Enrich lead data with social profiles, location, and industry insights.",
+    "tags": ["leads", "crm", "data"],
+    "tier": "mid",
+    "path": "modules/crm/lead-enrichment-tool-162/",
+    "thumbnail": "thumbnails/lead-enrichment-tool-162.png"
+  },
+  {
+    "name": "AI Follow-Up Generator 163",
+    "icon": "🔄",
+    "category": "ai",
+    "description": "Generate professional follow-up emails or texts using previous conversation history.",
+    "tags": ["ai", "follow-up", "automation"],
+    "tier": "top",
+    "path": "modules/ai/ai-followup-generator-163/",
+    "thumbnail": "thumbnails/ai-followup-generator-163.png"
+  },
+  {
+    "name": "Discount Engine 164",
+    "icon": "🏷️",
+    "category": "ecommerce",
+    "description": "Create discount logic, coupon rules, and promo expiry timers.",
+    "tags": ["discount", "coupon", "promo"],
+    "tier": "mid",
+    "path": "modules/ecommerce/discount-engine-164/",
+    "thumbnail": "thumbnails/discount-engine-164.png"
+  },
+  {
+    "name": "Blog Comment System 165",
+    "icon": "💬",
+    "category": "tools",
+    "description": "Enable commenting on blogs with moderation, likes, and reply threads.",
+    "tags": ["blog", "comments", "community"],
+    "tier": "low",
+    "path": "modules/tools/blog-comment-system-165/",
+    "thumbnail": "thumbnails/blog-comment-system-165.png"
+  },
+  {
+    "name": "Event Reminder Engine 166",
+    "icon": "📅",
+    "category": "tools",
+    "description": "Send multi-channel reminders before meetings, webinars, or launches.",
+    "tags": ["reminder", "events", "calendar"],
+    "tier": "mid",
+    "path": "modules/tools/event-reminder-engine-166/",
+    "thumbnail": "thumbnails/event-reminder-engine-166.png"
+  },
+  {
+    "name": "Inbound Form Handler 167",
+    "icon": "📨",
+    "category": "core",
+    "description": "Collect and assign inbound contact form data with notifications and filters.",
+    "tags": ["forms", "inbound", "automation"],
+    "tier": "top",
+    "path": "modules/core/inbound-form-handler-167/",
+    "thumbnail": "thumbnails/inbound-form-handler-167.png"
+  },
+  {
+    "name": "Dynamic Pricing Tool 168",
+    "icon": "💲",
+    "category": "ecommerce",
+    "description": "Automatically adjust product pricing based on demand and engagement.",
+    "tags": ["pricing", "dynamic", "sales"],
+    "tier": "top",
+    "path": "modules/ecommerce/dynamic-pricing-tool-168/",
+    "thumbnail": "thumbnails/dynamic-pricing-tool-168.png"
+  },
+  {
+    "name": "Internal Task Manager 169",
+    "icon": "📋",
+    "category": "tools",
+    "description": "Manage tasks internally between agents, admins, and departments.",
+    "tags": ["tasks", "management", "internal"],
+    "tier": "mid",
+    "path": "modules/tools/internal-task-manager-169/",
+    "thumbnail": "thumbnails/internal-task-manager-169.png"
+  },
+  {
+    "name": "Referral Badge Tracker 170",
+    "icon": "🏅",
+    "category": "affiliate",
+    "description": "Award and track referral badges as affiliates climb the reward ranks.",
+    "tags": ["referral", "affiliate", "badges"],
+    "tier": "mid",
+    "path": "modules/affiliate/referral-badge-tracker-170/",
+    "thumbnail": "thumbnails/referral-badge-tracker-170.png"
+  },
+  {
+    "name": "Micro Landing Page Builder 171",
+    "icon": "🌐",
+    "category": "tools",
+    "description": "Create fast, mobile-first landing pages for products or lead capture.",
+    "tags": ["landing", "page", "builder"],
+    "tier": "top",
+    "path": "modules/tools/micro-landing-page-builder-171/",
+    "thumbnail": "thumbnails/micro-landing-page-builder-171.png"
+  },
+  {
+    "name": "Screen Share Hub 172",
+    "icon": "🖥️",
+    "category": "media",
+    "description": "Launch screen sharing sessions directly from client or team dashboards.",
+    "tags": ["screen", "share", "meeting"],
+    "tier": "top",
+    "path": "modules/media/screen-share-hub-172/",
+    "thumbnail": "thumbnails/screen-share-hub-172.png"
+  },
+  {
+    "name": "GMB Lead Scraper 173",
+    "icon": "📍",
+    "category": "crm",
+    "description": "Scrape Google My Business listings to generate local lead datasets.",
+    "tags": ["leads", "gmb", "scraper"],
+    "tier": "top",
+    "path": "modules/crm/gmb-lead-scraper-173/",
+    "thumbnail": "thumbnails/gmb-lead-scraper-173.png"
+  },
+  {
+    "name": "Live Training Monitor 174",
+    "icon": "📹",
+    "category": "training",
+    "description": "Admins can monitor live training sessions and drop messages into chat.",
+    "tags": ["training", "monitor", "live"],
+    "tier": "mid",
+    "path": "modules/training/live-training-monitor-174/",
+    "thumbnail": "thumbnails/live-training-monitor-174.png"
+  },
+  {
+    "name": "Client Loyalty Tracker 175",
+    "icon": "🎁",
+    "category": "crm",
+    "description": "Track client loyalty, rewards earned, and referral streaks.",
+    "tags": ["loyalty", "client", "tracker"],
+    "tier": "top",
+    "path": "modules/crm/client-loyalty-tracker-175/",
+    "thumbnail": "thumbnails/client-loyalty-tracker-175.png"
+  },
+  {
+    "name": "Upsell Playbook Creator 176",
+    "icon": "📓",
+    "category": "marketing",
+    "description": "Build dynamic upsell guides tailored by product, price, or client intent.",
+    "tags": ["upsell", "guide", "automation"],
+    "tier": "top",
+    "path": "modules/marketing/upsell-playbook-creator-176/",
+    "thumbnail": "thumbnails/upsell-playbook-creator-176.png"
+  },
+  {
+    "name": "Sales Campaign Scheduler 177",
+    "icon": "📆",
+    "category": "sales",
+    "description": "Plan entire campaigns with timed releases, emails, and SMS actions.",
+    "tags": ["campaign", "sales", "scheduling"],
+    "tier": "mid",
+    "path": "modules/sales/sales-campaign-scheduler-177/",
+    "thumbnail": "thumbnails/sales-campaign-scheduler-177.png"
+  },
+  {
+    "name": "Video Testimonial Manager 178",
+    "icon": "🎤",
+    "category": "media",
+    "description": "Collect, tag, and showcase customer video testimonials.",
+    "tags": ["testimonial", "video", "review"],
+    "tier": "mid",
+    "path": "modules/media/video-testimonial-manager-178/",
+    "thumbnail": "thumbnails/video-testimonial-manager-178.png"
+  },
+  {
+    "name": "Smart Hiring Form 179",
+    "icon": "📄",
+    "category": "recruitment",
+    "description": "Dynamic application forms that adjust based on candidate role.",
+    "tags": ["form", "hiring", "application"],
+    "tier": "top",
+    "path": "modules/recruitment/smart-hiring-form-179/",
+    "thumbnail": "thumbnails/smart-hiring-form-179.png"
+  },
+  {
+    "name": "Recruitment Panel CRM 180",
+    "icon": "👥",
+    "category": "recruitment",
+    "description": "Manage candidates, interviews, notes, and team approvals in one place.",
+    "tags": ["recruitment", "crm", "dashboard"],
+    "tier": "top",
+    "path": "modules/recruitment/recruitment-panel-crm-180/",
+    "thumbnail": "thumbnails/recruitment-panel-crm-180.png"
+  },
+  {
+    "name": "Insight Dashboard 181",
+    "icon": "📊",
+    "category": "core",
+    "description": "Visualize team, sales, and client data with real-time graphs and charts.",
+    "tags": ["dashboard", "analytics", "insights"],
+    "tier": "top",
+    "path": "modules/core/insight-dashboard-181/",
+    "thumbnail": "thumbnails/insight-dashboard-181.png"
+  },
+  {
+    "name": "Local Lead Radar 182",
+    "icon": "📍",
+    "category": "crm",
+    "description": "Scan local zones for high-quality leads using location-based triggers.",
+    "tags": ["local", "leads", "map"],
+    "tier": "top",
+    "path": "modules/crm/local-lead-radar-182/",
+    "thumbnail": "thumbnails/local-lead-radar-182.png"
+  },
+  {
+    "name": "Affiliate Payout Manager 183",
+    "icon": "💸",
+    "category": "affiliate",
+    "description": "Schedule, track, and issue payouts to affiliates with audit logs.",
+    "tags": ["affiliate", "payout", "commissions"],
+    "tier": "mid",
+    "path": "modules/affiliate/affiliate-payout-manager-183/",
+    "thumbnail": "thumbnails/affiliate-payout-manager-183.png"
+  },
+  {
+    "name": "Script Display Widget 184",
+    "icon": "📜",
+    "category": "tools",
+    "description": "Display agent scripts during live calls or meetings with collapsible views.",
+    "tags": ["script", "tools", "calls"],
+    "tier": "low",
+    "path": "modules/tools/script-display-widget-184/",
+    "thumbnail": "thumbnails/script-display-widget-184.png"
+  },
+  {
+    "name": "Brand Mood Board 185",
+    "icon": "🎨",
+    "category": "design",
+    "description": "Create and share brand visual mood boards with fonts, colors, and media.",
+    "tags": ["design", "brand", "visual"],
+    "tier": "mid",
+    "path": "modules/design/brand-mood-board-185/",
+    "thumbnail": "thumbnails/brand-mood-board-185.png"
+  },
+  {
+    "name": "Coin Loyalty Converter 186",
+    "icon": "🪙",
+    "category": "coins",
+    "description": "Allow users to convert earned coins into bonuses, upgrades, or discounts.",
+    "tags": ["coins", "loyalty", "rewards"],
+    "tier": "top",
+    "path": "modules/coins/coin-loyalty-converter-186/",
+    "thumbnail": "thumbnails/coin-loyalty-converter-186.png"
+  },
+  {
+    "name": "Lead Stage Tracker 187",
+    "icon": "🎯",
+    "category": "crm",
+    "description": "Track each lead's journey from cold contact to close with drag-and-drop stages.",
+    "tags": ["crm", "stages", "leads"],
+    "tier": "top",
+    "path": "modules/crm/lead-stage-tracker-187/",
+    "thumbnail": "thumbnails/lead-stage-tracker-187.png"
+  },
+  {
+    "name": "Client Proposal Generator 188",
+    "icon": "📑",
+    "category": "tools",
+    "description": "Create and send pre-filled client proposals with pricing tables and PDF export.",
+    "tags": ["proposal", "client", "document"],
+    "tier": "top",
+    "path": "modules/tools/client-proposal-generator-188/",
+    "thumbnail": "thumbnails/client-proposal-generator-188.png"
+  },
+  {
+    "name": "Agent Onboarding Portal 189",
+    "icon": "🧑‍💻",
+    "category": "training",
+    "description": "Step-by-step agent orientation with badge unlocks and time logs.",
+    "tags": ["onboarding", "agent", "training"],
+    "tier": "mid",
+    "path": "modules/training/agent-onboarding-portal-189/",
+    "thumbnail": "thumbnails/agent-onboarding-portal-189.png"
+  },
+  {
+    "name": "SEO Keyword Planner 190",
+    "icon": "🔎",
+    "category": "seo",
+    "description": "Discover and organize SEO keywords with volume, intent, and trends.",
+    "tags": ["seo", "keywords", "planner"],
+    "tier": "top",
+    "path": "modules/seo/seo-keyword-planner-190/",
+    "thumbnail": "thumbnails/seo-keyword-planner-190.png"
+  },
+  {
+    "name": "Time Clock System 191",
+    "icon": "⏱️",
+    "category": "core",
+    "description": "Track working hours and breaks for agents with auto-reporting.",
+    "tags": ["time", "clock", "work"],
+    "tier": "mid",
+    "path": "modules/core/time-clock-system-191/",
+    "thumbnail": "thumbnails/time-clock-system-191.png"
+  },
+  {
+    "name": "Marketplace Feed Builder 192",
+    "icon": "🛍️",
+    "category": "ecommerce",
+    "description": "Build a dynamic product feed for marketplaces or internal catalogs.",
+    "tags": ["ecommerce", "feed", "catalog"],
+    "tier": "top",
+    "path": "modules/ecommerce/marketplace-feed-builder-192/",
+    "thumbnail": "thumbnails/marketplace-feed-builder-192.png"
+  },
+  {
+    "name": "Zoom Clone Room 193",
+    "icon": "🎥",
+    "category": "media",
+    "description": "Host secure meetings with screen share, breakout rooms, and chat.",
+    "tags": ["meeting", "video", "clone"],
+    "tier": "top",
+    "path": "modules/media/zoom-clone-room-193/",
+    "thumbnail": "thumbnails/zoom-clone-room-193.png"
+  },
+  {
+    "name": "Text-to-Voice Player 194",
+    "icon": "🔊",
+    "category": "ai",
+    "description": "Convert text prompts to audio for content, prompts, or learning tools.",
+    "tags": ["voice", "ai", "tts"],
+    "tier": "mid",
+    "path": "modules/ai/text-to-voice-player-194/",
+    "thumbnail": "thumbnails/text-to-voice-player-194.png"
+  },
+  {
+    "name": "One-Click Newsletter 195",
+    "icon": "📰",
+    "category": "marketing",
+    "description": "Auto-generate and schedule newsletters based on platform activity.",
+    "tags": ["newsletter", "email", "automation"],
+    "tier": "top",
+    "path": "modules/marketing/one-click-newsletter-195/",
+    "thumbnail": "thumbnails/one-click-newsletter-195.png"
+  },
+  {
+    "name": "Compliance Badge Tracker 196",
+    "icon": "🎖️",
+    "category": "training",
+    "description": "Assign badges based on completed training, certs, or manual review.",
+    "tags": ["compliance", "badge", "certification"],
+    "tier": "top",
+    "path": "modules/training/compliance-badge-tracker-196/",
+    "thumbnail": "thumbnails/compliance-badge-tracker-196.png"
+  },
+  {
+    "name": "Call Connect Bridge 197",
+    "icon": "🔗",
+    "category": "communication",
+    "description": "Connect external calls with internal agents using live handoff system.",
+    "tags": ["call", "connect", "handoff"],
+    "tier": "top",
+    "path": "modules/communication/call-connect-bridge-197/",
+    "thumbnail": "thumbnails/call-connect-bridge-197.png"
+  },
+  {
+    "name": "Animated Badge Wall 198",
+    "icon": "🏆",
+    "category": "tools",
+    "description": "Gamify your platform with animated badge displays and scoreboards.",
+    "tags": ["badges", "gamification", "wall"],
+    "tier": "mid",
+    "path": "modules/tools/animated-badge-wall-198/",
+    "thumbnail": "thumbnails/animated-badge-wall-198.png"
+  },
+  {
+    "name": "Domain Score Analyzer 199",
+    "icon": "🌐",
+    "category": "seo",
+    "description": "Scan domain for trust, ranking, and technical SEO issues.",
+    "tags": ["seo", "domain", "audit"],
+    "tier": "mid",
+    "path": "modules/seo/domain-score-analyzer-199/",
+    "thumbnail": "thumbnails/domain-score-analyzer-199.png"
+  },
+  {
+    "name": "Client Progress Dashboard 200",
+    "icon": "📈",
+    "category": "crm",
+    "description": "Track each client’s journey, progress markers, and activity status.",
+    "tags": ["client", "progress", "crm"],
+    "tier": "top",
+    "path": "modules/crm/client-progress-dashboard-200/",
+    "thumbnail": "thumbnails/client-progress-dashboard-200.png"
+  },
+  {
+    "name": "Quick Invoice Builder 201",
+    "icon": "🧾",
+    "category": "tools",
+    "description": "Generate and send client invoices with tax, logo, and due date options.",
+    "tags": ["invoice", "billing", "finance"],
+    "tier": "top",
+    "path": "modules/tools/quick-invoice-builder-201/",
+    "thumbnail": "thumbnails/quick-invoice-builder-201.png"
+  },
+  {
+    "name": "Interactive Checklist Tool 202",
+    "icon": "✅",
+    "category": "tools",
+    "description": "Build interactive checklists with progress bars and team assignments.",
+    "tags": ["checklist", "tasks", "interactive"],
+    "tier": "mid",
+    "path": "modules/tools/interactive-checklist-tool-202/",
+    "thumbnail": "thumbnails/interactive-checklist-tool-202.png"
+  },
+  {
+    "name": "Lead Magnet Creator 203",
+    "icon": "🧲",
+    "category": "marketing",
+    "description": "Design lead magnet forms and downloadable offers with built-in delivery.",
+    "tags": ["lead", "magnet", "download"],
+    "tier": "top",
+    "path": "modules/marketing/lead-magnet-creator-203/",
+    "thumbnail": "thumbnails/lead-magnet-creator-203.png"
+  },
+  {
+    "name": "Smart Test Builder 204",
+    "icon": "📝",
+    "category": "training",
+    "description": "Create multiple-choice or fill-in-the-blank quizzes with scoring logic.",
+    "tags": ["quiz", "test", "training"],
+    "tier": "top",
+    "path": "modules/training/smart-test-builder-204/",
+    "thumbnail": "thumbnails/smart-test-builder-204.png"
+  },
+  {
+    "name": "Goal Tracker Engine 205",
+    "icon": "🎯",
+    "category": "tools",
+    "description": "Let users set, monitor, and celebrate milestone goals with visual progress.",
+    "tags": ["goals", "tracking", "progress"],
+    "tier": "mid",
+    "path": "modules/tools/goal-tracker-engine-205/",
+    "thumbnail": "thumbnails/goal-tracker-engine-205.png"
+  },
+  {
+    "name": "Client Intake Form Wizard 206",
+    "icon": "📄",
+    "category": "crm",
+    "description": "Auto-build step-by-step forms for client onboarding or service setup.",
+    "tags": ["form", "onboarding", "crm"],
+    "tier": "top",
+    "path": "modules/crm/client-intake-wizard-206/",
+    "thumbnail": "thumbnails/client-intake-wizard-206.png"
+  },
+  {
+    "name": "Timezone Aware Calendar 207",
+    "icon": "🕒",
+    "category": "tools",
+    "description": "Smart calendar that adjusts to each user’s time zone for meetings.",
+    "tags": ["calendar", "timezone", "schedule"],
+    "tier": "mid",
+    "path": "modules/tools/timezone-calendar-207/",
+    "thumbnail": "thumbnails/timezone-calendar-207.png"
+  },
+  {
+    "name": "Review Request Bot 208",
+    "icon": "🌟",
+    "category": "marketing",
+    "description": "Auto-send review requests with links and reminders post-purchase.",
+    "tags": ["reviews", "ratings", "automation"],
+    "tier": "mid",
+    "path": "modules/marketing/review-request-bot-208/",
+    "thumbnail": "thumbnails/review-request-bot-208.png"
+  },
+  {
+    "name": "Agent Leaderboard 209",
+    "icon": "🏆",
+    "category": "core",
+    "description": "Showcase top-performing agents with rankings and custom metrics.",
+    "tags": ["leaderboard", "agents", "ranking"],
+    "tier": "top",
+    "path": "modules/core/agent-leaderboard-209/",
+    "thumbnail": "thumbnails/agent-leaderboard-209.png"
+  },
+  {
+    "name": "Offer Countdown Widget 210",
+    "icon": "⏳",
+    "category": "tools",
+    "description": "Add urgency with limited-time offers using countdown timers.",
+    "tags": ["offer", "countdown", "widget"],
+    "tier": "low",
+    "path": "modules/tools/offer-countdown-widget-210/",
+    "thumbnail": "thumbnails/offer-countdown-widget-210.png"
+  },
+  {
+    "name": "Coupon Code Engine 211",
+    "icon": "🏷️",
+    "category": "ecommerce",
+    "description": "Create, track, and limit promotional codes for your products.",
+    "tags": ["coupon", "promo", "ecommerce"],
+    "tier": "mid",
+    "path": "modules/ecommerce/coupon-code-engine-211/",
+    "thumbnail": "thumbnails/coupon-code-engine-211.png"
+  },
+  {
+    "name": "Drip Campaign System 212",
+    "icon": "💧",
+    "category": "marketing",
+    "description": "Schedule follow-up emails to engage leads over time.",
+    "tags": ["email", "drip", "campaign"],
+    "tier": "top",
+    "path": "modules/marketing/drip-campaign-system-212/",
+    "thumbnail": "thumbnails/drip-campaign-system-212.png"
+  },
+  {
+    "name": "Multi-User Document Editor 213",
+    "icon": "📝",
+    "category": "tools",
+    "description": "Edit documents live with others using permission-based access.",
+    "tags": ["document", "collaboration", "editing"],
+    "tier": "top",
+    "path": "modules/tools/multi-user-editor-213/",
+    "thumbnail": "thumbnails/multi-user-editor-213.png"
+  },
+  {
+    "name": "SMS Opt-In Form 214",
+    "icon": "📱",
+    "category": "communication",
+    "description": "Build mobile-first SMS opt-in forms with compliance tracking.",
+    "tags": ["sms", "form", "mobile"],
+    "tier": "mid",
+    "path": "modules/communication/sms-optin-form-214/",
+    "thumbnail": "thumbnails/sms-optin-form-214.png"
+  },
+  {
+    "name": "Real-Time Notification Center 215",
+    "icon": "🔔",
+    "category": "core",
+    "description": "Send and receive system notifications across all user roles.",
+    "tags": ["notifications", "realtime", "alerts"],
+    "tier": "top",
+    "path": "modules/core/notification-center-215/",
+    "thumbnail": "thumbnails/notification-center-215.png"
+  },
+  {
+    "name": "User Profile Builder 216",
+    "icon": "👤",
+    "category": "core",
+    "description": "Let users build editable profiles with media, roles, and badges.",
+    "tags": ["profile", "user", "account"],
+    "tier": "top",
+    "path": "modules/core/user-profile-builder-216/",
+    "thumbnail": "thumbnails/user-profile-builder-216.png"
+  },
+  {
+    "name": "Auto-Assign Lead Router 217",
+    "icon": "🧭",
+    "category": "crm",
+    "description": "Automatically assign incoming leads based on availability or skill.",
+    "tags": ["leads", "assignment", "automation"],
+    "tier": "top",
+    "path": "modules/crm/auto-assign-router-217/",
+    "thumbnail": "thumbnails/auto-assign-router-217.png"
+  },
+  {
+    "name": "Cross-App Login Bridge 218",
+    "icon": "🔐",
+    "category": "core",
+    "description": "Allow one login across multiple app modules with secure sync.",
+    "tags": ["login", "bridge", "authentication"],
+    "tier": "top",
+    "path": "modules/core/cross-app-login-bridge-218/",
+    "thumbnail": "thumbnails/cross-app-login-bridge-218.png"
+  },
+  {
+    "name": "Upsell Suggestion Bot 219",
+    "icon": "🤖",
+    "category": "ai",
+    "description": "Suggest upgrades and services based on user behavior in real time.",
+    "tags": ["upsell", "ai", "suggestion"],
+    "tier": "top",
+    "path": "modules/ai/upsell-suggestion-bot-219/",
+    "thumbnail": "thumbnails/upsell-suggestion-bot-219.png"
+  },
+  {
+    "name": "Partner Profile Page 220",
+    "icon": "🤝",
+    "category": "core",
+    "description": "Create editable partner profiles with links, documents, and contact forms.",
+    "tags": ["partners", "profile", "directory"],
+    "tier": "mid",
+    "path": "modules/core/partner-profile-page-220/",
+    "thumbnail": "thumbnails/partner-profile-page-220.png"
+  },
+  {
+    "name": "Compliance Strike Logger 221",
+    "icon": "🚫",
+    "category": "admin",
+    "description": "Track agent strikes, policy violations, and triggers for admin review.",
+    "tags": ["compliance", "strikes", "monitoring"],
+    "tier": "top",
+    "path": "modules/admin/compliance-strike-logger-221/",
+    "thumbnail": "thumbnails/compliance-strike-logger-221.png"
+  },
+  {
+    "name": "Performance Tracker 222",
+    "icon": "📊",
+    "category": "tools",
+    "description": "Monitor daily metrics across teams, goals, and productivity rates.",
+    "tags": ["metrics", "performance", "analytics"],
+    "tier": "mid",
+    "path": "modules/tools/performance-tracker-222/",
+    "thumbnail": "thumbnails/performance-tracker-222.png"
+  },
+  {
+    "name": "Client Review Wall 223",
+    "icon": "💬",
+    "category": "crm",
+    "description": "Display reviews, ratings, and testimonials on public or private dashboards.",
+    "tags": ["reviews", "feedback", "client"],
+    "tier": "mid",
+    "path": "modules/crm/client-review-wall-223/",
+    "thumbnail": "thumbnails/client-review-wall-223.png"
+  },
+  {
+    "name": "PDF Contract Generator 224",
+    "icon": "📑",
+    "category": "tools",
+    "description": "Automatically generate, download, and archive signed PDF agreements.",
+    "tags": ["contract", "pdf", "documents"],
+    "tier": "top",
+    "path": "modules/tools/pdf-contract-generator-224/",
+    "thumbnail": "thumbnails/pdf-contract-generator-224.png"
+  },
+  {
+    "name": "Hiring Tracker 225",
+    "icon": "🧾",
+    "category": "recruitment",
+    "description": "Track all hiring statuses and auto-flag stages for admin review.",
+    "tags": ["hiring", "status", "applicants"],
+    "tier": "top",
+    "path": "modules/recruitment/hiring-tracker-225/",
+    "thumbnail": "thumbnails/hiring-tracker-225.png"
+  },
+  {
+    "name": "Link Shortener & Tracker 226",
+    "icon": "🔗",
+    "category": "seo",
+    "description": "Shorten and track links for campaigns with full analytics dashboard.",
+    "tags": ["links", "seo", "track"],
+    "tier": "mid",
+    "path": "modules/seo/link-shortener-tracker-226/",
+    "thumbnail": "thumbnails/link-shortener-tracker-226.png"
+  },
+  {
+    "name": "Document Uploader Pro 227",
+    "icon": "📤",
+    "category": "tools",
+    "description": "Securely upload, preview, and categorize files with shareable links.",
+    "tags": ["documents", "upload", "share"],
+    "tier": "top",
+    "path": "modules/tools/document-uploader-pro-227/",
+    "thumbnail": "thumbnails/document-uploader-pro-227.png"
+  },
+  {
+    "name": "Training Path Builder 228",
+    "icon": "🏁",
+    "category": "training",
+    "description": "Build custom onboarding journeys with checkpoints and badges.",
+    "tags": ["training", "path", "onboarding"],
+    "tier": "top",
+    "path": "modules/training/training-path-builder-228/",
+    "thumbnail": "thumbnails/training-path-builder-228.png"
+  },
+  {
+    "name": "Voice AI Assistant 229",
+    "icon": "🗣️",
+    "category": "ai",
+    "description": "Use AI voice to assist users during onboarding, sales, and help requests.",
+    "tags": ["voice", "ai", "assistant"],
+    "tier": "top",
+    "path": "modules/ai/voice-ai-assistant-229/",
+    "thumbnail": "thumbnails/voice-ai-assistant-229.png"
+  },
+  {
+    "name": "Media Preview Builder 230",
+    "icon": "🎬",
+    "category": "media",
+    "description": "Auto-generate branded previews for product demos, portfolios, or ads.",
+    "tags": ["media", "preview", "branding"],
+    "tier": "mid",
+    "path": "modules/media/media-preview-builder-230/",
+    "thumbnail": "thumbnails/media-preview-builder-230.png"
+  },
+  {
+    "name": "Affiliate Code Generator 231",
+    "icon": "💸",
+    "category": "affiliate",
+    "description": "Create, assign, and track referral codes tied to affiliate accounts.",
+    "tags": ["affiliate", "referral", "codes"],
+    "tier": "top",
+    "path": "modules/affiliate/affiliate-code-generator-231/",
+    "thumbnail": "thumbnails/affiliate-code-generator-231.png"
+  },
+  {
+    "name": "Live Offer Trigger 232",
+    "icon": "🎯",
+    "category": "marketing",
+    "description": "Trigger live offers based on visitor behavior or time on page.",
+    "tags": ["live", "offer", "trigger"],
+    "tier": "mid",
+    "path": "modules/marketing/live-offer-trigger-232/",
+    "thumbnail": "thumbnails/live-offer-trigger-232.png"
+  },
+  {
+    "name": "Badge Wall Gallery 233",
+    "icon": "🥇",
+    "category": "training",
+    "description": "Showcase all earned training badges and locked achievements.",
+    "tags": ["badges", "gallery", "training"],
+    "tier": "top",
+    "path": "modules/training/badge-wall-gallery-233/",
+    "thumbnail": "thumbnails/badge-wall-gallery-233.png"
+  },
+  {
+    "name": "Mini Webinar Room 234",
+    "icon": "🎥",
+    "category": "media",
+    "description": "Host small webinars or workshops with registration and replays.",
+    "tags": ["webinar", "video", "meeting"],
+    "tier": "mid",
+    "path": "modules/media/mini-webinar-room-234/",
+    "thumbnail": "thumbnails/mini-webinar-room-234.png"
+  },
+  {
+    "name": "Smart Feedback Form 235",
+    "icon": "🧠",
+    "category": "tools",
+    "description": "Collect smarter feedback with logic jumps and emotion scoring.",
+    "tags": ["feedback", "survey", "smart"],
+    "tier": "mid",
+    "path": "modules/tools/smart-feedback-form-235/",
+    "thumbnail": "thumbnails/smart-feedback-form-235.png"
+  },
+  {
+    "name": "Recruiter Bonus Tracker 236",
+    "icon": "🎁",
+    "category": "recruitment",
+    "description": "Track recruiter performance, referral bonuses, and payouts.",
+    "tags": ["recruiter", "bonus", "tracker"],
+    "tier": "top",
+    "path": "modules/recruitment/recruiter-bonus-tracker-236/",
+    "thumbnail": "thumbnails/recruiter-bonus-tracker-236.png"
+  },
+  {
+    "name": "Promo Card Creator 237",
+    "icon": "💳",
+    "category": "marketing",
+    "description": "Design and download promo cards for print, email, or mobile sharing.",
+    "tags": ["promo", "card", "design"],
+    "tier": "mid",
+    "path": "modules/marketing/promo-card-creator-237/",
+    "thumbnail": "thumbnails/promo-card-creator-237.png"
+  },
+  {
+    "name": "PDF Slide Deck Viewer 238",
+    "icon": "📽️",
+    "category": "media",
+    "description": "Embed and present PDFs in deck format with navigation controls.",
+    "tags": ["pdf", "slides", "presentation"],
+    "tier": "low",
+    "path": "modules/media/pdf-slide-deck-238/",
+    "thumbnail": "thumbnails/pdf-slide-deck-238.png"
+  },
+  {
+    "name": "Client Support Ticket Center 239",
+    "icon": "🎟️",
+    "category": "crm",
+    "description": "Manage client issues, responses, and priority levels in one panel.",
+    "tags": ["support", "tickets", "client"],
+    "tier": "top",
+    "path": "modules/crm/client-support-ticket-center-239/",
+    "thumbnail": "thumbnails/client-support-ticket-center-239.png"
+  },
+  {
+    "name": "Video Welcome Page 240",
+    "icon": "👋",
+    "category": "core",
+    "description": "Add a personal video greeting to your platform’s login or welcome screen.",
+    "tags": ["video", "welcome", "user"],
+    "tier": "mid",
+    "path": "modules/core/video-welcome-page-240/",
+    "thumbnail": "thumbnails/video-welcome-page-240.png"
+  },
+  {
+    "name": "Webpage Rebuilder Tool 241",
+    "icon": "🧱",
+    "category": "tools",
+    "description": "Scan old client pages and rebuild them as upgraded modern web apps.",
+    "tags": ["builder", "rebuild", "webapp"],
+    "tier": "top",
+    "path": "modules/tools/webpage-rebuilder-tool-241/",
+    "thumbnail": "thumbnails/webpage-rebuilder-tool-241.png"
+  },
+  {
+    "name": "Client Welcome Email Sender 242",
+    "icon": "📨",
+    "category": "crm",
+    "description": "Send welcome emails with onboarding links and platform access setup.",
+    "tags": ["welcome", "email", "onboarding"],
+    "tier": "low",
+    "path": "modules/crm/client-welcome-sender-242/",
+    "thumbnail": "thumbnails/client-welcome-sender-242.png"
+  },
+  {
+    "name": "Mini Affiliate Dashboard 243",
+    "icon": "📈",
+    "category": "affiliate",
+    "description": "Track referrals, conversions, and commission payouts in real time.",
+    "tags": ["affiliate", "dashboard", "referrals"],
+    "tier": "mid",
+    "path": "modules/affiliate/mini-affiliate-dashboard-243/",
+    "thumbnail": "thumbnails/mini-affiliate-dashboard-243.png"
+  },
+  {
+    "name": "Audio Note Transcriber 244",
+    "icon": "🎧",
+    "category": "ai",
+    "description": "Convert voice notes or calls to searchable text using speech-to-text AI.",
+    "tags": ["audio", "transcribe", "voice"],
+    "tier": "mid",
+    "path": "modules/ai/audio-note-transcriber-244/",
+    "thumbnail": "thumbnails/audio-note-transcriber-244.png"
+  },
+  {
+    "name": "Visual Link Builder 245",
+    "icon": "🔗",
+    "category": "tools",
+    "description": "Create visually branded short links for marketing and tracking purposes.",
+    "tags": ["links", "visual", "branding"],
+    "tier": "mid",
+    "path": "modules/tools/visual-link-builder-245/",
+    "thumbnail": "thumbnails/visual-link-builder-245.png"
+  },
+  {
+    "name": "Smart Analytics Panel 246",
+    "icon": "📊",
+    "category": "core",
+    "description": "Track usage, clicks, and performance across your suite in one dashboard.",
+    "tags": ["analytics", "usage", "stats"],
+    "tier": "top",
+    "path": "modules/core/smart-analytics-panel-246/",
+    "thumbnail": "thumbnails/smart-analytics-panel-246.png"
+  },
+  {
+    "name": "Appointment Confirmation Bot 247",
+    "icon": "📅",
+    "category": "crm",
+    "description": "Auto-send confirmations and reminders to clients and leads via email or SMS.",
+    "tags": ["appointments", "reminders", "confirmations"],
+    "tier": "low",
+    "path": "modules/crm/appointment-confirmation-bot-247/",
+    "thumbnail": "thumbnails/appointment-confirmation-bot-247.png"
+  },
+  {
+    "name": "Hiring Resume Parser 248",
+    "icon": "📄",
+    "category": "recruitment",
+    "description": "Extract relevant data from uploaded resumes and pre-fill applicant profiles.",
+    "tags": ["resume", "parser", "hiring"],
+    "tier": "top",
+    "path": "modules/recruitment/hiring-resume-parser-248/",
+    "thumbnail": "thumbnails/hiring-resume-parser-248.png"
+  },
+  {
+    "name": "Coupon Campaign Blaster 249",
+    "icon": "🎟️",
+    "category": "marketing",
+    "description": "Launch limited-time coupon campaigns with tracking and opt-in logic.",
+    "tags": ["coupon", "campaign", "blaster"],
+    "tier": "mid",
+    "path": "modules/marketing/coupon-campaign-blaster-249/",
+    "thumbnail": "thumbnails/coupon-campaign-blaster-249.png"
+  },
+  {
+    "name": "Media Auto Archiver 250",
+    "icon": "🗂️",
+    "category": "media",
+    "description": "Auto-organize and archive old media content for long-term storage.",
+    "tags": ["media", "archive", "storage"],
+    "tier": "low",
+    "path": "modules/media/media-auto-archiver-250/",
+    "thumbnail": "thumbnails/media-auto-archiver-250.png"
+  },
+  {
+    "name": "SMS Invite System 251",
+    "icon": "📱",
+    "category": "communication",
+    "description": "Invite leads or clients via SMS with clickable onboarding links.",
+    "tags": ["sms", "invite", "leads"],
+    "tier": "top",
+    "path": "modules/communication/sms-invite-system-251/",
+    "thumbnail": "thumbnails/sms-invite-system-251.png"
+  },
+  {
+    "name": "AI Form Completion Bot 252",
+    "icon": "🤖",
+    "category": "ai",
+    "description": "Auto-complete long forms using AI-trained user profiles and inputs.",
+    "tags": ["forms", "auto", "ai"],
+    "tier": "mid",
+    "path": "modules/ai/ai-form-completion-bot-252/",
+    "thumbnail": "thumbnails/ai-form-completion-bot-252.png"
+  },
+  {
+    "name": "Business Snapshot Scanner 253",
+    "icon": "🧾",
+    "category": "core",
+    "description": "Scan a business's online visibility and return a health score instantly.",
+    "tags": ["scan", "snapshot", "visibility"],
+    "tier": "top",
+    "path": "modules/core/business-snapshot-scanner-253/",
+    "thumbnail": "thumbnails/business-snapshot-scanner-253.png"
+  },
+  {
+    "name": "Support Chat Assistant 254",
+    "icon": "💬",
+    "category": "crm",
+    "description": "Offer real-time AI chat help and redirect to ticket system if needed.",
+    "tags": ["support", "chat", "assistant"],
+    "tier": "low",
+    "path": "modules/crm/support-chat-assistant-254/",
+    "thumbnail": "thumbnails/support-chat-assistant-254.png"
+  },
+  {
+    "name": "Recruiter Promo Generator 255",
+    "icon": "📣",
+    "category": "recruitment",
+    "description": "Auto-create recruiter banners, images, and promo landing pages.",
+    "tags": ["recruiter", "promo", "tools"],
+    "tier": "top",
+    "path": "modules/recruitment/recruiter-promo-generator-255/",
+    "thumbnail": "thumbnails/recruiter-promo-generator-255.png"
+  },
+  {
+    "name": "Pre-Made App Templates 256",
+    "icon": "🧩",
+    "category": "tools",
+    "description": "Launch complete app starter kits with built-in categories and flow.",
+    "tags": ["templates", "app", "starter"],
+    "tier": "mid",
+    "path": "modules/tools/pre-made-app-templates-256/",
+    "thumbnail": "thumbnails/pre-made-app-templates-256.png"
+  },
+  {
+    "name": "Client Timeline Builder 257",
+    "icon": "📆",
+    "category": "crm",
+    "description": "Map out project timelines, appointments, and history for each client.",
+    "tags": ["timeline", "projects", "crm"],
+    "tier": "mid",
+    "path": "modules/crm/client-timeline-builder-257/",
+    "thumbnail": "thumbnails/client-timeline-builder-257.png"
+  },
+  {
+    "name": "Engagement Tracker 258",
+    "icon": "📊",
+    "category": "marketing",
+    "description": "Measure email opens, link clicks, and content interaction rates.",
+    "tags": ["engagement", "tracker", "email"],
+    "tier": "mid",
+    "path": "modules/marketing/engagement-tracker-258/",
+    "thumbnail": "thumbnails/engagement-tracker-258.png"
+  },
+  {
+    "name": "Call Audio Archive Tool 259",
+    "icon": "🔊",
+    "category": "communication",
+    "description": "Automatically store and sort all call recordings by lead or agent.",
+    "tags": ["calls", "audio", "archive"],
+    "tier": "top",
+    "path": "modules/communication/call-audio-archive-259/",
+    "thumbnail": "thumbnails/call-audio-archive-259.png"
+  },
+  {
+    "name": "Dynamic Pricing Engine 260",
+    "icon": "💰",
+    "category": "ecommerce",
+    "description": "Set rules for real-time pricing changes based on user behavior or demand.",
+    "tags": ["pricing", "engine", "ecommerce"],
+    "tier": "top",
+    "path": "modules/ecommerce/dynamic-pricing-engine-260/",
+    "thumbnail": "thumbnails/dynamic-pricing-engine-260.png"
+  },
+  {
+    "name": "Brand Portal Builder 261",
+    "icon": "🏢",
+    "category": "marketing",
+    "description": "Create a full brand landing portal for clients, including logo, mission, products, and videos.",
+    "tags": ["brand", "portal", "builder"],
+    "tier": "top",
+    "path": "modules/marketing/brand-portal-builder-261/",
+    "thumbnail": "thumbnails/brand-portal-builder-261.png"
+  },
+  {
+    "name": "KPI Goal Tracker 262",
+    "icon": "🎯",
+    "category": "core",
+    "description": "Track sales goals and agent KPIs with color-coded dashboards and alerts.",
+    "tags": ["kpi", "goals", "tracker"],
+    "tier": "top",
+    "path": "modules/core/kpi-goal-tracker-262/",
+    "thumbnail": "thumbnails/kpi-goal-tracker-262.png"
+  },
+  {
+    "name": "Upsell Trigger Timeline 263",
+    "icon": "🧠",
+    "category": "ai",
+    "description": "Build client journey timelines and deploy targeted upsell triggers.",
+    "tags": ["upsell", "trigger", "timeline"],
+    "tier": "mid",
+    "path": "modules/ai/upsell-timeline-263/",
+    "thumbnail": "thumbnails/upsell-timeline-263.png"
+  },
+  {
+    "name": "Multi-Product Checkout 264",
+    "icon": "🛍️",
+    "category": "ecommerce",
+    "description": "Enable checkout for multiple bundled products with variable pricing logic.",
+    "tags": ["checkout", "bundles", "products"],
+    "tier": "top",
+    "path": "modules/ecommerce/multi-product-checkout-264/",
+    "thumbnail": "thumbnails/multi-product-checkout-264.png"
+  },
+  {
+    "name": "Auto-Call Return Bot 265",
+    "icon": "📞",
+    "category": "communication",
+    "description": "Auto-return missed calls and log follow-up attempts for sales agents.",
+    "tags": ["calls", "bot", "follow-up"],
+    "tier": "mid",
+    "path": "modules/communication/auto-call-return-bot-265/",
+    "thumbnail": "thumbnails/auto-call-return-bot-265.png"
+  },
+  {
+    "name": "Smart Compliance Prompter 266",
+    "icon": "📋",
+    "category": "tools",
+    "description": "Alerts agents during calls if required disclosures or legal scripts are missed.",
+    "tags": ["compliance", "alerts", "scripts"],
+    "tier": "top",
+    "path": "modules/tools/smart-compliance-prompter-266/",
+    "thumbnail": "thumbnails/smart-compliance-prompter-266.png"
+  },
+  {
+    "name": "Onboarding Milestone Tracker 267",
+    "icon": "🛫",
+    "category": "crm",
+    "description": "Visual timeline showing onboarding steps, completed items, and tasks left.",
+    "tags": ["onboarding", "milestones", "timeline"],
+    "tier": "low",
+    "path": "modules/crm/onboarding-milestone-tracker-267/",
+    "thumbnail": "thumbnails/onboarding-milestone-tracker-267.png"
+  },
+  {
+    "name": "Sales War Room 268",
+    "icon": "🧩",
+    "category": "sales",
+    "description": "Live sales team dashboard with progress bars, alerts, rewards, and gamification.",
+    "tags": ["sales", "gamification", "dashboard"],
+    "tier": "top",
+    "path": "modules/sales/sales-war-room-268/",
+    "thumbnail": "thumbnails/sales-war-room-268.png"
+  },
+  {
+    "name": "Quick Script Assistant 269",
+    "icon": "📓",
+    "category": "tools",
+    "description": "One-click script viewer for phone, Zoom, or live chat agents based on campaign.",
+    "tags": ["scripts", "assistant", "calls"],
+    "tier": "mid",
+    "path": "modules/tools/quick-script-assistant-269/",
+    "thumbnail": "thumbnails/quick-script-assistant-269.png"
+  },
+  {
+    "name": "Client Budget Builder 270",
+    "icon": "💸",
+    "category": "crm",
+    "description": "Let clients set their budget for services and show matched offers dynamically.",
+    "tags": ["budget", "offers", "client"],
+    "tier": "mid",
+    "path": "modules/crm/client-budget-builder-270/",
+    "thumbnail": "thumbnails/client-budget-builder-270.png"
+  },
+  {
+    "name": "Proposal Builder Tool 271",
+    "icon": "🧾",
+    "category": "crm",
+    "description": "Generate full proposal PDFs including branding, pricing, terms, and signatures.",
+    "tags": ["proposal", "documents", "builder"],
+    "tier": "top",
+    "path": "modules/crm/proposal-builder-tool-271/",
+    "thumbnail": "thumbnails/proposal-builder-tool-271.png"
+  },
+  {
+    "name": "Customer Review Uploader 272",
+    "icon": "⭐",
+    "category": "tools",
+    "description": "Manually or automatically submit happy client reviews to platforms like Google or Yelp.",
+    "tags": ["reviews", "testimonials", "upload"],
+    "tier": "low",
+    "path": "modules/tools/customer-review-uploader-272/",
+    "thumbnail": "thumbnails/customer-review-uploader-272.png"
+  },
+  {
+    "name": "Global Notification Manager 273",
+    "icon": "🔔",
+    "category": "core",
+    "description": "System-wide alert manager for pushing messages to users, clients, or admins.",
+    "tags": ["notifications", "global", "alerts"],
+    "tier": "top",
+    "path": "modules/core/global-notification-manager-273/",
+    "thumbnail": "thumbnails/global-notification-manager-273.png"
+  },
+  {
+    "name": "Animated Video Maker 274",
+    "icon": "🎬",
+    "category": "media",
+    "description": "Create animated explainer or promo videos using scenes, text, and audio.",
+    "tags": ["videos", "promo", "explainer"],
+    "tier": "top",
+    "path": "modules/media/animated-video-maker-274/",
+    "thumbnail": "thumbnails/animated-video-maker-274.png"
+  },
+  {
+    "name": "AI Logo Sketcher 275",
+    "icon": "🖌️",
+    "category": "ai",
+    "description": "Use AI to generate sketched logos from keywords, style, and niche selections.",
+    "tags": ["logo", "ai", "design"],
+    "tier": "mid",
+    "path": "modules/ai/ai-logo-sketcher-275/",
+    "thumbnail": "thumbnails/ai-logo-sketcher-275.png"
+  },
+  {
+    "name": "Call Whisper Training Log 276",
+    "icon": "🧏",
+    "category": "communication",
+    "description": "Record whisper-style coaching messages sent to agents during live calls.",
+    "tags": ["coaching", "calls", "whisper"],
+    "tier": "mid",
+    "path": "modules/communication/call-whisper-training-log-276/",
+    "thumbnail": "thumbnails/call-whisper-training-log-276.png"
+  },
+  {
+    "name": "User Avatar Studio 277",
+    "icon": "👤",
+    "category": "tools",
+    "description": "Generate avatars for users, agents, or clients using AI or photo upload.",
+    "tags": ["avatars", "users", "graphics"],
+    "tier": "low",
+    "path": "modules/tools/user-avatar-studio-277/",
+    "thumbnail": "thumbnails/user-avatar-studio-277.png"
+  },
+  {
+    "name": "Milestone Badge Generator 278",
+    "icon": "🏆",
+    "category": "core",
+    "description": "Award custom milestone badges to users who complete tasks or reach targets.",
+    "tags": ["badges", "milestone", "gamification"],
+    "tier": "top",
+    "path": "modules/core/milestone-badge-generator-278/",
+    "thumbnail": "thumbnails/milestone-badge-generator-278.png"
+  },
+  {
+    "name": "Webinar Host Panel 279",
+    "icon": "🎤",
+    "category": "media",
+    "description": "Host, record, and share webinars with attendee management and chat features.",
+    "tags": ["webinars", "video", "media"],
+    "tier": "top",
+    "path": "modules/media/webinar-host-panel-279/",
+    "thumbnail": "thumbnails/webinar-host-panel-279.png"
+  },
+  {
+    "name": "Lead Source Tracker 280",
+    "icon": "🧭",
+    "category": "crm",
+    "description": "Monitor which campaigns, ads, or referrals bring in the most valuable leads.",
+    "tags": ["leads", "sources", "tracker"],
+    "tier": "top",
+    "path": "modules/crm/lead-source-tracker-280/",
+    "thumbnail": "thumbnails/lead-source-tracker-280.png"
+  },
+  {
+    "name": "Client Feedback Engine 281",
+    "icon": "💬",
+    "category": "crm",
+    "description": "Collect structured feedback from clients post-purchase or post-meeting with surveys.",
+    "tags": ["feedback", "survey", "client"],
+    "tier": "mid",
+    "path": "modules/crm/client-feedback-engine-281/",
+    "thumbnail": "thumbnails/client-feedback-engine-281.png"
+  },
+  {
+    "name": "Chain Performance Tree 282",
+    "icon": "🌳",
+    "category": "core",
+    "description": "Visualize affiliate or agent performance in a branching tree format with stats.",
+    "tags": ["chain", "performance", "visual"],
+    "tier": "top",
+    "path": "modules/core/chain-performance-tree-282/",
+    "thumbnail": "thumbnails/chain-performance-tree-282.png"
+  },
+  {
+    "name": "Affiliate Promo Tools 283",
+    "icon": "🛠️",
+    "category": "marketing",
+    "description": "Give affiliates a toolbox of banners, links, and scripts to promote products.",
+    "tags": ["affiliate", "promo", "tools"],
+    "tier": "top",
+    "path": "modules/marketing/affiliate-promo-tools-283/",
+    "thumbnail": "thumbnails/affiliate-promo-tools-283.png"
+  },
+  {
+    "name": "Silent Login Tracker 284",
+    "icon": "👀",
+    "category": "security",
+    "description": "Log silent or hidden admin logins for audit and compliance review.",
+    "tags": ["security", "audit", "tracker"],
+    "tier": "low",
+    "path": "modules/security/silent-login-tracker-284/",
+    "thumbnail": "thumbnails/silent-login-tracker-284.png"
+  },
+  {
+    "name": "Promo Landing Page Creator 285",
+    "icon": "📣",
+    "category": "marketing",
+    "description": "Create responsive landing pages for promotions, lead magnets, or opt-ins.",
+    "tags": ["promo", "landing", "leads"],
+    "tier": "top",
+    "path": "modules/marketing/promo-landing-page-creator-285/",
+    "thumbnail": "thumbnails/promo-landing-page-creator-285.png"
+  },
+  {
+    "name": "Smart Activity Feed 286",
+    "icon": "📲",
+    "category": "core",
+    "description": "Unified feed showing user activity, messages, updates, and alerts.",
+    "tags": ["activity", "feed", "updates"],
+    "tier": "mid",
+    "path": "modules/core/smart-activity-feed-286/",
+    "thumbnail": "thumbnails/smart-activity-feed-286.png"
+  },
+  {
+    "name": "Project Workspace Tool 287",
+    "icon": "🗂️",
+    "category": "tools",
+    "description": "Create, assign, and track tasks across multiple projects and contributors.",
+    "tags": ["projects", "tasks", "workspace"],
+    "tier": "top",
+    "path": "modules/tools/project-workspace-tool-287/",
+    "thumbnail": "thumbnails/project-workspace-tool-287.png"
+  },
+  {
+    "name": "Timed Offer Engine 288",
+    "icon": "⏳",
+    "category": "ecommerce",
+    "description": "Deploy time-sensitive offers with countdowns and one-click activation.",
+    "tags": ["offers", "countdown", "sales"],
+    "tier": "mid",
+    "path": "modules/ecommerce/timed-offer-engine-288/",
+    "thumbnail": "thumbnails/timed-offer-engine-288.png"
+  },
+  {
+    "name": "AI Support Responder 289",
+    "icon": "🧠",
+    "category": "ai",
+    "description": "Auto-reply to basic customer inquiries using smart AI-trained responses.",
+    "tags": ["support", "ai", "automation"],
+    "tier": "top",
+    "path": "modules/ai/ai-support-responder-289/",
+    "thumbnail": "thumbnails/ai-support-responder-289.png"
+  },
+  {
+    "name": "Public Profile Pages 290",
+    "icon": "🌐",
+    "category": "core",
+    "description": "Enable users or agents to have shareable public-facing profile pages.",
+    "tags": ["profile", "public", "bio"],
+    "tier": "low",
+    "path": "modules/core/public-profile-pages-290/",
+    "thumbnail": "thumbnails/public-profile-pages-290.png"
+  },
+  {
+    "name": "Offer Carousel Module 291",
+    "icon": "🎠",
+    "category": "ecommerce",
+    "description": "Display rotating offers, banners, or messages in a customizable carousel.",
+    "tags": ["carousel", "offers", "promo"],
+    "tier": "low",
+    "path": "modules/ecommerce/offer-carousel-module-291/",
+    "thumbnail": "thumbnails/offer-carousel-module-291.png"
+  },
+  {
+    "name": "Audio Ad Creator 292",
+    "icon": "🔊",
+    "category": "media",
+    "description": "Record, edit, and publish professional-grade audio ads with music beds.",
+    "tags": ["audio", "ads", "recording"],
+    "tier": "top",
+    "path": "modules/media/audio-ad-creator-292/",
+    "thumbnail": "thumbnails/audio-ad-creator-292.png"
+  },
+  {
+    "name": "In-App Notification Hub 293",
+    "icon": "📢",
+    "category": "communication",
+    "description": "Push real-time updates inside any app with modals, banners, or alerts.",
+    "tags": ["notifications", "alerts", "communication"],
+    "tier": "top",
+    "path": "modules/communication/in-app-notification-hub-293/",
+    "thumbnail": "thumbnails/in-app-notification-hub-293.png"
+  },
+  {
+    "name": "Session Heatmap Visualizer 294",
+    "icon": "🔥",
+    "category": "seo",
+    "description": "Track user behavior visually with page heatmaps and session replay.",
+    "tags": ["heatmap", "seo", "tracking"],
+    "tier": "top",
+    "path": "modules/seo/session-heatmap-visualizer-294/",
+    "thumbnail": "thumbnails/session-heatmap-visualizer-294.png"
+  },
+  {
+    "name": "Team Performance Matrix 295",
+    "icon": "📊",
+    "category": "core",
+    "description": "Compare performance across teams using KPIs, charts, and performance tiers.",
+    "tags": ["teams", "performance", "matrix"],
+    "tier": "mid",
+    "path": "modules/core/team-performance-matrix-295/",
+    "thumbnail": "thumbnails/team-performance-matrix-295.png"
+  },
+  {
+    "name": "Meeting Queue Scheduler 296",
+    "icon": "📆",
+    "category": "tools",
+    "description": "Let clients queue up for next-available meetings or service slots.",
+    "tags": ["scheduler", "queue", "calendar"],
+    "tier": "mid",
+    "path": "modules/tools/meeting-queue-scheduler-296/",
+    "thumbnail": "thumbnails/meeting-queue-scheduler-296.png"
+  },
+  {
+    "name": "Voice Generator Pro 297",
+    "icon": "🎤",
+    "category": "ai",
+    "description": "Turn typed text into lifelike voiceovers for videos, calls, or training.",
+    "tags": ["voice", "ai", "generator"],
+    "tier": "top",
+    "path": "modules/ai/voice-generator-pro-297/",
+    "thumbnail": "thumbnails/voice-generator-pro-297.png"
+  },
+  {
+    "name": "Content Pillar Builder 298",
+    "icon": "🧱",
+    "category": "marketing",
+    "description": "Generate blog or post series using pillar content logic and AI prompts.",
+    "tags": ["content", "pillar", "ai"],
+    "tier": "mid",
+    "path": "modules/marketing/content-pillar-builder-298/",
+    "thumbnail": "thumbnails/content-pillar-builder-298.png"
+  },
+  {
+    "name": "Achievement Leaderboard 299",
+    "icon": "🏅",
+    "category": "gamification",
+    "description": "Showcase top-performing users and teams with badge-based leaderboards.",
+    "tags": ["achievements", "leaderboard", "badges"],
+    "tier": "top",
+    "path": "modules/gamification/achievement-leaderboard-299/",
+    "thumbnail": "thumbnails/achievement-leaderboard-299.png"
+  },
+  {
+    "name": "Upsell Page Split Tester 300",
+    "icon": "🧪",
+    "category": "ecommerce",
+    "description": "Run A/B split tests on upsell pages and track which offer converts best.",
+    "tags": ["split test", "upsell", "ab testing"],
+    "tier": "top",
+    "path": "modules/ecommerce/upsell-page-split-tester-300/",
+    "thumbnail": "thumbnails/upsell-page-split-tester-300.png"
+  },
+  {
+    "name": "Client Dream Builder 301",
+    "icon": "🛠️",
+    "category": "core",
+    "description": "Let clients describe their ideal platform, then auto-bundle compatible modules and generate a cart for payment and instant setup.",
+    "tags": ["builder", "automation", "custom"],
     "tier": "top",
     "path": "modules/core/client-dream-builder-301/",
     "thumbnail": "thumbnails/client-dream-builder-301.png"
+  },
+  {
+    "name": "Merch Designer Pro 302",
+    "icon": "👕",
+    "category": "ecommerce",
+    "description": "Create, preview, and drop-ship custom merch using design templates and print-on-demand fulfillment like Yoycol.",
+    "tags": ["design", "merch", "dropship"],
+    "tier": "top",
+    "path": "modules/ecommerce/merch-designer-pro-302/",
+    "thumbnail": "thumbnails/merch-designer-pro-302.png"
+  },
+  {
+    "name": "GPS Tracker Module 303",
+    "icon": "📍",
+    "category": "tools",
+    "description": "Real-time GPS tracking for drivers, delivery staff, or field agents. View movement logs, zones, and ETA alerts.",
+    "tags": ["gps", "tracking", "delivery"],
+    "tier": "top",
+    "path": "modules/tools/gps-tracker-303/",
+    "thumbnail": "thumbnails/gps-tracker-303.png"
+  },
+  {
+    "name": "Social Network Platform 304",
+    "icon": "🌐",
+    "category": "media",
+    "description": "Launch a ready-made social platform with timelines, profiles, likes, comments, and media sharing features.",
+    "tags": ["social", "network", "community"],
+    "tier": "top",
+    "path": "modules/media/social-network-platform-304/",
+    "thumbnail": "thumbnails/social-network-platform-304.png"
+  },
+  {
+    "name": "Web Analytics Suite 305",
+    "icon": "📊",
+    "category": "tools",
+    "description": "Monitor website activity, conversion rates, bounce rates, and visitor behavior from one place.",
+    "tags": ["analytics", "tracking", "dashboard"],
+    "tier": "mid",
+    "path": "modules/tools/web-analytics-suite-305/",
+    "thumbnail": "thumbnails/web-analytics-suite-305.png"
+  },
+  {
+    "name": "Smart FAQ Module 306",
+    "icon": "❓",
+    "category": "core",
+    "description": "Automatically generate and organize FAQs using AI and user search history data.",
+    "tags": ["faq", "ai", "support"],
+    "tier": "low",
+    "path": "modules/core/smart-faq-module-306/",
+    "thumbnail": "thumbnails/smart-faq-module-306.png"
+  },
+  {
+    "name": "Document Vault 307",
+    "icon": "📁",
+    "category": "tools",
+    "description": "Store, manage, and share business documents with encryption and access control.",
+    "tags": ["docs", "storage", "vault"],
+    "tier": "mid",
+    "path": "modules/tools/document-vault-307/",
+    "thumbnail": "thumbnails/document-vault-307.png"
+  },
+  {
+    "name": "Video Hub Module 308",
+    "icon": "🎥",
+    "category": "media",
+    "description": "Upload and stream videos, categorize content, and allow comments and likes like YouTube.",
+    "tags": ["video", "media", "streaming"],
+    "tier": "top",
+    "path": "modules/media/video-hub-module-308/",
+    "thumbnail": "thumbnails/video-hub-module-308.png"
+  },
+  {
+    "name": "Smart Chatbot Builder 309",
+    "icon": "💬",
+    "category": "ai",
+    "description": "Create AI-driven support bots that can answer questions, route issues, or upsell products.",
+    "tags": ["ai", "chatbot", "support"],
+    "tier": "top",
+    "path": "modules/ai/smart-chatbot-builder-309/",
+    "thumbnail": "thumbnails/smart-chatbot-builder-309.png"
+  },
+  {
+    "name": "Voiceover Generator 310",
+    "icon": "🎤",
+    "category": "media",
+    "description": "Turn text into professional voiceovers for promos, training, or narration.",
+    "tags": ["voice", "audio", "ai"],
+    "tier": "top",
+    "path": "modules/media/voiceover-generator-310/",
+    "thumbnail": "thumbnails/voiceover-generator-310.png"
+  },
+  {
+    "name": "Brand Kit Creator 311",
+    "icon": "🎨",
+    "category": "tools",
+    "description": "Build logos, color schemes, fonts, and branding guidelines for businesses instantly.",
+    "tags": ["branding", "design", "kit"],
+    "tier": "mid",
+    "path": "modules/tools/brand-kit-creator-311/",
+    "thumbnail": "thumbnails/brand-kit-creator-311.png"
+  },
+  {
+    "name": "Remote Team Check-In 312",
+    "icon": "🕒",
+    "category": "core",
+    "description": "Allow remote teams to log in, check tasks, mark attendance, and send quick updates.",
+    "tags": ["remote", "check-in", "team"],
+    "tier": "low",
+    "path": "modules/core/remote-checkin-312/",
+    "thumbnail": "thumbnails/remote-checkin-312.png"
+  },
+  {
+    "name": "Invoice Tracker 313",
+    "icon": "🧾",
+    "category": "tools",
+    "description": "Track unpaid, sent, and recurring invoices with overdue alerts and reports.",
+    "tags": ["invoice", "billing", "tracker"],
+    "tier": "mid",
+    "path": "modules/tools/invoice-tracker-313/",
+    "thumbnail": "thumbnails/invoice-tracker-313.png"
+  },
+  {
+    "name": "Meeting Scheduler Bot 314",
+    "icon": "📆",
+    "category": "ai",
+    "description": "AI tool that syncs calendars and auto-finds ideal times to schedule client meetings.",
+    "tags": ["scheduler", "calendar", "ai"],
+    "tier": "mid",
+    "path": "modules/ai/meeting-scheduler-bot-314/",
+    "thumbnail": "thumbnails/meeting-scheduler-bot-314.png"
+  },
+  {
+    "name": "Upsell Popup Engine 315",
+    "icon": "🪄",
+    "category": "marketing",
+    "description": "Popups based on behavior, cart value, or exit intent to push offers and bundles.",
+    "tags": ["popup", "upsell", "trigger"],
+    "tier": "mid",
+    "path": "modules/marketing/upsell-popup-engine-315/",
+    "thumbnail": "thumbnails/upsell-popup-engine-315.png"
+  },
+  {
+    "name": "Hiring Tracker Dashboard 316",
+    "icon": "📋",
+    "category": "recruitment",
+    "description": "Track hiring campaigns, applicant progress, recruiter bonuses, and chain performance.",
+    "tags": ["hiring", "recruitment", "tracker"],
+    "tier": "top",
+    "path": "modules/recruitment/hiring-tracker-dashboard-316/",
+    "thumbnail": "thumbnails/hiring-tracker-dashboard-316.png"
+  },
+  {
+    "name": "Secure File Share 317",
+    "icon": "🔐",
+    "category": "tools",
+    "description": "Send and receive files securely with expiration dates and passcode protection.",
+    "tags": ["files", "security", "sharing"],
+    "tier": "mid",
+    "path": "modules/tools/secure-file-share-317/",
+    "thumbnail": "thumbnails/secure-file-share-317.png"
+  },
+  {
+    "name": "Ad Campaign Wizard 318",
+    "icon": "📢",
+    "category": "marketing",
+    "description": "Launch ads on Facebook, Google, and YouTube with guided campaign setup.",
+    "tags": ["ads", "campaign", "wizard"],
+    "tier": "top",
+    "path": "modules/marketing/ad-campaign-wizard-318/",
+    "thumbnail": "thumbnails/ad-campaign-wizard-318.png"
+  },
+  {
+    "name": "Online Magazine Builder 319",
+    "icon": "📰",
+    "category": "media",
+    "description": "Create stylish, interactive online magazines with flipbooks and embedded media.",
+    "tags": ["magazine", "interactive", "media"],
+    "tier": "top",
+    "path": "modules/media/online-magazine-builder-319/",
+    "thumbnail": "thumbnails/online-magazine-builder-319.png"
+  },
+  {
+    "name": "Agent Stats Panel 320",
+    "icon": "📈",
+    "category": "core",
+    "description": "Track individual agent metrics like call time, conversion rate, and earnings.",
+    "tags": ["stats", "agents", "performance"],
+    "tier": "top",
+    "path": "modules/core/agent-stats-panel-320/",
+    "thumbnail": "thumbnails/agent-stats-panel-320.png"
   }
 ]
