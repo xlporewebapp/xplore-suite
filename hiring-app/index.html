@@ -1,1 +1,28 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>XPLORE Hiring Portal</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🧑‍💼 XPLORE Hiring Desk</h1>
+    <p>Track and manage your job applicants</p>
+  </header>
+  <main>
+    <section class="applicant-form">
+      <h2>Add Applicant</h2>
+      <input id="applicantName" placeholder="Applicant Name" />
+      <input id="applicantEmail" placeholder="Email" />
+      <button onclick="addApplicant()">➕ Add to Queue</button>
+    </section>
+    <section>
+      <h2>📋 Applicant Queue</h2>
+      <ul id="applicantList"></ul>
+    </section>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
