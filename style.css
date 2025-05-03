@@ -1,0 +1,100 @@
+
+/* General layout reset */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f7f9fc;
+  color: #333;
+}
+
+/* Header */
+header {
+  background: #1f1f2e;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Controls */
+.controls, .section.controls {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  padding: 20px;
+  background: #ffffff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+input#searchInput, select#categorySelect {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+/* Module Grid Layout */
+.module-grid, .grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(18%, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+/* Module Card Styling */
+.module-card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.08);
+  padding: 16px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.module-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.12);
+}
+
+/* Module Thumbnail */
+.module-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 12px;
+  max-height: 120px;
+  object-fit: contain;
+}
+
+/* Module Title */
+.module-card h3 {
+  font-size: 1.1rem;
+  margin: 0 0 8px 0;
+}
+
+/* Module Description */
+.module-card p {
+  font-size: 0.95rem;
+  color: #555;
+}
+
+/* Tags */
+.module-card .tags {
+  margin-top: 10px;
+  font-size: 0.8rem;
+  color: #888;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 0.85rem;
+  color: #777;
+  background-color: #f0f0f0;
+  border-top: 1px solid #ddd;
+}
