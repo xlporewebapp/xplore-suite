@@ -52,3 +52,26 @@ function filterModules() {
   );
   renderModules(filtered);
 }
+let stack = [];
+
+function addToStack(module) {
+  if (!stack.includes(module)) {
+    stack.push(module);
+    alert(`${module.name} added to your stack!`);
+    updateStackDisplay();
+  }
+}
+
+function updateStackDisplay() {
+  const stackBtn = document.getElementById("viewStackBtn");
+  if (stack.length > 0) {
+    stackBtn.innerText = `🧰 View Stack (${stack.length})`;
+    stackBtn.style.display = "inline-block";
+  } else {
+    stackBtn.style.display = "none";
+  }
+}
+
+function showStack() {
+  alert("Your Stack:\n\n" + stack.map(m => `- ${m.name}`).join("\n"));
+}
