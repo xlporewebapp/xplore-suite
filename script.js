@@ -1,50 +1,43 @@
-let allModules = [];
-fetch('modules_detailed_v8_descriptions.json')
-  .then(res => res.json())
-  .then(data => {
-    allModules = data;
-    populateCategoryDropdown(data);
-    renderModules(data);
-  });
 
-function populateCategoryDropdown(data) {
-  const select = document.getElementById('categorySelect');
-  const cats = [...new Set(data.map(m => m.category))];
-  cats.forEach(cat => {
-    const option = document.createElement('option');
-    option.value = cat;
-    option.textContent = cat;
-    select.appendChild(option);
-  });
+const modulesContainer = document.getElementById('modulesContainer');
+const categoryFilter = document.getElementById('categoryFilter');
+const searchInput = document.getElementById('searchInput');
+const stackList = document.getElementById('stackList');
+
+const sampleModules = [
+  { id: 1, title: 'Ecommerce Module 1', category: 'ecommerce', tags: ['checkout', 'cart'] },
+  { id: 2, title: 'Marketing Module 3', category: 'marketing', tags: ['leads', 'outreach'] },
+  { id: 3, title: 'Tools Module 8', category: 'tools', tags: ['utility'] }
+];
+
+const stack = JSON.parse(localStorage.getItem('myStack') || '[]');
+function saveStack() {
+  localStorage.setItem('myStack', JSON.stringify(stack));
+  renderStack();
 }
-
+function renderStack() {
+  stackList.innerHTML = stack.map(item => `<li>${item.title}</li>`).join('');
+}
 function renderModules(modules) {
-  const container = document.getElementById('moduleContainer');
-  container.innerHTML = '';
-  modules.forEach(module => {
+  modulesContainer.innerHTML = '';
+  modules.forEach(mod => {
     const card = document.createElement('div');
-    card.className = `module-card tier-${module.tier}`;
-    const tags = module.tags.map(tag => `<span class="tag">${tag}</span>`).join('');
-    card.innerHTML = `
-      <h3>${module.icon} ${module.name}</h3>
-      <p>${module.description}</p>
-      <strong>Category:</strong> ${module.category}<br>
-      <div>${tags}</div>
-      <button onclick="alert('Installing ${module.name}')">Install</button>
-    `;
-    container.appendChild(card);
+    card.className = 'module-card';
+    card.innerHTML = `<h3>${mod.title}</h3><p>Category: ${mod.category}</p>
+    <p>Tags: ${mod.tags.join(', ')}</p>
+    <button onclick='addToStack(${JSON.stringify(mod)})'>Install</button>`;
+    modulesContainer.appendChild(card);
   });
 }
-
-document.getElementById('searchInput').addEventListener('input', filterModules);
-document.getElementById('categorySelect').addEventListener('change', filterModules);
-
-function filterModules() {
-  const term = document.getElementById('searchInput').value.toLowerCase();
-  const category = document.getElementById('categorySelect').value;
-  const filtered = allModules.filter(m =>
-    (term === '' || m.name.toLowerCase().includes(term) || m.description.toLowerCase().includes(term)) &&
-    (category === 'all' || m.category === category)
-  );
-  renderModules(filtered);
+function addToStack(module) {
+  if (!stack.find(m => m.id === module.id)) {
+    stack.push(module);
+    saveStack();
+  }
 }
+searchInput.addEventListener('input', () => {
+  const val = searchInput.value.toLowerCase();
+  renderModules(sampleModules.filter(m => m.title.toLowerCase().includes(val)));
+});
+renderModules(sampleModules);
+renderStack();

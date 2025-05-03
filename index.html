@@ -1,17 +1,26 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>ModuleDropper v8</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>Welcome to ModuleDropper v8</h1>
-  <p>Explore and test 200 modules. Click "Install" to try any.</p>
-  <input type="text" id="searchInput" placeholder="Search modules..." />
-  <select id="categorySelect"><option value="all">All Categories</option></select>
-  <div id="moduleContainer" class="module-grid"></div>
+  <div class="container">
+    <h1>Welcome to <span>ModuleDropper v8</span></h1>
+    <p>Explore and test 200 modules. Click "Install" to try any.</p>
+    <div class="controls">
+      <input type="text" id="searchInput" placeholder="Search modules..." />
+      <select id="categoryFilter"><option>All Categories</option></select>
+    </div>
+    <div id="modulesContainer" class="modules-grid"></div>
+    <div class="stack-panel">
+      <h2>My Stack</h2>
+      <ul id="stackList"></ul>
+    </div>
+  </div>
   <script src="script.js"></script>
 </body>
 </html>
