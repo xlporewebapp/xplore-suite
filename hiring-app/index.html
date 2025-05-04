@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -19,7 +19,13 @@
       <input type="text" placeholder="Full Name" id="fullName" required />
       <input type="email" placeholder="Email Address" id="email" required />
       <input type="text" placeholder="Phone Number" id="phone" required />
-      <input type="text" placeholder="Position Desired" id="position" required />
+      <select id="position" required>
+      <option disabled selected>Select Desired Position</option>
+      <option value="Front Sale Agent">Front Sale Agent</option>
+      <option value="Upsell Agent">Upsell Agent</option>
+      <option value="Recruiter">Recruiter</option>
+      <option value="Manager">Manager</option>
+      </select>
 
       <select id="referredBy">
         <option disabled selected>Referred By (Select Recruiter)</option>
