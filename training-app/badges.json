@@ -1,14 +1,14 @@
 [
   {
-    "name": "XPLORE Rookie",
-    "image": "https://xploresuite.com/assets/badges/rookie.png"
+    "name": "Starter Badge",
+    "image": "assets/logo.png"
   },
   {
-    "name": "Lesson Complete",
-    "image": "https://xploresuite.com/assets/badges/completion.png"
+    "name": "Progress Pro",
+    "image": "assets/logo.png"
   },
   {
-    "name": "Training Champion",
-    "image": "https://xploresuite.com/assets/badges/champion.png"
+    "name": "XPLORE Champ",
+    "image": "assets/logo.png"
   }
 ]

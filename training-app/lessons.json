@@ -1,22 +1,17 @@
 [
   {
-    "title": "Introduction to XPLORE",
+    "id": "lesson1",
+    "title": "Welcome to XPLORE Training",
     "completed": false
   },
   {
-    "title": "Using the Dashboard",
+    "id": "lesson2",
+    "title": "Your First Task",
     "completed": false
   },
   {
-    "title": "Completing Your First Task",
-    "completed": false
-  },
-  {
-    "title": "Earning Your First Badge",
-    "completed": false
-  },
-  {
-    "title": "Exploring the App Marketplace",
+    "id": "lesson3",
+    "title": "Understanding the Platform",
     "completed": false
   }
 ]
