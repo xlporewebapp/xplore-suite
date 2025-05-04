@@ -1,67 +1,54 @@
-let applicants = JSON.parse(localStorage.getItem("applicants") || "[]");
+let allModules = [];
 
-function saveApplicants() {
-  localStorage.setItem("applicants", JSON.stringify(applicants));
-}
+fetch('modules.json')
+  .then(res => res.json())
+  .then(data => {
+    allModules = data;
+    document.getElementById('moduleCount').textContent = `${data.length} Modules Available`;
+    populateCategoryDropdown(data);
+    renderModules(data);
+  });
 
-function renderApplicants(list = applicants) {
-  const tbody = document.querySelector("#queueTable tbody");
-  tbody.innerHTML = "";
-  list.forEach((app, index) => {
-    const row = document.createElement("tr");
-    row.innerHTML = \`
-      <td>\${app.name}</td>
-      <td>\${app.email}</td>
-      <td>\${app.role}</td>
-      <td>\${app.status}</td>
-      <td>
-        <button onclick="deleteApplicant(\${index})">🗑 Delete</button>
-      </td>
-    \`;
-    tbody.appendChild(row);
+function populateCategoryDropdown(data) {
+  const select = document.getElementById('categorySelect');
+  const uniqueCategories = [...new Set(data.map(m => m.category))];
+  uniqueCategories.sort();
+  uniqueCategories.forEach(cat => {
+    const option = document.createElement('option');
+    option.value = cat;
+    option.textContent = cat.charAt(0).toUpperCase() + cat.slice(1);
+    select.appendChild(option);
   });
 }
 
-function addApplicant() {
-  const name = document.getElementById("name").value.trim();
-  const email = document.getElementById("email").value.trim();
-  const role = document.getElementById("role").value;
-  const status = document.getElementById("status").value;
-
-  if (!name || !email || !role || !status) return alert("Fill all fields");
-
-  applicants.push({ name, email, role, status });
-  saveApplicants();
-  renderApplicants();
+function renderModules(modules) {
+  const container = document.getElementById('moduleContainer');
+  container.innerHTML = '';
+  modules.forEach(module => {
+    const card = document.createElement('div');
+    card.className = `module-card tier-${module.tier}`;
+    const tags = module.tags.map(tag => `<span class="tag">${tag}</span>`).join(' ');
+    card.innerHTML = `
+      <img src="${module.thumbnail}" alt="${module.name}" class="thumb" onerror="this.style.display='none'" />
+      <h3>${module.icon} ${module.name}</h3>
+      <p>${module.description}</p>
+      <strong>Category:</strong> ${module.category}<br>
+      <div>${tags}</div>
+      <button onclick="alert('Installing ${module.name}')">Install</button>
+    `;
+    container.appendChild(card);
+  });
 }
 
-function deleteApplicant(index) {
-  applicants.splice(index, 1);
-  saveApplicants();
-  renderApplicants();
-}
+document.getElementById('searchInput').addEventListener('input', filterModules);
+document.getElementById('categorySelect').addEventListener('change', filterModules);
 
-function filterApplicants() {
-  const role = document.getElementById("filterRole").value;
-  const status = document.getElementById("filterStatus").value;
-  const filtered = applicants.filter(a =>
-    (role === "" || a.role === role) &&
-    (status === "" || a.status === status)
+function filterModules() {
+  const term = document.getElementById('searchInput').value.toLowerCase();
+  const category = document.getElementById('categorySelect').value;
+  const filtered = allModules.filter(m =>
+    (term === '' || m.name.toLowerCase().includes(term) || m.description.toLowerCase().includes(term)) &&
+    (category === 'all' || m.category === category)
   );
-  renderApplicants(filtered);
+  renderModules(filtered);
 }
-
-function exportCSV() {
-  const rows = [["Name", "Email", "Role", "Status"]];
-  applicants.forEach(a => rows.push([a.name, a.email, a.role, a.status]));
-  let csvContent = "data:text/csv;charset=utf-8," + rows.map(e => e.join(",")).join("\n");
-  const encodedUri = encodeURI(csvContent);
-  const link = document.createElement("a");
-  link.setAttribute("href", encodedUri);
-  link.setAttribute("download", "applicants.csv");
-  document.body.appendChild(link);
-  link.click();
-  document.body.removeChild(link);
-}
-
-renderApplicants();
