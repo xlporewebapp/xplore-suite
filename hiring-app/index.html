@@ -1,1 +1,37 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>XPLORE Job Application</title>
+  <link rel="stylesheet" href="jobapp-style.css" />
+</head>
+<body>
+  <header>
+    <img src="branding/logo.png" alt="XPLORE Logo" class="logo" />
+    <h1>XPLORE Job Application</h1>
+    <p>Apply now to join our remote team!</p>
+  </header>
+  <main>
+    <form id="jobAppForm">
+      <input type="text" placeholder="Full Name" required /><br/>
+      <input type="email" placeholder="Email Address" required /><br/>
+      <input type="tel" placeholder="Phone Number" required /><br/>
+      <input type="text" placeholder="Position Desired" required /><br/>
+      <select>
+        <option>Referred By (Select Recruiter)</option>
+        <option>Recruiter A</option>
+        <option>Recruiter B</option>
+      </select><br/>
+      <input type="text" placeholder="Full Address" required /><br/>
+      <label>Upload Resume: <input type="file" /></label><br/>
+      <label>Upload ID: <input type="file" /></label><br/>
+      <label><input type="checkbox" required /> I agree to the XPLORE Terms</label><br/>
+      <label><input type="checkbox" required /> I accept the 1099</label><br/>
+      <button type="submit">Submit Application</button>
+    </form>
+  </main>
+  <footer><p>© 2025 XPLORE Enterprise</p></footer>
+  <script src="jobapp-script.js"></script>
+</body>
+</html>
