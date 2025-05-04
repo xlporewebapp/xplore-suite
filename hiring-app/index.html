@@ -154,5 +154,16 @@
 
     loadRecruiters();
   </script>
+  <script>
+  function toggleManualEntry() {
+    const dropdown = document.getElementById('referredBy');
+    const manualInput = document.getElementById('manualRecruiter');
+    if (dropdown.value === 'other') {
+      manualInput.style.display = 'block';
+    } else {
+      manualInput.style.display = 'none';
+    }
+  }
+</script>
 </body>
 </html>
