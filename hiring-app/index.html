@@ -8,30 +8,26 @@
 </head>
 <body>
   <header>
-    <img src="assets/logo.png" alt="XPLORE Logo" />
+    <img src="logo.png" alt="XPLORE Logo" class="logo" />
     <h1>XPLORE Job Application</h1>
     <p>Apply now to join our remote team!</p>
   </header>
-  <main>
-    <form id="jobAppForm">
-      <input type="text" placeholder="Full Name" name="fullName" required /><br />
-      <input type="email" placeholder="Email Address" name="email" required /><br />
-      <input type="text" placeholder="Phone Number" name="phone" required /><br />
-      <input type="text" placeholder="Position Desired" name="position" required /><br />
-      <select id="referredBy" name="referredBy">
-        <option>Referred By (Select Recruiter)</option>
-      </select><br />
-      <textarea name="address" placeholder="Full Address"></textarea><br />
-      Upload Resume: <input type="file" name="resume" /><br />
-      Upload ID: <input type="file" name="idUpload" /><br />
-      <input type="checkbox" required /> I agree to the XPLORE Terms<br />
-      <input type="checkbox" required /> I accept the 1099<br />
-      <button type="submit">Submit Application</button>
-    </form>
-  </main>
-  <footer>
-    <p>&copy; 2025 XPLORE Enterprise</p>
-  </footer>
+
+  <form id="jobAppForm">
+    <input type="text" placeholder="Full Name" required />
+    <input type="email" placeholder="Email Address" required />
+    <input type="tel" placeholder="Phone Number" />
+    <input type="text" placeholder="Position Desired" />
+    <select><option>Referred By (Select Recruiter)</option></select>
+    <textarea placeholder="Full Address"></textarea>
+    <label>Upload Resume: <input type="file" /></label><br />
+    <label>Upload ID: <input type="file" /></label><br />
+    <label><input type="checkbox" /> I agree to the XPLORE Terms</label><br />
+    <label><input type="checkbox" /> I accept the 1099</label><br />
+    <button type="submit">Submit Application</button>
+  </form>
+
+  <footer>© 2025 XPLORE Enterprise</footer>
   <script src="script.js"></script>
 </body>
 </html>
