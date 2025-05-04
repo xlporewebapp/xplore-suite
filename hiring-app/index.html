@@ -28,7 +28,14 @@
       </select>
 
       <select id="referredBy">
-        <option disabled selected>Referred By (Select Recruiter)</option>
+      <label for="referredBy">Referred By:</label>
+      <select id="referredBy" onchange="toggleManualEntry()">
+      <option disabled selected>Select Recruiter</option>
+      </select>
+
+<!-- Manual entry input -->
+<input type="text" id="manualRecruiter" placeholder="Or type recruiter name..." style="display:none;" />
+
       </select>
 
       <textarea placeholder="Full Address" id="address" required></textarea>
